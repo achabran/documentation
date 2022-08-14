@@ -1,0 +1,27 @@
+version: "3"
+services:
+  hugo_doc:
+    image: gohugoio/hugo
+
+    volumes:
+      - ./hugo_files:/hugo_files
+
+
+    networks:
+      - frontend
+
+    command: "sleep 30d"
+
+    # labels:
+    #   - traefik.enable=true
+    #   - traefik.docker.network=frontend
+
+    #   - traefik.http.routers.hugo_doc.rule=Host(`doc.tibillet.re`)
+    #   - traefik.http.routers.hugo_doc.tls.certresolver=myresolver
+      # - traefik.http.services.hugo_doc.loadbalancer.server.port=8884
+
+networks:
+  frontend:
+    external: true
+
+
