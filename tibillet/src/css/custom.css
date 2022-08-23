@@ -5,6 +5,18 @@
  */
 
 /* You can override the default Infima variables here. */
+@font-face {
+    font-family: "BeStrong";
+    src: url(/static/fonts/Be Strong regular.otf);
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+.hero__title{
+  font-family: "BeStrong";
+}
+
 :root {
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
