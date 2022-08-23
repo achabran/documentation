@@ -2,46 +2,36 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+**TiBillet** est un système de paiement sans contact Zéro Espèce ( Cashless ), de gestion d'évènements, de gestion de salles de restauration, d'engagement associatif et d'achat de billets en ligne … mais pas uniquement !
 
-## Getting Started
+C'est aussi un outil de mise en réseau et de gestion d'une monnaie locale et commune à plusieurs lieux.
 
-Get started by **creating a new site**.
+Open-source, blockchain et fédération, **TiBillet** permet la création d'une économie sociale et solidaire à l'échelle d'un territoire. 
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Contactez-nous sur **[Discord](https://discord.gg/7FJvtYx)** !
 
-### What you'll need
+## Démonstration
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### Boutik démo ( nighty build ) :
 
-## Generate a new site
+Meta :
+**[https://run.betabillet.tech](https://run.betabillet.tech)**
+ 
+Tenant :
+**[https://raffinerie.betabillet.tech](https://raffinerie.betabillet.tech)**
+   
 
-Generate a new Docusaurus site using the **classic template**.
+### Cashless démo ( nighty build ) :
 
-The classic template will automatically be added to your project after you run the command:
+admin : 
+**[https://democashless.betabillet.art](https://democashless.betabillet.art)**
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+    login : adminou
+    password : miaoumiaou
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+Application ( Pi ou Android ):
+**[https://democashless.betabillet.art/wv](https://democashless.betabillet.art/wv)**
 
-The command also installs all necessary dependencies you need to run Docusaurus.
 
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
