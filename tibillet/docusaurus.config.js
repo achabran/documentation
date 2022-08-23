@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'TiBillet',
   tagline: "L'événementiel coopératif",
-  url: 'https://www.tibillet.org',
-  baseUrl: '/',
+  url: 'https://tibillet.github.io',
+  baseUrl: '/documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/TiBillet/documentation/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/TiBillet/documentation/tree/main/tibillet/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/TiBillet/documentation/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/TiBillet/documentation/tree/main/tibillet/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
