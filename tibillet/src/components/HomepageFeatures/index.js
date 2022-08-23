@@ -48,7 +48,7 @@ const FeatureList = [
         Svg: require('@site/static/img/undraw_open_source_-1-qxw.svg').default,
         description: (
             <>
-                Parce que nous constuisons un outil de confiance, le code de TiBillet est audité régulièrement,
+                Parce que nous constuisons un outil qui à besoin de votre confiance, le code de TiBillet est audité régulièrement,
                 publié sous licence SSPL et disponible sur github.
             </>
         ),
