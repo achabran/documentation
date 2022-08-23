@@ -1,0 +1,3 @@
+[submodule "hugo_files/documentation/themes/ananke"]
+	path = hugo_files/documentation/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
