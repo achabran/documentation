@@ -8,8 +8,8 @@ const FeatureList = [
         Svg: require('@site/static/img/undraw_report_re_f5n5.svg').default,
         description: (
             <>
-                Billetterie, cashless, monnaies temps et locales, adhésions associatives, cartes de fidélités, promotions évènementielle, outil de
-                gestion de café associatif et de restaurant... TiBillet est un vrai couteau suisse.
+                Une suite d'applications pour gérer de l'évenementiel éthique :
+                Adhésion, billeterie, cashless, monnaie locales, monnaie temps, gestion de buvette et de restauration.
             </>
         ),
     },
@@ -18,7 +18,7 @@ const FeatureList = [
         Svg: require('@site/static/img/undraw_world_re_768g.svg').default,
         description: (
             <>
-                TiBillet met en relation artistes, organisateurs, festivaliers et institutions.
+                TiBillet met en relation artistes, organisateurs, publics et institutions.
                 Un seul outil pour toute la fillière culturelle.
             </>
         ),
