@@ -3,62 +3,91 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 
 const FeatureList = [
-  {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
-  },
-  {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
-  },
+    {
+        title: 'Outil 360°',
+        Svg: require('@site/static/img/undraw_report_re_f5n5.svg').default,
+        description: (
+            <>
+                Billetterie, cashless, monnaies temps et locales, adhésions associatives, cartes de fidélités, promotions évènementielle, outil de
+                gestion de café associatif et de restaurant... TiBillet est un vrai couteau suisse.
+            </>
+        ),
+    },
+    {
+        title: 'Créateur de réseau',
+        Svg: require('@site/static/img/undraw_world_re_768g.svg').default,
+        description: (
+            <>
+                TiBillet met en relation artistes, organisateurs, festivaliers et institutions.
+                Un seul outil pour toute la fillière culturelle.
+            </>
+        ),
+    },
+    {
+        title: 'Social et solidaire',
+        Svg: require('@site/static/img/undraw_share_link_re_54rx.svg').default,
+        description: (
+            <>
+                TiBillet est une société coopérative d'intérêt commun. Rejoignez l'aventure d'un collectif et inscrivez vous dans
+                l'économie sociale et solidaire !
+            </>
+        ),
+    },
+    {
+        title: 'Low Tech',
+        Svg: require('@site/static/img/undraw_ride_a_bicycle_re_6tjy.svg').default,
+        description: (
+            <>
+                Utilisez votre propre matériel existant ou DIY ! TiBillet est conçu pour être bas carbone,
+                perenne et facilement maintenable.
+            </>
+        ),
+    },
+    {
+        title: 'Open Source',
+        Svg: require('@site/static/img/undraw_open_source_-1-qxw.svg').default,
+        description: (
+            <>
+                Parce que nous constuisons un outil de confiance, le code de TiBillet est audité régulièrement,
+                publié sous licence SSPL et disponible sur github.
+            </>
+        ),
+    },
+        {
+        title: "Créateurs d'évènements",
+        Svg: require('@site/static/img/undraw_compose_music_re_wpiw.svg').default,
+        description: (
+            <>
+                TiBillet est fabriqué pour et par des association culturelle ! Tiers-lieux, FabLab, venez nous voir sur l'île de la Réunion :)
+            </>
+        ),
+    },
 ];
 
 function Feature({Svg, title, description}) {
-  return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
-        <p>{description}</p>
-      </div>
-    </div>
-  );
+    return (
+        <div className={clsx('col col--4')}>
+            <div className="text--center">
+                <Svg className={styles.featureSvg} role="img"/>
+            </div>
+            <div className="text--center padding-horiz--md">
+                <h3>{title}</h3>
+                <p>{description}</p>
+            </div>
+        </div>
+    );
 }
 
 export default function HomepageFeatures() {
-  return (
-    <section className={styles.features}>
-      <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
-        </div>
-      </div>
-    </section>
-  );
+    return (
+        <section className={styles.features}>
+            <div className="container">
+                <div className="row">
+                    {FeatureList.map((props, idx) => (
+                        <Feature key={idx} {...props} />
+                    ))}
+                </div>
+            </div>
+        </section>
+    );
 }

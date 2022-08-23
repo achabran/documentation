@@ -1,17 +1,17 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+jonas:
+  name: Jonas TURBEAUX
+  title: Architect and Maintainer of TiBillet
+  url: https://github.com/Nasjoe
+  image_url: https://avatars.githubusercontent.com/u/2736977?s=96&v=4
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+nicolas:
+  name: Nicolas DIJOUX
+  title: Front End Engineer
+  url: https://github.com/filaos974
+  image_url: https://avatars.githubusercontent.com/u/98577518?v=4
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
+axel:
+  name: Axel CHABRAN
+  title: Project Manager
+  url: https://axelchabran.com
   image_url: https://github.com/slorber.png

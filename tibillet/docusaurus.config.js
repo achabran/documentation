@@ -121,7 +121,7 @@ const config = {
             ],
           },
         ],
-        copyright: `MIT Licence @ ${new Date().getFullYear()} - SCIC TiBillet Coop. Built with Docusaurus.`,
+        copyright: `MIT Licence @ ${new Date().getFullYear()} - SCIC TiBillet Coop. Built with Docusaurus. Illustration by undraw.co`,
       },
       prism: {
         theme: lightCodeTheme,
