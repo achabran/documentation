@@ -1,2 +1,2 @@
 npm install
-npx run build
+npm run build
