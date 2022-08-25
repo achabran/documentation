@@ -60,7 +60,7 @@ const config = {
                 title: 'TiBillet',
                 logo: {
                     alt: 'My Site Logo',
-                    src: 'img/logoTibMj300.png',
+                    src: 'img/logoTibMJ4300.png',
                 },
                 items: [
                     {
