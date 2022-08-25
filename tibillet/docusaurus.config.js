@@ -9,7 +9,7 @@ const config = {
     title: 'TiBillet',
     tagline: "L'événementiel coopératif",
     url: 'https://tibillet.github.io',
-    baseUrl: '/documentation/',
+    baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
