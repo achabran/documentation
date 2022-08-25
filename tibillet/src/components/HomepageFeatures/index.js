@@ -38,8 +38,8 @@ const FeatureList = [
         Svg: require('@site/static/img/undraw_ride_a_bicycle_re_6tjy.svg').default,
         description: (
             <>
-                Utilisez votre propre matériel existant ou DIY ! TiBillet est conçu pour être bas carbone,
-                perenne et facilement maintenable.
+                Utilisez votre propre matériel existant ou DIY ! TiBillet est conçu pour être mutualisé,
+                pérenne et facilement maintenable : 100% Open Hardware !
             </>
         ),
     },

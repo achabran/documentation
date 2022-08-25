@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="network and cooperative tools for organisations and artists">
+      description="Ticketing, cashless and cooperative tools for organisations and artists">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
