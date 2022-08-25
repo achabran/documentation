@@ -30,8 +30,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Docs for ${siteConfig.title}`}
-      description="Ticketing and social network for artist and organisations">
+      title={`${siteConfig.title}`}
+      description="network and cooperative tools for organisations and artists">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
