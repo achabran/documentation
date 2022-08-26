@@ -9,7 +9,7 @@ const FeatureList = [
         description: (
             <>
                 Une suite d'applications pour gérer de l'évenementiel éthique :
-                Adhésion, billeterie, cashless, monnaie locales, monnaie temps, gestion de buvette et de restauration.
+                Adhésion, billeterie, cashless, monnaie locale, monnaie temps, gestion de buvette et de restauration.
             </>
         ),
     },
@@ -58,7 +58,7 @@ const FeatureList = [
         Svg: require('@site/static/img/undraw_compose_music_re_wpiw.svg').default,
         description: (
             <>
-                TiBillet est fabriqué pour et par des association culturelle ! Tiers-lieux, FabLab, venez nous voir sur l'île de la Réunion :)
+                TiBillet est fabriqué pour et par des associations culturelles ! Tiers-lieux, FabLab, venez nous voir sur l'île de la Réunion :)
             </>
         ),
     },

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-**TiBillet** est un système de paiement sans contact Zéro Espèce ( Cashless ), de gestion d'évènements, de gestion de salles de restauration, d'engagement associatif et d'achat de billets en ligne … mais pas uniquement !
+**TiBillet** est un système de paiement sans contact, zéro espèce (cashless), de gestion d'évènement, de gestion de salle de restauration, d'engagement associatif et d'achat de billets en ligne … mais pas uniquement !
 
 C'est aussi un outil de mise en réseau et de gestion d'une monnaie locale et commune à plusieurs lieux.
 
