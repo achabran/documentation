@@ -25,13 +25,12 @@ Tenant :
 
 ### Cashless démo ( nighty build ) :
 
-admin : 
+administration : 
 **[https://democashless.betabillet.art](https://democashless.betabillet.art)**
 
     login : adminou
     password : miaoumiaou
 
-Application ( Pi ou Android ):
-**[https://democashless.betabillet.art/wv](https://democashless.betabillet.art/wv)**
+Pour tester l'application ( Pi ou Android ), cliquez sur " voir le site " tout en haut du menu.
 
 
