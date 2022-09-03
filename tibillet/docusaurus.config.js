@@ -88,6 +88,8 @@ const config = {
                         sidebarId: 'api',
                         label: 'API',
                     },
+                    {to: '/roadmap', label: 'Roadmap', position: 'left'},
+
                 ],
             },
             footer: {
