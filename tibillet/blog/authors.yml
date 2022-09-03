@@ -1,17 +1,17 @@
 jonas:
   name: Jonas TURBEAUX
-  title: Architect and Maintainer of TiBillet
+  title: Architect and Lead dev backend.
   url: https://github.com/Nasjoe
   image_url: https://avatars.githubusercontent.com/u/2736977?s=96&v=4
 
 nicolas:
   name: Nicolas DIJOUX
-  title: Front End Engineer
+  title: Lead dev Frontend.
   url: https://github.com/filaos974
   image_url: https://avatars.githubusercontent.com/u/98577518?v=4
 
 axel:
   name: Axel CHABRAN
-  title: Project Manager
+  title: Project Manager.
   url: https://axelchabran.com
   image_url: https://github.com/slorber.png

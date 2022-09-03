@@ -10,6 +10,7 @@ const config = {
     tagline: "L'événementiel coopératif",
     url: 'https://tibillet.github.io',
     baseUrl: '/',
+    // baseUrl: '/documentation/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
@@ -64,16 +65,28 @@ const config = {
                 },
                 items: [
                     {
+                        type: 'docSidebar',
+                        position: 'left',
+                        sidebarId: 'presentation',
+                        label: 'Presentation',
+                    },
+                    {to: '/blog', label: 'Blog', position: 'left'},
+                    {
                         type: 'doc',
-                        docId: 'intro',
+                        docId: '/category/documentation-utilisateur',
                         position: 'left',
                         label: 'Docs',
                     },
-                    {to: '/blog', label: 'Blog', position: 'left'},
                     {
                         href: 'https://github.com/TiBillet',
                         label: 'GitHub',
                         position: 'right',
+                    },
+                    {
+                        type: 'docSidebar',
+                        position: 'left',
+                        sidebarId: 'api',
+                        label: 'API',
                     },
                 ],
             },
@@ -85,7 +98,7 @@ const config = {
                         items: [
                             {
                                 label: 'Documentation',
-                                to: '/docs/intro',
+                                to: '/docs/category/documentation-utilisateur',
                             },
                             {
                                 label: 'API',
