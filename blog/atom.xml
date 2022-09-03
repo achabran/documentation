@@ -2,59 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tibillet.github.io/documentation/blog</id>
     <title>TiBillet Blog</title>
-    <updated>2022-09-03T00:00:00.000Z</updated>
+    <updated>2022-09-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tibillet.github.io/documentation/blog"/>
     <subtitle>TiBillet Blog</subtitle>
     <icon>https://tibillet.github.io/documentation/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Philosophie]]></title>
-        <id>philosophie</id>
-        <link href="https://tibillet.github.io/documentation/blog/philosophie"/>
-        <updated>2022-09-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Organisatrice d'évènements culturels (Manapany Festival, Dimanches du Sud Sauvages) depuis le début des années 2000,]]></summary>
-        <content type="html"><![CDATA[<p>Organisatrice d'évènements culturels (Manapany Festival, Dimanches du Sud Sauvages) depuis le début des années 2000,
-l'association
-sportive et culturelle des 3 Peaks de Manapany, développe depuis une dizaine d'années des outils numériques idéalement
-adaptés à la gestion de ses activités (cashless, billetterie, adhésion, café associatif ...).</p><p>Mené par plusieurs membres de l'association, le projet réunit aujourd'hui, ingénieurs du son, régisseuses, développeurs
-informatique, makers, libristes et créateurs de solutions open-source. Un réseau regroupant le monde de la culture, de
-la création de commun et de l'informatique libre.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="motivation-dentreprendre-du-commun">Motivation d'entreprendre du commun<a class="hash-link" href="#motivation-dentreprendre-du-commun" title="Lien direct vers le titre">​</a></h2><p>Bénévoles associatifs, libristes, créateurs du commun en tiers lieux, nous sommes persuadés que l'économie sociale et
-solidaire peut répondre aux enjeux modernes. Créer ensemble, en coopérative pour repenser la création de valeurs.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="quelle-est-votre-différence-">Quelle est votre différence ?<a class="hash-link" href="#quelle-est-votre-différence-" title="Lien direct vers le titre">​</a></h2><p>Low-tech et récupération</p><p>Nous apportons une solution de cashless et de billetterie pour les petites structures oubliées des grandes entreprises
-du domaine dont les tarifs sont souvent rédhibitoires.</p><p>A coût très inférieur au marché ( dans la mouvance low-tech ), TiBillet est gratuit pour l'utilisateur, prix coûtant
-pour l'organisateur. Zéro commission pour la coop !</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="cest-un-modèle-interopérable-et-coopératif-">C'est un modèle interopérable et coopératif :<a class="hash-link" href="#cest-un-modèle-interopérable-et-coopératif-" title="Lien direct vers le titre">​</a></h3><p>Rechargez votre carte à la Raffinerie ? Dépensez le reste pour acheter une place de concert au Bisik de Saint-Benoît !
-Vous proposez un dîner dansant à Saint-Philippe ? Toute la coopérative fera la promotion de votre évènement !</p><p>Vous êtes un festivalier aguerri ? Votre carte cashless est valable à vie, inutile de se presser à la fin de l'évènement
-pour se faire rembourser, et finit la collection de cartes jetables, car à usage unique.</p><p>Enfin, avec la structuration en Société Coopérative d’Intérêt Commun, TiBillet est développé dans un but non lucratif :
-tous
-les bénéfices sont injectés dans le réseau des lieux sociétaires pour financer encore plus d'évènements. Tout le
-monde est gagnant.</p><p>Autrement dit : Dans un milieu dominé par un monopole, nous créons une économie sociale et solidaire : TiBillet ne coute
-pas, il rapporte !</p><p>Ah, une dernière chose : TiBillet est open-source !</p>]]></content>
-        <author>
-            <name>Jonas TURBEAUX</name>
-            <uri>https://github.com/Nasjoe</uri>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Présentation]]></title>
         <id>first-blog-post</id>
         <link href="https://tibillet.github.io/documentation/blog/first-blog-post"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TiBillet est un système de paiement sans contact Zéro Espèce ( Cashless ),]]></summary>
-        <content type="html"><![CDATA[<p>TiBillet est un système de paiement sans contact Zéro Espèce ( Cashless ),
-de gestion d'évènements, de gestion de salles de restauration,
-d'engagement associatif et d'achat de billets en ligne … mais pas uniquement !</p><p>C'est aussi un outil de mise en réseau et de gestion d'une monnaie locale
-et commune à plusieurs lieux.</p><p>Open-source, basé sur une blockchain et construit en réseau décentralisé, TiBillet permet la création d'une économie
-sociale et solidaire à l'échelle d'un territoire.</p><h1>Vous avez dit Cashless ?</h1><p>La technologie du paiement dématérialisé permet de supprimer les espèces
-à l'aide d'une carte sans contact (NFC), d'un bracelet ou d'un
-porte clef unique qui sert à la fois de carte d'adhésion associative
-personnelle et de portefeuille numérique.</p><p>Il permet d'améliorer le paiement, la préparation,
-le service et de faciliter la prise de commandes lors d'événements ouverts au public.</p><p>La carte est rechargeable sur le lieu de l'évènement,
-préalablement lors de l'achat / réservation du billet en ligne,
-ou en totale autonomie, en scannant directement le QR-code de la carte.</p><p>Ce système permet de centraliser en un point unique la caisse d'espèces
-et le terminal de paiement par carte bleue, afin de réduire les coûts et
-d'améliorer la sécurité du site.</p><p>Rien de nouveau ! Une grande majorité de festivaliers est aujourd'hui habitué
-à ce système, mais TiBillet propose d'aller un peu plus loin :</p><p>L'outil fait aussi Caisse enregistreuse, traçabilité financière,
-gestion d'inventaire et outils de gestion de salle de restauration :</p><p>Vous pouvez envoyer grâce à l'application smartphone directement
-les commandes qui seront imprimées en cuisine !</p><h1>Quelles sont vos valeurs ?</h1><p>Pour apporter une solution coopérative et actuellement inaccessible aux petites ou jeunes structures.</p><p>Pour créer un système de monnaie "temps" pour la gestion du bénévolat, et de monnaie locale à l'échelle d'un territoire.</p><p>Pour une solution innovante mais écologique : TiBillet s'inscrit dans la Low-tech et les réseaux de Fablabs locaux pour une empreinte carbone la plus faible possible.</p><p>Pour répondre aux besoins d'une fédération de Tiers-lieux à l’échelle du territoire Réunionnais.</p><p>Pour réfléchir ensemble à une nouvelle façon de créer de la valeur en commun.</p>]]></content>
+        <updated>2022-09-01T00:00:00.000Z</updated>
         <author>
             <name>Jonas TURBEAUX</name>
             <uri>https://github.com/Nasjoe</uri>
