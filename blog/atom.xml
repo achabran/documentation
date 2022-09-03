@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tibillet.github.io/documentation/blog</id>
     <title>TiBillet Blog</title>
-    <updated>2019-05-28T00:00:00.000Z</updated>
+    <updated>2022-09-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tibillet.github.io/documentation/blog"/>
     <subtitle>TiBillet Blog</subtitle>
     <icon>https://tibillet.github.io/documentation/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Philosophie]]></title>
+        <id>philosophie</id>
+        <link href="https://tibillet.github.io/documentation/blog/philosophie"/>
+        <updated>2022-09-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Organisatrice d'évènements culturels (Manapany Festival, Dimanches du Sud Sauvages) depuis le début des années 2000,]]></summary>
+        <content type="html"><![CDATA[<p>Organisatrice d'évènements culturels (Manapany Festival, Dimanches du Sud Sauvages) depuis le début des années 2000,
+l'association
+sportive et culturelle des 3 Peaks de Manapany, développe depuis une dizaine d'années des outils numériques idéalement
+adaptés à la gestion de ses activités (cashless, billetterie, adhésion, café associatif ...).</p><p>Mené par plusieurs membres de l'association, le projet réunit aujourd'hui, ingénieurs du son, régisseuses, développeurs
+informatique, makers, libristes et créateurs de solutions open-source. Un réseau regroupant le monde de la culture, de
+la création de commun et de l'informatique libre.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="motivation-dentreprendre-du-commun">Motivation d'entreprendre du commun<a class="hash-link" href="#motivation-dentreprendre-du-commun" title="Lien direct vers le titre">​</a></h2><p>Bénévoles associatifs, libristes, créateurs du commun en tiers lieux, nous sommes persuadés que l'économie sociale et
+solidaire peut répondre aux enjeux modernes. Créer ensemble, en coopérative pour repenser la création de valeurs.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="quelle-est-votre-différence-">Quelle est votre différence ?<a class="hash-link" href="#quelle-est-votre-différence-" title="Lien direct vers le titre">​</a></h2><p>Low-tech et récupération</p><p>Nous apportons une solution de cashless et de billetterie pour les petites structures oubliées des grandes entreprises
+du domaine dont les tarifs sont souvent rédhibitoires.</p><p>A coût très inférieur au marché ( dans la mouvance low-tech ), TiBillet est gratuit pour l'utilisateur, prix coûtant
+pour l'organisateur. Zéro commission pour la coop !</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="cest-un-modèle-interopérable-et-coopératif-">C'est un modèle interopérable et coopératif :<a class="hash-link" href="#cest-un-modèle-interopérable-et-coopératif-" title="Lien direct vers le titre">​</a></h3><p>Rechargez votre carte à la Raffinerie ? Dépensez le reste pour acheter une place de concert au Bisik de Saint-Benoît !
+Vous proposez un dîner dansant à Saint-Philippe ? Toute la coopérative fera la promotion de votre évènement !</p><p>Vous êtes un festivalier aguerri ? Votre carte cashless est valable à vie, inutile de se presser à la fin de l'évènement
+pour se faire rembourser, et finit la collection de cartes jetables, car à usage unique.</p><p>Enfin, avec la structuration en Société Coopérative d’Intérêt Commun, TiBillet est développé dans un but non lucratif :
+tous
+les bénéfices sont injectés dans le réseau des lieux sociétaires pour financer encore plus d'évènements. Tout le
+monde est gagnant.</p><p>Autrement dit : Dans un milieu dominé par un monopole, nous créons une économie sociale et solidaire : TiBillet ne coute
+pas, il rapporte !</p><p>Ah, une dernière chose : TiBillet est open-source !</p>]]></content>
+        <author>
+            <name>Jonas TURBEAUX</name>
+            <uri>https://github.com/Nasjoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Présentation]]></title>
         <id>first-blog-post</id>
