@@ -26,7 +26,7 @@ gestion d'inventaire et outils de gestion de salle de restauration :
 Vous pouvez envoyer grâce à l'application smartphone directement
 les commandes qui seront imprimées en cuisine !
 
-## Quelles sont vos valeurs ?
+## Quelles sont nos valeurs ?
 
 Pour apporter une solution coopérative et actuellement inaccessible aux petites ou jeunes structures.
 

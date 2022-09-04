@@ -43,7 +43,7 @@ L'enjeu majeur concerne donc, en toute logique, la gestion de TiBillet à traver
 et solidaire.
 
 En proposant aux bénéficiaires d'entrer en sociétariat dans la SCIC (Société Coopérative d'Intérêt Commun - Création 1er
-trimestre 2022), TiBillet souhaite offrir une solution fédératrice de création de résea ppour booster la culture d'une région !
+trimestre 2022), TiBillet souhaite offrir une solution fédératrice de création de réseau pour booster la culture d'une région !
 
 L'enjeu de ce projet repose également sur l'attrait et l'intérêt technologique innovant qu'il suscite auprès des
 utilisateurs potentiels, engendrant ainsi des recettes qui permettront de développer le réseau et le salariat de ses

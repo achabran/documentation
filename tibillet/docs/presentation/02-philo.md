@@ -20,7 +20,7 @@ la création de commun et de l'informatique libre.
 Bénévoles associatifs, libristes, créateurs du commun en tiers lieux, nous sommes persuadés que l'économie sociale et
 solidaire peut répondre aux enjeux modernes. Créer ensemble, en coopérative pour repenser la création de valeurs.
 
-## Quelle est votre différence ?
+## Quelle est notre différence ?
 
 Low-tech et récupération
 
