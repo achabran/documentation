@@ -9,7 +9,7 @@ const FeatureList = [
         description: (
             <>
                 Une suite d'applications pour gérer de l'évenementiel éthique :
-                Adhésion, billeterie, cashless, monnaie locale, monnaie temps, gestion de buvette et de restauration.
+                Adhésion, billetterie, cashless, monnaie locale, monnaie temps, compagne de don, gestion de buvette et de restauration.
             </>
         ),
     },

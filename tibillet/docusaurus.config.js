@@ -70,7 +70,8 @@ const config = {
                         sidebarId: 'presentation',
                         label: 'Presentation',
                     },
-                    {to: '/blog', label: 'Blog', position: 'left'},
+                    {to: '/documentation/docs/presentation/Features', label: 'Fonctionnalités', position: 'left'},
+
                     {
                         type: 'doc',
                         docId: '/category/documentation-utilisateur',
@@ -89,6 +90,7 @@ const config = {
                         label: 'API',
                     },
                     {to: '/roadmap', label: 'Roadmap', position: 'left'},
+                    {to: '/blog', label: 'Blog', position: 'left'},
 
                 ],
             },
