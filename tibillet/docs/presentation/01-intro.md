@@ -18,26 +18,6 @@ d'un territoire.
 
 Contactez-nous sur **[Discord](https://discord.gg/7FJvtYx)** !
 
-## Démonstration
-
-### Boutik démo ( nighty build ) :
-
-Meta :
-**[https://run.betabillet.tech](https://run.betabillet.tech)**
-
-Tenant :
-**[https://raffinerie.betabillet.tech](https://raffinerie.betabillet.tech)**
-
-### Cashless démo ( nighty build ) :
-
-administration :
-**[https://democashless.betabillet.art](https://democashless.betabillet.art)**
-
-    login : adminou
-    password : miaoumiaou
-
-Pour tester l'application ( Pi ou Android ), cliquez sur " voir le site " tout en haut du menu.
-
 ## Pourquoi faire ?
 
 - Pour apporter une solution coopérative et actuellement inaccessible aux petites ou jeunes structures.

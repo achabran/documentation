@@ -59,7 +59,7 @@ Voici une liste des fonctionnalités présentes et en cours de développement.
   - [ ] Interop' des ventes d'articles
   - [ ] Possibilité d'accepter le cashless sur le Pos Odoo
     - R&D nécéssaire pour créer un module qui pilote les cates NFC
-
+- [ ] Remboursement en ligne via Stripe sur CB
 
 ## Gestion de prise de commande
 

@@ -9,8 +9,8 @@ const config = {
     title: 'TiBillet',
     tagline: "L'événementiel coopératif",
     url: 'https://tibillet.github.io',
-    baseUrl: '/',
-    // baseUrl: '/documentation/',
+    // baseUrl: '/',
+    baseUrl: '/documentation/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
@@ -70,7 +70,7 @@ const config = {
                         sidebarId: 'presentation',
                         label: 'Presentation',
                     },
-                    {to: '/documentation/docs/presentation/Features', label: 'Fonctionnalités', position: 'left'},
+                    {to: '/docs/presentation/Features', label: 'Fonctionnalités', position: 'left'},
 
                     {
                         type: 'doc',
