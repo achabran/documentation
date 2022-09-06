@@ -2,5 +2,7 @@
 
 ## Via docker :
 
-Une version de démonstration de l'interface est disponible, les informations sont
-en [première page](/docs/presentation/introduction#d%C3%A9monstration).
+```text
+En cours de rédaction...
+```
+Une version de [démonstration de l'interface cashless](/docs/presentation/Demonstration) est disponible.

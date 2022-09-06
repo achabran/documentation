@@ -1,3 +1,14 @@
+---
+sidebar_position: 6
+slug: billetterie
+title: Billetterie
+description: Chaque évènement s'inscrit dans le réseau créé par la coopérative.
+image: https://tibillet.org/img/logoTibMJ4300.png
+keywords: [cashless, billetterie, ticketing]
+wiktags: [cashless, billetterie, ticketing]
+authors: jonas
+---
+
 # Billetterie et boutique en ligne
 
 TiBillet est une solution qui permet de créer en quelques clics une page web de présentation d'évènements, de lieux, et

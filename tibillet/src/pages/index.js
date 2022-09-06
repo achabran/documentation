@@ -16,7 +16,7 @@ function HeroBanner() {
             <div className={styles.heroInner}>
                 <h1 className={styles.heroProjectTagline}>
                     <img
-                        alt={translate({message: 'Midjourney Logo'})}
+                        alt={translate({message: ''})}
                         className={styles.heroLogo}
                         src={useBaseUrl('/img/logoTibMJ4300.png')}
                         width="200"
@@ -29,7 +29,7 @@ function HeroBanner() {
                             __html: translate({
                                 id: 'homepage.hero.title',
                                 message:
-                                    'Outils évènementiels <b>cooperatifs</b> et open-source.',
+                                    'Outils <b>évènementiels</b> créateurs de réseaux <b>cooperatifs</b>.',
                                 description:
                                     'Home page hero title, can contain simple html tags',
                             }),

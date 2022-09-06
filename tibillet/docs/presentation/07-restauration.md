@@ -1,3 +1,11 @@
+---
+sidebar_position: 7
+slug: restauration
+title: Logiciel de prise de commande
+authors: jonas
+wiktags: [cashless, billetterie, ticketing, features]
+---
+
 # Logiciel de prise de commande
 
 La crise sanitaire de la Covid19 nous a amené à repenser notre outil de Cashless et la gestion des prises de commandes

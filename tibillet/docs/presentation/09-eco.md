@@ -1,3 +1,11 @@
+---
+sidebar_position: 9
+slug: tarifs
+title: Tarifs et conditions
+authors: jonas
+wiktags: [cashless, billetterie, ticketing, features]
+---
+
 # Tarifs et conditions
 
 TiBillet est un projet qui prend ses racines dans le monde associatif. Il a été pensé et développé, en interne, par

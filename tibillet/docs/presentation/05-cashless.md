@@ -1,3 +1,14 @@
+---
+sidebar_position: 5
+slug: cashless
+title: Cashless
+description: Pour créer un système de monnaie "temps" pour la gestion du bénévolat, et de monnaie locale à l'échelle d'un territoire.
+image: https://tibillet.org/img/logoTibMJ4300.png
+keywords: [cashless, billetterie, ticketing]
+wiktags: [cashless, billetterie, ticketing]
+authors: jonas
+---
+
 # Cashless
 ## Vous avez dit Cashless ?
 

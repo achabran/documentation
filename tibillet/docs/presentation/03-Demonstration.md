@@ -1,3 +1,13 @@
+---
+sidebar_position: 3
+slug: demo
+title: Démonstration
+description: Instance de démonstration.
+image: https://tibillet.org/img/logoTibMJ4300.png
+keywords: [cashless, billetterie, ticketing]
+wiktags: [cashless, billetterie, ticketing]
+authors: jonas
+---
 
 # Démonstration
 

@@ -1,3 +1,12 @@
+---
+sidebar_position: 8
+slug: federation
+title: Création de commun
+authors: jonas
+wiktags: [cashless, billetterie, ticketing, features]
+---
+
+
 # Création de commun
 
 Alimenté par les organisateurs d'événements, le réseau coopératif TiBillet propose programmations et ventes de billets

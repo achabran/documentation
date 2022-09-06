@@ -1,3 +1,15 @@
+---
+sidebar_position: 2
+slug: features
+title: Fonctionnalités
+description: liste des fonctionnalités présentes et en cours de développement.
+image: https://tibillet.org/img/logoTibMJ4300.png
+keywords: [cashless, billetterie, ticketing]
+wiktags: [cashless, billetterie, ticketing]
+authors: jonas
+---
+
+
 # Fonctionnalités
 
 Voici une liste des fonctionnalités présentes et en cours de développement.

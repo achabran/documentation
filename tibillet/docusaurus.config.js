@@ -8,9 +8,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
     title: 'TiBillet',
     tagline: "L'événementiel coopératif",
-    url: 'https://tibillet.github.io',
-    // baseUrl: '/',
-    baseUrl: '/documentation/',
+    url: 'https://tibillet.org',
+    baseUrl: '/',
+    // baseUrl: '/documentation/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
@@ -57,6 +57,7 @@ const config = {
     themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
+
             navbar: {
                 title: 'TiBillet',
                 logo: {
@@ -70,8 +71,6 @@ const config = {
                         sidebarId: 'presentation',
                         label: 'Presentation',
                     },
-                    {to: '/docs/presentation/Features', label: 'Fonctionnalités', position: 'left'},
-
                     {
                         type: 'doc',
                         docId: '/category/documentation-utilisateur',
@@ -79,15 +78,15 @@ const config = {
                         label: 'Docs',
                     },
                     {
-                        href: 'https://github.com/TiBillet',
-                        label: 'GitHub',
-                        position: 'right',
-                    },
-                    {
                         type: 'docSidebar',
                         position: 'left',
                         sidebarId: 'api',
                         label: 'API',
+                    },
+                    {
+                        href: 'https://github.com/TiBillet',
+                        label: 'GitHub',
+                        position: 'right',
                     },
                     {to: '/roadmap', label: 'Roadmap', position: 'left'},
                     {to: '/blog', label: 'Blog', position: 'left'},
@@ -149,6 +148,10 @@ const config = {
                 disableSwitch: false,
                 respectPrefersColorScheme: true,
             },
+            metadata: [{
+                name: 'keywords',
+                content: "Adhésion, billetterie, cashless, monnaie locale, monnaie temps, compagne de don, gestion de prise de commande buvette et restauration"
+            }],
         }),
 };
 
