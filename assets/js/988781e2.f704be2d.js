@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktibillet=self.webpackChunktibillet||[]).push([[493],{6800:t=>{t.exports=JSON.parse('{"title":"API","description":"API path","slug":"/category/api","permalink":"/docs/category/api","navigation":{"previous":{"title":"Installation","permalink":"/docs/install/intro"},"next":{"title":"Postman API","permalink":"/docs/api/intro"}}}')}}]);

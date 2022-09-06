@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktibillet=self.webpackChunktibillet||[]).push([[905],{6780:t=>{t.exports=JSON.parse('{"title":"Pr\xe9sentation","description":"Pr\xe9sentation","slug":"/category/pr\xe9sentation","permalink":"/documentation/docs/category/pr\xe9sentation","navigation":{"next":{"title":"Introduction","permalink":"/documentation/docs/presentation/introduction"}}}')}}]);

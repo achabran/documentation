@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktibillet=self.webpackChunktibillet||[]).push([[535],{5641:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Pr\xe9sentation","permalink":"/blog/first-blog-post"}]}')}}]);
