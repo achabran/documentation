@@ -62,7 +62,7 @@ const config = {
                 title: 'TiBillet',
                 logo: {
                     alt: 'My Site Logo',
-                    src: 'img/logoTibMJ4300.png',
+                    src: 'img/logoTibMJ5-300.png',
                 },
                 items: [
                     {
@@ -146,8 +146,10 @@ const config = {
             colorMode: {
                 defaultMode: 'dark',
                 disableSwitch: false,
-                respectPrefersColorScheme: true,
+                respectPrefersColorScheme: false,
             },
+            forceDarkMode: true,
+            image: 'img/logoTibMJ5-300.png',
             metadata: [{
                 name: 'keywords',
                 content: "Adhésion, billetterie, cashless, monnaie locale, monnaie temps, compagne de don, gestion de prise de commande buvette et restauration"
