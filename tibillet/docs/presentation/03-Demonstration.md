@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-slug: demo
+slug: demonstration
 title: Démonstration
 description: Instance de démonstration.
 image: https://tibillet.org/img/logoTibMJ4300.png
