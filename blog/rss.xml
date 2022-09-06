@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>TiBillet Blog</title>
-        <link>https://www.tibillet.org/blog</link>
+        <link>https://tibillet.org/blog</link>
         <description>TiBillet Blog</description>
         <lastBuildDate>Thu, 01 Sep 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>fr</language>
         <item>
             <title><![CDATA[Présentation]]></title>
-            <link>https://www.tibillet.org/blog/first-blog-post</link>
+            <link>https://tibillet.org/blog/first-blog-post</link>
             <guid>first-blog-post</guid>
             <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
         </item>
