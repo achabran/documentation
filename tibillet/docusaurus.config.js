@@ -149,7 +149,7 @@ const config = {
                 respectPrefersColorScheme: false,
             },
             forceDarkMode: true,
-            image: 'img/logoTibMJ5-300.png',
+            image: 'img/logoTibMJ5-150.png',
             metadata: [{
                 name: 'keywords',
                 content: "Adhésion, billetterie, cashless, monnaie locale, monnaie temps, compagne de don, gestion de prise de commande buvette et restauration"
