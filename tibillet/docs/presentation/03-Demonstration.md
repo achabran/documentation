@@ -13,12 +13,31 @@ authors: jonas
 
 ### Billetterie ( nighty build ) :
 
-Meta :
+#### Meta (Recense tous les évènements du réseau.):
+
 **[https://run.betabillet.tech](https://run.betabillet.tech)**
 
-Tenant :
-**[https://raffinerie.betabillet.tech](https://raffinerie.betabillet.tech)**
+#### Tenant (une instance solo) :
 
+**[https://demo.betabillet.tech](https://demo.betabillet.tech)**
+
+
+**[https://demo.betabillet.tech/admin](https://de.betabillet.tech/admin)**
+
+
+    login : adminou@tibillet.re
+    password : miaoumiaou
+
+
+Pour tester le paiement sur Stripe, utilisez la carte du plus grand routard galactique : 
+        
+        Douglas ADAM        
+        4242 4242 4242 4242 
+        02/42 / 424
+        
+
+**[https://raffinerie.betabillet.tech](https://raffinerie.betabillet.tech)**
+- SSO Communecter Actif !
 
 ### Cashless ( nighty build ) :
 
