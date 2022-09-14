@@ -21,10 +21,9 @@ services:
       - traefik.docker.network=frontend
       - traefik.http.routers.tibdoc.tls.certresolver=tlsresolver
       - traefik.http.routers.tibdoc.entrypoints=websecure
-      - traefik.http.routers.tibdoc.rule=Host(`tibillet.com`) || Host(`www.tibillet.com`) || Host(`tibillet.org`) || Host(`www.tibillet.org`) || Host(`tibillet.co`) || Host(`www.tibillet.co`) || Host(`tibillet.fr`) || Host(`www.tibillet.fr`)
+      - traefik.http.routers.tibdoc.rule=Host(`tibillet.fr`) || Host(`www.tibillet.fr`)
+#      - traefik.http.routers.tibdoc.rule=Host(`tibillet.com`) || Host(`www.tibillet.com`) || Host(`tibillet.org`) || Host(`www.tibillet.org`) || Host(`tibillet.co`) || Host(`www.tibillet.co`) || Host(`tibillet.fr`) || Host(`www.tibillet.fr`)
 
-    ports:
-      - 8012:80
     networks:
       - frontend
 
