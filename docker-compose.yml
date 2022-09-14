@@ -15,7 +15,7 @@ services:
     image: nginx
     restart: always
     volumes:
-      - ./tibillet/build:/usr/share/nginx/html
+      - ./tibillet/build:/var/www/html
     labels:
       - traefik.enable=true
       - traefik.docker.network=frontend
