@@ -1,0 +1,35 @@
+version: "3.7"
+services:
+  tibdoc_nodejs:
+    container_name: tibdoc_nodejs
+    image: node:16-bullseye
+    environment:
+      DEV: 1
+      TIMEZONE: Indian/Reunion
+    volumes:
+      - ./tibillet:/documentation
+    working_dir: /documentation
+    command: "bash /documentation/build.sh"
+
+  tibdoc:
+    image: nginx
+    restart: always
+    volumes:
+      - ./tibillet/build:/usr/share/nginx/html
+    labels:
+      - traefik.enable=true
+      - traefik.docker.network=frontend
+      - traefik.http.routers.tibdoc.tls.certresolver=tlsresolver
+      - traefik.http.routers.tibdoc.entrypoints=websecure
+      - traefik.http.routers.tibdoc.rule=Host(`tibillet.com`) || Host(`www.tibillet.com`) || Host(`tibillet.org`) || Host(`www.tibillet.org`) || Host(`tibillet.co`) || Host(`www.tibillet.co`) || Host(`tibillet.fr`) || Host(`www.tibillet.fr`)
+
+    ports:
+      - 8012:80
+    networks:
+      - frontend
+
+networks:
+  frontend:
+    external: true
+
+
