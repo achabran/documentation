@@ -1,15 +1,15 @@
 version: "3.7"
 services:
-#  tibdoc_nodejs:
-#    container_name: tibdoc_nodejs
-#    image: node:16-bullseye
-#    environment:
-#      DEV: 1
-#      TIMEZONE: Indian/Reunion
-#    volumes:
-#      - ./tibillet:/documentation
-#    working_dir: /documentation
-#    command: "bash /documentation/build.sh"
+  tibdoc_nodejs:
+    container_name: tibdoc_nodejs
+    image: node:16-bullseye
+    environment:
+      DEV: 1
+      TIMEZONE: Indian/Reunion
+    volumes:
+      - ./tibillet:/documentation
+    working_dir: /documentation
+    command: "bash /documentation/build.sh"
 
   tibdoc:
     image: nginx
