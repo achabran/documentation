@@ -1,14 +1,15 @@
 ---
 slug: ecosocialisme_numerique
-title: Écosocialisme numérique : une alternative aux big tech ?
-authors: Louis Derrac, Michael Kwet
-wiktags: [hola, docusaurus]
+title: Ecosocialisme numérique
+authors: jonas
+wiktags: [Écosocialisme]
 ---
 
-# Écosocialisme numérique
+# Écosocialisme numérique : une alternative aux big tech ?
 
 ```
 Extrait de https://framablog.org/2022/08/17/ecosocialisme-numerique-une-alternative-aux-big-tech/#easy-footnote-bottom-11-28126
+Louis Derrac, Michael Kwet.
 ```
 
 ## L’accord sur les Technologies Numériques
