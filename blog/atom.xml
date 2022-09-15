@@ -2,16 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tibillet.org/blog</id>
     <title>TiBillet Blog</title>
-    <updated>2022-09-01T00:00:00.000Z</updated>
+    <updated>2022-09-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tibillet.org/blog"/>
     <subtitle>TiBillet Blog</subtitle>
     <icon>https://tibillet.org/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Présentation]]></title>
-        <id>first-blog-post</id>
-        <link href="https://tibillet.org/blog/first-blog-post"/>
-        <updated>2022-09-01T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[Ecosocialisme numérique]]></title>
+        <id>ecosocialisme_numerique</id>
+        <link href="https://tibillet.org/blog/ecosocialisme_numerique"/>
+        <updated>2022-09-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[L’accord sur les Technologies Numériques]]></summary>
+        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">Extrait de https://framablog.org/2022/08/17/ecosocialisme-numerique-une-alternative-aux-big-tech/#easy-footnote-bottom-11-28126</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">Louis Derrac, Michael Kwet.</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copier le code" title="Copier" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg class="copyButtonIcon_y97N" viewBox="0 0 24 24"><path d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg class="copyButtonSuccessIcon_LjdS" viewBox="0 0 24 24"><path d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><h2 class="anchor anchorWithStickyNavbar_LWe7" id="laccord-sur-les-technologies-numériques">L’accord sur les Technologies Numériques<a class="hash-link" href="#laccord-sur-les-technologies-numériques" title="Lien direct vers le titre">​</a></h2><p>Les grandes entreprises technologiques, la propriété intellectuelle et la propriété privée des moyens de calcul sont
+profondément ancrées dans la société numérique et ne peuvent être éteintes du jour au lendemain. Ainsi, pour remplacer
+le capitalisme numérique par un modèle socialiste, nous avons besoin d’une transition planifiée vers le socialisme
+numérique.</p><p>Les écologistes ont proposé de nouveaux “accords” décrivant la transition vers une économie verte. Les propositions
+réformistes comme le Green New Deal américain et le Green Deal européen fonctionnent dans un cadre capitaliste qui
+conserve les méfaits du capitalisme, comme la croissance terminale, l’impérialisme et les inégalités structurelles. En
+revanche, les modèles écosocialistes, tels que le Red Deal de la Nation Rouge, l’Accord de Cochabamba et la Charte de
+justice climatique d’Afrique du Sud, offrent de meilleures alternatives. Ces propositions reconnaissent les limites de
+la croissance et intègrent les principes égalitaires nécessaires à une transition juste vers une économie véritablement
+durable.</p><p>Cependant, ni ces accords rouges ni ces accords verts n’intègrent de plans pour l’écosystème numérique, malgré sa
+pertinence centrale pour l’économie moderne et la durabilité environnementale. À son tour, le mouvement pour la justice
+numérique a presque entièrement ignoré les propositions de décroissance et la nécessité d’intégrer leur évaluation de
+l’économie numérique dans un cadre écosocialiste. La justice environnementale et la justice numérique vont de pair, et
+les deux mouvements doivent s’associer pour atteindre leurs objectifs.</p><p>À cet effet, je propose un Accord sur les Technologies Numériques écosocialiste qui incarne les valeurs croisées de
+l’anti-impérialisme, de la durabilité environnementale, de la justice sociale pour les communautés marginalisées, de
+l’autonomisation des travailleurs, du contrôle démocratique et de l’abolition des classes. Voici dix principes pour
+guider un tel programme :</p><ol><li>Veiller à ce que l’économie numérique ne dépasse pas les limites sociales et planétaires.</li><li>Supprimer progressivement la propriété intellectuelle.</li><li>Socialiser l’infrastructure physique.</li><li>Remplacer les investissements privés de production par des subventions et une production publiques.</li><li>Décentraliser Internet.</li><li>Socialiser les plateformes.</li><li>Socialiser l’intelligence numérique et les données.</li><li>Interdire la publicité forcée et le consumérisme des plateformes.</li><li>Remplacer l’armée, la police, les prisons et les appareils de sécurité nationale par des services de sûreté et de
+sécurité gérés par les communautés.</li><li>Mettre fin à la fracture numérique.</li></ol><p>Source :</p><ul><li><a href="https://longreads.tni.org/digital-ecosocialism" target="_blank" rel="noopener noreferrer">https://longreads.tni.org/digital-ecosocialism</a></li><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3965128" target="_blank" rel="noopener noreferrer">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3965128</a></li><li><a href="https://framablog.org/2022/08/17/ecosocialisme-numerique-une-alternative-aux-big-tech/#easy-footnote-bottom-11-28126" target="_blank" rel="noopener noreferrer">https://framablog.org/2022/08/17/ecosocialisme-numerique-une-alternative-aux-big-tech/#easy-footnote-bottom-11-28126</a></li></ul>]]></content>
         <author>
             <name>Jonas TURBEAUX</name>
             <uri>https://github.com/Nasjoe</uri>
