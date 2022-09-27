@@ -1,7 +1,7 @@
 ---
 sidebar_position: 10
 slug: admin_add
-title: Admin - Création de Points de vente
+title: Admin - Création de Catégories d'articles
 description: Ajouter une ou plusieurs catégories d'articles.
 keywords: [cashless, android]
 wiktags: [cashless, android]
