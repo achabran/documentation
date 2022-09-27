@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 2
 slug: admin_add
 title: Admin - Création de Cartes Primaires
 description: Ajouter une ou plusieurs cartes primaires.
@@ -8,27 +8,41 @@ wiktags: [cashless, android]
 authors: Axel
 ---
 
-## 1- Enregistrer un nouveau membre
+Les cartes primaires sont obligatoires pour ouvrir un point de vente (Android ou Boitiers). Ce sont elles qui
+déterminent le niveau d'authorisation dont dispose l'utilisateur : Vous pouvez authoriser par exemple uniquement l'accés
+à un
+point de vente "BAR", sans donner accès au point de vente "CASHLESS" qui permet les recharges.
 
--Cliquer sur la catégorie "Membres" dans la colonne de gauche
--Cliquer sur le bouton "Ajouter Membre" en haut à droite
--Remplir les informations et cocher la case "gratuit" dans "méthode de paiement"
--Renseigner le numéro de la nouvelle carte dans le champs correspondant
--Enregistrer
+Préférez toujours ajouter des cartes primaires nominatives. C'est-à-dire relié à un utilisateur. De cette façon, vous
+pourrez retracer chaque transaction plus précisément : La personne responsable du point de vente est visible dans chaque
+paiement.
 
-## 2- Créer la carte primaire
+## 1- Enregistrez un nouveau membre.
 
--Cliquer sur la catégorie "Cartes Primaires" dan la colonne de gauche
--Cliquer sur le bouton "Ajouter Carte Primaire" en haut à droite
--Renseigner le numéro de la carte
--Désigner les points de vente contrôlés (ou non) par cette carte
--Activer le mode gérant
--Enregistrer
+- Cliquez sur la catégorie "Membres" dans la colonne de gauche.
+- Cliquez sur le bouton "Ajouter Membre" en haut à droite.
+- Vous pouvez ajouter ou pas une ahdésion associative.
+- Renseignez le numéro de la nouvelle carte dans le champ correspondant.
+- Enregistrez.
 
+## 2- Créez la carte primaire.
+
+- Cliquez sur la catégorie "Cartes Maitresse" dans le menu de gauche.
+- Cliquez sur le bouton "Ajouter Carte Primaire" en haut à droite.
+- Renseignez le numéro de la carte.
+- Désignez les points de vente contrôlés (ou non) par cette carte.
+  - Vous pouvez ici determiner de quel niveau d'authorisation dispose votre utilisateur.
+- Activez le mode gérant si vous le souhaitez.
+    - Le "Mode gérant" permet d'annuler une commande déja effecuté, même si elle est payée. C'est un super-pouvoir qui
+      nécéssite de grandes responsabilités :) .
+- Enregistrez.
 
 ## 3- Tester la carte sur un point de vente
 
--Démarrer l'application TiBillet sur un boitier ou un smartphone
--Scanner la carte
+- Démarrez l'application TiBillet sur un boitier ou un smartphone.
+  - Suivez la [procédure d'appairage](/docs/Utilisateur/Cashless/android) si ce n'est pas déja fait.
+- Scanner la carte à la demande de l'application.
+- Vérifiez que vous avez bien uniquement les points de ventes associés à la carte.
+
 
 <video width="100%" controls src="/img/CartePrimaire.mp4"></video>
