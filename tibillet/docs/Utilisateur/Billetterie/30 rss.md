@@ -1,8 +1,13 @@
 ---
-sidebar_position: 1
+sidebar_position: 50
+slug: rss
+title: Syndication par flux RSS
+description: Syndication par flux RSS, suivez les derniers évènements.
+keywords: [ticketing, billetterie, rss,]
+wiktags: [ticketing, billetterie, rss,]
+authors: Jonas
 ---
 
-# RSS : Syndication par flux
 
 Un flux RSS est créé par Tenant. Il liste les 5 derniers évènements créés.
 

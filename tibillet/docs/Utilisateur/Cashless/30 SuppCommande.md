@@ -1,7 +1,7 @@
 ---
-sidebar_position: 10
+sidebar_position: 30
 slug: admin_supp
-title: Admin - Suppression des commandes
+title: Suppression des commandes
 description: Supprimer plusieurs commande d'un coup.
 keywords: [cashless, billetterie, ticketing, android]
 wiktags: [cashless, billetterie, ticketing, android]
