@@ -13,8 +13,8 @@ dans
 l'interface, vous pouvez choisir celui qui vous concerne (Bar, Restaurant, Cashless...). Vous y trouverez les catégories
 et articles assignés à ce point de vente.
 
-Grâce aux cartes primaires qui sont réclamée à chaque ouverture de l'application, vous pouvez restreindre l'acces à
-certain point de vente aux utilisateurs concernés.
+Grâce aux cartes primaires qui sont réclamées à chaque ouverture de l'application, vous pouvez restreindre l'accès à
+certains points de vente aux utilisateurs concernés.
 
 ## Créer un nouveau point de vente
 
