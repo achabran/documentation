@@ -22,7 +22,7 @@ authors: jonas
 **[https://demo.betabillet.tech](https://demo.betabillet.tech)**
 
 
-**[https://demo.betabillet.tech/admin](https://de.betabillet.tech/admin)**
+Administration : **[https://demo.betabillet.tech/admin](https://demo.betabillet.tech/admin)**
 
 
     login : adminou@tibillet.re
@@ -31,13 +31,9 @@ authors: jonas
 
 Pour tester le paiement sur Stripe, utilisez la carte du plus grand routard galactique : 
         
-        Douglas ADAM        
-        4242 4242 4242 4242 
-        02/42 / 424
-        
-
-**[https://raffinerie.betabillet.tech](https://raffinerie.betabillet.tech)**
-- SSO Communecter Actif !
+    Douglas ADAM        
+    4242 4242 4242 4242 
+    02/42 / 424
 
 ### Cashless ( nighty build ) :
 
