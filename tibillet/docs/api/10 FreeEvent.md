@@ -85,11 +85,11 @@ Exemple de réponse :
 
 ```json title="HTTP Response (json)"
 {
-	"uuid": "b47d496f-5c3a-455b-8a2e-9d7ed657c669",
-	"name": "Fête Nat'",
-	"slug": "fete-nat-122129-1830",
-	"short_description": "Vive le Billetistan",
-	"long_description": "Longue vie à notre présipautée !",
+	"uuid": "24b96716-c676-43e8-904f-baa93f66968a",
+	"name": "42ème anniversaire d'Adam",
+	"slug": "42eme-anniversaire-dadam-122129-1830",
+	"short_description": "Pas de panique !",
+	"long_description": "Un dernier restaurant avant la fin du monde ?",
 	"event_facebook_url": null,
 	"datetime": "2029-12-21T18:30:00+04:00",
 	"products": [
@@ -123,15 +123,15 @@ Exemple de réponse :
 	"options_radio": [],
 	"options_checkbox": [],
 	"img_variations": {
-		"fhd": "/media/images/1080_G8gaPFF.fhd",
-		"hdr": "/media/images/1080_G8gaPFF.hdr",
-		"med": "/media/images/1080_G8gaPFF.med",
-		"thumbnail": "/media/images/1080_G8gaPFF.thumbnail"
+		"fhd": "/media/images/c371b9a0d21391a6998150ec49e6c833.fhd.png",
+		"hdr": "/media/images/c371b9a0d21391a6998150ec49e6c833.hdr.png",
+		"med": "/media/images/c371b9a0d21391a6998150ec49e6c833.med.png",
+		"thumbnail": "/media/images/c371b9a0d21391a6998150ec49e6c833.thumbnail.png"
 	},
 	"reservations": 0,
 	"complet": false,
 	"artists": [],
-	"url": "https://demo.betabillet.tech/event/fete-nat-122129-1830/",
+	"url": "https://demo.betabillet.tech/event/42eme-anniversaire-dadam-122129-1830/",
 	"place": "DemoStène"
 }
 ```
