@@ -52,7 +52,7 @@ url = "https://demo.betabillet.tech/api/events/"
 data = {
     "datetime": "2029-12-21T18:30",
     "name": "42ème anniversaire d'Adam",
-    "short_description": "Pas de panique !",
+    "short_description": "Pas de panique ! Un dernier restaurant avant la fin du monde ?",
     "long_description": "J'adore les dates limites. J'aime le son qu'elles font lorsque on les dépasse à toute allure.",
     "img_url": "https://picsum.photos/1920/1080"
 }
@@ -90,8 +90,8 @@ Exemple de réponse :
 	"uuid": "24b96716-c676-43e8-904f-baa93f66968a",
 	"name": "42ème anniversaire d'Adam",
 	"slug": "42eme-anniversaire-dadam-122129-1830",
-	"short_description": "Pas de panique !",
-	"long_description": "Un dernier restaurant avant la fin du monde ?",
+	"short_description": "Pas de panique ! Un dernier restaurant avant la fin du monde ?",
+	"long_description": "J'adore les dates limites. J'aime le son qu'elles font lorsque on les dépasse à toute allure.",
 	"event_facebook_url": null,
 	"datetime": "2029-12-21T18:30:00+04:00",
 	"products": [
