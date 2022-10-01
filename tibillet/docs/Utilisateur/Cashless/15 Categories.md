@@ -11,7 +11,7 @@ authors: Axel
 Les catégories d'articles sont utiles pour :
 - Classer par catégorie sur l'interface de cashless.
 - Determiner les couleurs de fond de l'icone de l'article.
-- Permet de classer les articles pour les préparations. Par exemple pour l'impréssion des commandes en cuisine ou au bar.
+- Permet de classer les articles pour les préparations. Par exemple pour l'impression des commandes en cuisine ou au bar.
 
 ## Créer une nouvelle catégorie d'articles
 
