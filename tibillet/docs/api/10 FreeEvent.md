@@ -32,7 +32,9 @@ POST /api/events/
 
 Si aucun "products", l'évènement sera considéré comme entrée libre.
 
-Exemples complets sur la [documentation Postman](https://documenter.getpostman.com/view/17519122/UVeDtTFC#faef2591-ef11-4860-8561-66b76dbf5bf7).
+Exemples complets sur
+la [documentation Postman](https://documenter.getpostman.com/view/17519122/UVeDtTFC#faef2591-ef11-4860-8561-66b76dbf5bf7)
+.
 
 Exemple d'évènement avec entrée libre, sans artiste :
 
@@ -47,11 +49,11 @@ import requests
 
 url = "https://demo.betabillet.tech/api/events/"
 
-payload = {
+data = {
     "datetime": "2029-12-21T18:30",
     "name": "42ème anniversaire d'Adam",
     "short_description": "Pas de panique !",
-    "long_description": "Un dernier restaurant avant la fin du monde ?",
+    "long_description": "J'adore les dates limites. J'aime le son qu'elles font lorsque on les dépasse à toute allure.",
     "img_url": "https://picsum.photos/1920/1080"
 }
 headers = {
@@ -59,7 +61,7 @@ headers = {
     "Content-Type": "application/json"
 }
 
-response = requests.request("POST", url, json=payload, headers=headers)
+response = requests.request("POST", url, json=data, headers=headers)
 
 print(response.text)
 ```
