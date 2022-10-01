@@ -25,7 +25,7 @@ Ou scannez ce qrcode sur un téléphone pour visiter la page de téléchargement
 ## Lancement
 
 Votre appareil doit être compatible NFC.
-L'application à été testé sur le matériel suivant :
+L'application a été testée sur le matériel suivant :
 
 - OnePlus 3T
 - Blackview
@@ -40,7 +40,7 @@ Au premier lancement, indiquez :
     
     exemple : ```manapanycashless.tibillet.re```
 
-- Donnez un nom explicite pour pouvoir le retrouver facilement (ex : Redmi9Alex)
+- Donnez un nom explicite à votre appareil pour pouvoir le retrouver facilement (ex : Redmi9Alex)
 
 Un écran avec un fond orange apparait. Il vous indique le nom de l'appareil à valider.
 Sur votre page d'administration, allez dans la partie Appareil (/adminstaff/APIcashless/appareil/)
