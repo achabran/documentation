@@ -16,13 +16,9 @@ N'hésitez pas à venir discuter avec nous sur **[Discord](https://discord.gg/7F
 
 TiBillet est construit autour de l'API REST [DJango Rest Framework](https://www.django-rest-framework.org/).
 
-Une documentation complète des points d'api, et automatiquement générée par Postman est disponible ici :
+Une documentation technique, mais complète des points d'api est disponible ici :
 
 [https://documenter.getpostman.com/view/17519122/UVeDtTFC](https://documenter.getpostman.com/view/17519122/UVeDtTFC)
-
-Toute les requetes sont basées sur une authentification JWT :
-
-[https://django-rest-framework-simplejwt.readthedocs.io/en/latest/](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/)
 
 Une documentation un peu plus abordable est en cours 
 de rédaction.
