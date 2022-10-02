@@ -27,7 +27,7 @@ log / pass : adminou@tibillet.re / miaoumiaou
 - Allez dans le menu Api Keys
 - Cliquez sur le bouton en haut à droite : "AJOUTER API KEY"
 - Donnez-lui un nom en rapport à l'application voulue.
-- Choisissez le niveau d'autorisation voulu.
+- Choisissez le niveau d'autorisation que vous souhaitez.
 - Entrez l'adresse ip source des futures requetes.
 - Activez la case "Créer / Révoquer"
 - Enregistrez
