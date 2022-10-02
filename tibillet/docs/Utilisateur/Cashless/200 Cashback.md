@@ -12,7 +12,7 @@ authors: jonas
 
 Nous avons implémenté un système de cashback en token cadeau suite à la demande de nos clients.
 
-L'idée est d'encourager les personnes à effectuer eux même leurs rechargements en ligne pour soulager les point
+L'idée est d'encourager les personnes à effectuer eux même leurs rechargements en ligne pour soulager les points
 d'acceuil et de rechargement cashless d'un site.
 
 Dans l'administration de votre page cashless, allez dans "Configuration Générale", puis sur l'onglet "CASHBACK".
