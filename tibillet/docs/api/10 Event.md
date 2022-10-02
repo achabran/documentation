@@ -33,10 +33,9 @@ POST /api/events/
 Si aucun "products", l'évènement sera considéré comme entrée libre.
 
 Exemples complets sur
-la [documentation Postman](https://documenter.getpostman.com/view/17519122/UVeDtTFC#faef2591-ef11-4860-8561-66b76dbf5bf7)
-.
+la [documentation Postman](https://documenter.getpostman.com/view/17519122/UVeDtTFC#faef2591-ef11-4860-8561-66b76dbf5bf7).
 
-Exemple d'évènement avec entrée libre, sans artiste :
+## Évènement sans article avec entrée libre :
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
