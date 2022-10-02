@@ -35,7 +35,8 @@ Si aucun "products", l'évènement sera considéré comme entrée libre.
 Exemples complets sur
 la [documentation Postman](https://documenter.getpostman.com/view/17519122/UVeDtTFC#faef2591-ef11-4860-8561-66b76dbf5bf7).
 
-## Évènement sans article avec entrée libre :
+
+## Évènement sans artiste avec entrée libre :
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
