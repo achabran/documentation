@@ -3,12 +3,14 @@ slug: ecosocialisme_numerique
 title: Ecosocialisme numérique
 authors: jonas
 wiktags: [Écosocialisme]
+image: https://framablog.org/wp-content/uploads/2022/08/Digital-Socialism-LINES-1536x864-1.webp
+description: Chantier en cours autour d'une réfléxion carte TiBillet partagée entre plusieurs lieux.
 ---
 
 # Écosocialisme numérique : une alternative aux big tech ?
 
 ```
-Extrait de https://framablog.org/2022/08/17/ecosocialisme-numerique-une-alternative-aux-big-tech/#easy-footnote-bottom-11-28126
+Extrait de https://framablog.org/2022/08/17/ecosocialisme-numerique-une-alternative-aux-big-tech
 Louis Derrac, Michael Kwet.
 ```
 
