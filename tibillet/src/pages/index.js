@@ -44,9 +44,9 @@ function HeroBanner() {
                     <Link className="button button--info" to="/docs/presentation/demonstration">
                         <Translate>Demonstration</Translate>
                     </Link>
-                    <Link className="button button--warning" to="https://donate.stripe.com/28o6oPg8Ad7T3Sg5kk">
-                        <Translate>Contribuer</Translate>
-                    </Link>
+                    {/*<Link className="button button--warning" to="https://donate.stripe.com/28o6oPg8Ad7T3Sg5kk">*/}
+                    {/*    <Translate>Contribuer</Translate>*/}
+                    {/*</Link>*/}
                 </div>
             </div>
         </div>
