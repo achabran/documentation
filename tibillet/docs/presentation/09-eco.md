@@ -97,35 +97,39 @@ concurrents (prix HT):
 - 700€ / Terminal fixe avec écran 13 pouces tactile.
 - 500€ / Terminal fixe avec écran 7 pouces tactile.
 - 250€ / Smartphone Android pour prise de commande et paiement.
-- 100€ / Lecteur NFC déporté ( sur batterie, appareillable avec n'importe quelle tablette ou téléphone Android équipé de l’application TiBillet )
+- 100€ / Lecteur NFC déporté (sur batterie, appareillable avec n'importe quelle tablette ou téléphone Android équipé de l’application TiBillet)
 - 400€ / Imprimante thermique pour gestion de commande en cuisine et/ou au bar.
 - 200€ / routeur wifi et réseau mesh.
 - 250€ / Jour / Salarié sur place pour formation et installation + Frais de déplacement et d'hébergement.
-- 0% par transaction Cashless ( rechargement et vente ).
+- 0% par transaction Cashless.
 - 0% par billet vendu.
-- 0.25€ + 1.40% par paiement en ligne ( commission bancaire indépendante de notre part )
+- 0.25€ + 1.40% par paiement en ligne (Commission Stripe indépendante de notre part)
 
-Possibilité de location du matériel ( hors consommable ) :10% du prix de vente par jour pour de la location courte
+Possibilité de location du matériel (hors consommable) :10% du prix de vente par jour pour de la location courte
 durée.
 
 Pour toute demande, n'hésitez pas à nous contacter pour un devis personnalisé.
 
 ## Modèle Open-source
 
-Le code du projet est ouvert et disponible sur Github ( [https://github.com/TiBillet](https://github.com/TiBillet) ) sous licence SSPL réglementée pour son usage commercial :
+Le code du projet est ouvert et disponible sur Github ( [https://github.com/TiBillet](https://github.com/TiBillet) ) 
+Une licence de la famille AGPL.
+
+https://www.mongodb.com/licensing/server-side-public-license
+
+https://webassets.mongodb.com/_com_assets/legal/SSPL-compared-to-AGPL.pdf
 
 La licence permet à n'importe quel organisateur associatif ou coopératif d'évènement d'installer et de gérer, et/ou de
-modifier la solution sur sa propre infrastructure tel qu'il est proposé et mis a jour régulièrement sur le dépôt ouvert
-à tous.
+modifier la solution sur sa propre infrastructure tel qu'il est proposé et mis à jour régulièrement sur le dépôt ouvert.
 
-La licence SSPL interdit la vente de la solution par une entreprise commerciale à des acteurs tiers.
-
-La licence est pensée pour toute structure associative ou coopérative afin de profiter de la solution en toute gratuité,
+La licence SSPL interdit la vente de la solution SaaS par une entreprise commerciale à des acteurs tiers.
+Elle est utilisée entre autre par MongDb et Elasticsearch pour éviter une exploitation commerciale par les GAFAM.
+La licence est pensée pour toute structure associative ou coopérative afin de profiter de la solution en toute liberté,
 tout en empêchant une société commerciale de vendre la solution sans participer au commun qui est cher à notre
 philosophie.
 
-Autrement dit : Vendre des billets, ok, vendre TiBillet : Droit réservé à la coopérative 
+Autrement dit : Vendre des billets, ok, vendre TiBillet : Droit réservé à la coopérative.
 
 La solution est installable telle quelle sans garantie de fonctionnement ni aucun service après-vente.
 
-A vos risques et périls, mais librement votre :) 
+Librement votre :) 
