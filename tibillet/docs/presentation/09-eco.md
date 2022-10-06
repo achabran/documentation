@@ -1,7 +1,7 @@
 ---
 sidebar_position: 9
 slug: tarifs
-title: Tarifs et conditions
+title: Tarifs, conditions et licences.
 authors: jonas
 wiktags: [cashless, billetterie, ticketing, features]
 ---
@@ -115,7 +115,7 @@ Pour toute demande, n'hésitez pas à nous contacter pour un devis personnalisé
 
 Le code du projet est ouvert et disponible sur Github : [https://github.com/TiBillet](https://github.com/TiBillet).
 
-Nous souhaitons être aussi ouverts et flexibles que possible tout en évitant que les fournisseurs commerciaux tiers 
+Nous souhaitons être aussi ouverts et flexibles que possible tout en évitant que les fournisseurs commerciaux tiers
 proposent un service hébergé sans investir dans notre communauté.
 
 La licence SSPL est une licence "source-available" initialement créée par MongoDB. Elle comprend le meilleur de l'open
