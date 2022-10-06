@@ -20,7 +20,7 @@ commun ( SCIC ).
 La création de commun est au cœur de notre philosophie. Tiers-lieux, associations, coopératives : nous nous
 ressemblons !
 
-A ce titre, nous imaginons trois modèles économiques pour notre solution, encadrés par des licences libres et des
+À ce titre, nous imaginons trois modèles économiques pour notre solution, encadrés par des licences libres et des
 conditions générales utilisateurs et de vente (CGU/CGV) strictes et claires.
 
 ## Modèle Coopératif
