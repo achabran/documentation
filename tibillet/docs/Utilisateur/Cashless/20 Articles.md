@@ -20,7 +20,7 @@ ventes auquels ils sont rattachés.
   une valeur obligatoire.
 - Renseignez la catégorie de l'article (Cela determine la façon dont il est affiché sur l'interface cashless. Cf
   Catégorie.)
-- Changez la couleur du texte si vous souhaitez un meilleur contraste d'affinchage.
+- Changez la couleur du texte si vous souhaitez un meilleur contraste d'affichage.
 - Enregistrez
 
 ## 2- L'ajouter à un point de vente
