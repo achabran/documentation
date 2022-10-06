@@ -97,7 +97,8 @@ concurrents (prix HT):
 - 700€ / Terminal fixe avec écran 13 pouces tactile.
 - 500€ / Terminal fixe avec écran 7 pouces tactile.
 - 250€ / Smartphone Android pour prise de commande et paiement.
-- 100€ / Lecteur NFC déporté (sur batterie, appareillable avec n'importe quelle tablette ou téléphone Android équipé de l’application TiBillet)
+- 100€ / Lecteur NFC déporté (sur batterie, appareillable avec n'importe quelle tablette ou téléphone Android équipé de
+  l’application TiBillet)
 - 400€ / Imprimante thermique pour gestion de commande en cuisine et/ou au bar.
 - 200€ / routeur wifi et réseau mesh.
 - 250€ / Jour / Salarié sur place pour formation et installation + Frais de déplacement et d'hébergement.
@@ -110,25 +111,28 @@ durée.
 
 Pour toute demande, n'hésitez pas à nous contacter pour un devis personnalisé.
 
-## Modèle Open-source
+## Licence et modèle SSPL
 
-Le code du projet est ouvert et disponible sur Github ( [https://github.com/TiBillet](https://github.com/TiBillet) ) 
-Une licence de la famille AGPL.
+Le code du projet est ouvert et disponible sur Github : [https://github.com/TiBillet](https://github.com/TiBillet).
 
-https://www.mongodb.com/licensing/server-side-public-license
+Nous souhaitons être aussi ouverts et flexibles que possible tout en évitant que les fournisseurs commerciaux tiers 
+proposent un service hébergé sans investir dans notre communauté.
 
-https://webassets.mongodb.com/_com_assets/legal/SSPL-compared-to-AGPL.pdf
+La licence SSPL est une licence "source-available" initialement créée par MongoDB. Elle comprend le meilleur de l'open
+source. Elle permet une utilisation, une modification et une redistribution gratuites et illimitées, à la seule
+condition que, si vous fournissez le produit en tant que service, vous devez publier les modifications apportées et le
+code source de vos couches de gestion sous licence SSPL.
 
-La licence permet à n'importe quel organisateur associatif ou coopératif d'évènement d'installer et de gérer, et/ou de
-modifier la solution sur sa propre infrastructure tel qu'il est proposé et mis à jour régulièrement sur le dépôt ouvert.
+SSPL s'appuie sur GPLv3 et est considérée comme une licence copyleft. Cela signifie que si vous utilisez le code source
+et que vous créez des œuvres dérivées, ces dernières doivent être également proposées sous licence SSPL et publiées.
 
-La licence SSPL interdit la vente de la solution SaaS par une entreprise commerciale à des acteurs tiers.
-Elle est utilisée entre autre par MongDb et Elasticsearch pour éviter une exploitation commerciale par les GAFAM.
-La licence est pensée pour toute structure associative ou coopérative afin de profiter de la solution en toute liberté,
-tout en empêchant une société commerciale de vendre la solution sans participer au commun qui est cher à notre
-philosophie.
+Pour en savoir plus, consultez les liens ci dessous :
 
-Autrement dit : Vendre des billets, ok, vendre TiBillet : Droit réservé à la coopérative.
+- [https://www.elastic.co/fr/pricing/faq/licensing](https://webassets.mongodb.com/_com_assets/legal/SSPL-compared-to-AGPL.pdf)
+- [https://www.mongodb.com/licensing/server-side-public-license](https://webassets.mongodb.com/_com_assets/legal/SSPL-compared-to-AGPL.pdf)
+- [https://webassets.mongodb.com/_com_assets/legal/SSPL-compared-to-AGPL.pdf](https://webassets.mongodb.com/_com_assets/legal/SSPL-compared-to-AGPL.pdf)
+- [https://www.coss.community/cossc/sspl-re-takes-the-stage-in-2021-2koa](https://www.coss.community/cossc/sspl-re-takes-the-stage-in-2021-2koa)
+- [https://writing.kemitchell.com/2021/01/20/Righteous-Expedient-Wrong.html](https://writing.kemitchell.com/2021/01/20/Righteous-Expedient-Wrong.html)
 
 La solution est installable telle quelle sans garantie de fonctionnement ni aucun service après-vente.
 
