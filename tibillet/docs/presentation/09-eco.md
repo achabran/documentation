@@ -91,19 +91,18 @@ Nous pouvons nous déplacer dans le monde entier pour installer et vous former s
 Billetterie, de cashless et de gestion de salle.
 
 Nous pouvons vous vendre le matériel nécessaire au fonctionnement, et ce, à un prix très largement inférieur à nos
-concurrents :
+concurrents (prix HT):
 
-- 0.60€ / Carte NFC ( 1000 exemplaire minimum )
+- 0.80€ / Carte NFC ( 1000 exemplaire minimum )
 - 700€ / Terminal fixe avec écran 13 pouces tactile.
 - 500€ / Terminal fixe avec écran 7 pouces tactile.
 - 250€ / Smartphone Android pour prise de commande et paiement.
 - 100€ / Lecteur NFC déporté ( sur batterie, appareillable avec n'importe quelle tablette ou téléphone Android équipé de l’application TiBillet )
-- 350€ / Imprimante thermique pour gestion de commande en cuisine et/ou au bar.
+- 400€ / Imprimante thermique pour gestion de commande en cuisine et/ou au bar.
 - 200€ / routeur wifi et réseau mesh.
 - 250€ / Jour / Salarié sur place pour formation et installation + Frais de déplacement et d'hébergement.
-- 1% par transaction Cashless ( rechargement et vente ).
-- 1% par billet vendu.
-- 10% sur la monnaie restante et non remboursée après l'évènement ( en fonction du nombre d’évènement et la durée d'utilisation )
+- 0% par transaction Cashless ( rechargement et vente ).
+- 0% par billet vendu.
 - 0.25€ + 1.40% par paiement en ligne ( commission bancaire indépendante de notre part )
 
 Possibilité de location du matériel ( hors consommable ) :10% du prix de vente par jour pour de la location courte
