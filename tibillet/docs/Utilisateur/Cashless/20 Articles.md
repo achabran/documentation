@@ -16,11 +16,11 @@ ventes auquels ils sont rattachés.
 - Cliquez sur "Articles et tarifs" dans le menu de gauche.
 - Cliquez sur le bouton "Ajouter article" en haut à droite.
 - Renseignez le prix de vente.
-- Le prix d'achat sert à estimer les bénéfices d'une soirée affichés sur le rapprot comptable quotidient. Ce n'est pas
+- Le prix d'achat sert à estimer les bénéfices d'une soirée affichés sur le rapport comptable quotidient. Ce n'est pas
   une valeur obligatoire.
 - Renseignez la catégorie de l'article (Cela determine la façon dont il est affiché sur l'interface cashless. Cf
   Catégorie.)
-- Changez la couleur du texte si vous souhaitez un meilleur contraste d'affincahge.
+- Changez la couleur du texte si vous souhaitez un meilleur contraste d'affichage.
 - Enregistrez
 
 ## 2- L'ajouter à un point de vente
