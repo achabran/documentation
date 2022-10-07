@@ -1,6 +1,6 @@
 ---
-slug: portefeuille_federe
-title: Portefeuille Fédéré
+slug: federation-part1
+title: TiBillet Fédéré - Part1
 authors: jonas
 wiktags: [cashless, fédération, portefeuille, waller]
 image: /img/cr_220310_portefeuille_partage/FEDERONS-01.png
