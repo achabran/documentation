@@ -125,7 +125,7 @@ code source de vos couches de gestion sous licence SSPL.
 SSPL s'appuie sur GPLv3 et est considérée comme une licence copyleft. Cela signifie que si vous utilisez le code source
 et que vous créez des œuvres dérivées, ces dernières doivent être également proposées sous licence SSPL et publiées.
 
-Pour en savoir plus, consultez les liens ci dessous :
+Pour en savoir plus, consultez les liens ci-dessous :
 
 - [https://www.elastic.co/fr/pricing/faq/licensing](https://www.elastic.co/fr/pricing/faq/licensing)
 - [https://www.mongodb.com/licensing/server-side-public-license](https://www.mongodb.com/licensing/server-side-public-license)
