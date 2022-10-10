@@ -3,7 +3,7 @@ slug: federation-part2
 title: Fédération 2/3 - L'agenda partagé
 authors: jonas
 wiktags: [cashless, fédération, portefeuille, waller]
-image: /img/cr_220310_portefeuille_partage/FEDERONS-01.png
+image: /img/federons/07-tenant-part1.png
 description: Fédérons TiBillet, première partie.
 ---
 
@@ -82,6 +82,6 @@ cartes NFC déja utilisées par les lieux ?
 
 ![/img/federons/11-cartecashless.png](/img/federons/11-cartecashless.png)
 
-Après l'agenda fédéré : La carte NFC fédérée !
+Après l'agenda, libérons les cartes NFC !
 
 À suivre dans la 3ᵉ partie ...

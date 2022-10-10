@@ -3,7 +3,7 @@ slug: federation-part1
 title: Fédération 1/3 - Introduction
 authors: jonas
 wiktags: [cashless, fédération, portefeuille, waller]
-image: /img/cr_220310_portefeuille_partage/FEDERONS-01.png
+image: /img/federons/03-multiples.png
 description: Fédérons TiBillet, première partie.
 ---
 
@@ -54,23 +54,7 @@ utilisateurs ...
 
 ![/img/federons/03-multiples.png](/img/federons/03-multiples.png)
 
-## Réunion des Tiers-Lieux
-
-Avec la Réunion des Tiers-lieux, nous avons lancé
-le chantier Outil Commun pour fédérer les pratiques,
-éviter de multiplier les données et mutualiser le matériel.
-
-Du côté de la team TiBillet, nous nous sommes affairés à construire
-les briques d'un logiciel libre utilisable par tout un territoire.
-
-Depuis plusieurs mois, nous changeons le moteur de notre application pour pouvoir construire un outil commun
-et fédéré de billetterie, d'agenda culturel et de cashless.
-
-![/img/federons/04-start_fede.png](/img/federons/04-start_fede.png)
-
-Pour réussir à construire TiBillet en outil fédéré,
-techniquement, il a fallu changer pas mal de choses.
-Et pas uniquement notre vision globale :)
+## Au commencement ...
 
 Au tout début, la "Stack' TiBillet (ensemble de boites techniques)
 était très centralisé :
@@ -98,14 +82,30 @@ de développer un nouveau modèle.
 
 Aujourd'hui (Octobre 2022), le chantier à beaucoup avancé.
 Il reste beaucoup à faire et [la feuille de route](https://nuage.tierslieux.re/s/sMPScgSPNgwRrWD)
-commence à bien se dessiner.
+commence à bien se dessiner :
 
-Pour résumer, nous souhaitons séparer le développement
+## Réunion des Tiers-Lieux
+
+Avec la Réunion des Tiers-lieux, nous avons lancé
+le chantier Outil Commun pour fédérer les pratiques,
+éviter de multiplier les données et mutualiser le matériel.
+
+Du côté de la team TiBillet, nous nous sommes affairés à construire
+les briques d'un logiciel libre utilisable par tout un territoire et dDepuis plusieurs mois, nous changeons le moteur de
+notre application pour pouvoir construire un outil commun
+et fédéré de billetterie, d'agenda culturel et de cashless.
+
+![/img/federons/04-start_fede.png](/img/federons/04-start_fede.png)
+
+Pour réussir à construire TiBillet en outil fédéré,
+techniquement, il a fallu changer pas mal de choses.
+Et pas uniquement notre vision globale :)
+
+Dans les grandes lignes, nous souhaitons séparer le développement
 et l'expérimentation en trois grandes étapes.
 
 - [L'agenda partagé](/blog/federation-part2)
 - Le portefeuille fédéré
 - Les monnaies locales
-
 
 À suivre dans la [deuxième partie](/blog/federation-part2) ...
