@@ -12,9 +12,9 @@ description: Fédérons TiBillet, première partie.
 Cet article est un tout petit peu technique, mais tout à fait accessible à quiconque souhaite
 plus d'information sur le chantier en cours.
 
-Avec le collectif "La réunion des Tiers Lieux" se lance un grand chantier autour des outils
-communs. Nous détaillons ici une partie, celle de la construction et la decentralisation de TiBillet pour un 
-agenda et un portefeuille cashless partagé à toute un territoire.
+Avec le collectif **La Réunion des Tiers Lieux** (RTL) se lance un grand chantier autour des outils
+communs. Nous détaillons ici une partie, celle de la construction et la decentralisation d'un  
+agenda et d'un portefeuille cashless partagé à tout un territoire.
 
 ## Introduction
 
@@ -33,17 +33,18 @@ les données souvent redondantes.
 
 Parfois même, nous alimentons des plateformes
 silo qui enferment et captent nos données sans
-avoir la main sur la visibilité de nos actions : 
+avoir la main sur la visibilité de nos actions :
 nous sommes souvent devenus dépendant des algorithmes
 des GAFAM qui décident de notre visibilité.
 
 ![/img/federons/02-silo.png](/img/federons/02-silo.png)
 
-Avec TiBillet, nous participons aussi malgré nous à cette isolation.
-Depuis 2010, nous construisons des outils numériques pour l'évènementiel culturel.
+## TiBillet ?
 
-Avec TiBillet, cChaque lieux peut possèder un Cashless avec une carte NFC
-et son instance de billetterie avec son agenda.
+Avec TiBillet, nous participons aussi malgré nous à cette isolation.
+Depuis 2010, nous construisons des outils numériques pour l'évènementiel culturel :
+Chaque lieu peut posseder une carte d'adhésion et de paiement sans contact (Cashless) et son instance de billetterie
+avec son agenda.
 
 Le public peut réserver sa place de concert et recharger sa carte en ligne.
 Chaque lieu à son instance, ses membres et utilisateurs bien à lui.
@@ -52,6 +53,8 @@ Et sur un petit territoire comme la Réunion, c'est souvent les mêmes
 utilisateurs ...
 
 ![/img/federons/03-multiples.png](/img/federons/03-multiples.png)
+
+## Réunion des Tiers-Lieux
 
 Avec la Réunion des Tiers-lieux, nous avons lancé
 le chantier Outil Commun pour fédérer les pratiques,
@@ -100,3 +103,9 @@ commence à bien se dessiner.
 Pour résumer, nous souhaitons séparer le développement
 et l'expérimentation en trois grandes étapes.
 
+- [L'agenda partagé](/blog/federation-part2)
+- Le portefeuille fédéré
+- Les monnaies locales
+
+
+À suivre dans la [deuxième partie](/blog/federation-part2) ...
