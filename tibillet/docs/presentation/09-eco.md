@@ -127,7 +127,7 @@ et que vous créez des œuvres dérivées, ces dernières doivent être égaleme
 
 Pour en savoir plus, consultez les liens ci dessous :
 
-- [https://www.elastic.co/fr/pricing/faq/licensing](https://webassets.mongodb.com/_com_assets/legal/SSPL-compared-to-AGPL.pdf)
+- [https://www.elastic.co/fr/pricing/faq/licensing](https://www.elastic.co/fr/pricing/faq/licensing)
 - [https://www.mongodb.com/licensing/server-side-public-license](https://webassets.mongodb.com/_com_assets/legal/SSPL-compared-to-AGPL.pdf)
 - [https://webassets.mongodb.com/_com_assets/legal/SSPL-compared-to-AGPL.pdf](https://webassets.mongodb.com/_com_assets/legal/SSPL-compared-to-AGPL.pdf)
 - [https://www.coss.community/cossc/sspl-re-takes-the-stage-in-2021-2koa](https://www.coss.community/cossc/sspl-re-takes-the-stage-in-2021-2koa)
