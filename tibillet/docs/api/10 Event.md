@@ -1,6 +1,6 @@
 ---
 sidebar_position: 10
-slug: free_event
+slug: events
 title: Évènements.
 description: Créez un évènement avec entrée libre.
 keywords: [cashless, billetterie, ticketing, cli, curl, python]
@@ -36,7 +36,7 @@ Exemples complets sur
 la [documentation Postman](https://documenter.getpostman.com/view/17519122/UVeDtTFC#faef2591-ef11-4860-8561-66b76dbf5bf7).
 
 
-## Évènement sans artiste avec entrée libre :
+## Évènement sans artiste avec entrée libre
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';

@@ -1,3 +1,13 @@
+---
+sidebar_position: 1
+slug: install_ticketing
+title: Installation
+description: Installation de la billetterie fédéré via Docker.
+keywords: [cashless, billetterie, ticketing]
+wiktags: [cashless, billetterie, ticketing]
+authors: jonas
+---
+
 # Installation
 
 Une [version de démonstration](/docs/presentation/Demonstration) est disponible en ligne.
