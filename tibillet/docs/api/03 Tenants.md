@@ -103,21 +103,30 @@ par defauilt est "meta". Il est possible de changer l'adresse avant l'installati
 la racine du docker-compose. Il est aussi possible de changer l'adresse post install dans l'administration ROOT.
 
 ## Lister les tenants
+
 À lancer sur la première META.
+
+Aucune autorisation n'est nécéssaire pour lister les tenants d'un serveur.
 
 ```text
 # all tenant :
-GET https://meta.tibillet.local/api/place/
+GET https://meta.<domain>/api/place/
 
 # retrieve one tenant :
-GET https://meta.tibillet.local/api/place/<uuid>
+GET https://meta.<domain>/api/place/<uuid>
 ```
-
 
 ## Création de nouveau tenant
 
+:::note
+
+BETA en cours : En plus de l'autorisation spéficifique de la clé d'Api, l'utilisateur enregistré doit avoir une
+autorisation spéciale pour la création de tenant. La case "Peux créer des tenants" doit être coché dans l'interface d'administration ROOT : ```https://www.<domain>/admin/```.
+
+:::
+
 ```
-POST /api/prices/
+POST https://meta.<domain>/api/place/
 ```
 
 | Item              | type    | Requis |
