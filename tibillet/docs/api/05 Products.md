@@ -1,5 +1,5 @@
 ---
-sidebar_position: 03
+sidebar_position: 05
 slug: products
 title: Produits
 description: Créez et listez les produits
