@@ -1,7 +1,7 @@
 ---
 sidebar_position: 10
 slug: events
-title: Évènements.
+title: Évènements
 description: Créez un évènement avec entrée libre.
 keywords: [cashless, billetterie, ticketing, cli, curl, python]
 wiktags: [cashless, billetterie, ticketing, curl, python]
