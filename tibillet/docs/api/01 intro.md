@@ -21,3 +21,6 @@ Une documentation complète des points d'api est disponible ici, pour une auth J
 [https://documenter.getpostman.com/view/17519122/UVeDtTFC](https://documenter.getpostman.com/view/17519122/UVeDtTFC)
 
 Certaines actions sont aussi disponibles via une autorisation [avec clé d'api](/docs/api/apikey) au lieu d'un JWT.
+
+Une collection pour la plateforme de test API [Insomnia](https://insomnia.rest/) est disponible pour l'exemple : 
+[insomnia_tibillet_event.json](/insomnia/Insomnia_tibillet_event.json)
