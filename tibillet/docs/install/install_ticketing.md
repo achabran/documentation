@@ -18,12 +18,17 @@ Une [version de démonstration](/docs/presentation/Demonstration) est disponible
 
 ```shell
 git clone git@github.com:TiBillet/TiBillet.git
+
+# Change branch to PreProd
 cd TiBillet
 git checkout origin/PreProd
+
+# Change environment credential inside .env
 cd Docker/Development
 cp env_example .env
-# change cred inside .env
 nano .env
+
+# Launch in detached mode
 docker compose up -d
 ```
 
@@ -42,6 +47,9 @@ npm install
 npm run dev
 ```
 
+
+## No Reverse proxy
+
 No reverse proxy ? No problem with linux !
 
 Just add to /etc/hosts the domain and subdomain of your choice.
@@ -52,3 +60,27 @@ Just add to /etc/hosts the domain and subdomain of your choice.
 172.17.0.1       demo.tibillet.local
 ```
 
+#### Admin Root :
+http://www.tibillet.local:8002/admin
+#### Admin Tenant :
+http://demo.tibillet.local:8002/admin
+#### Front Tenant 
+http://demo.tibillet.local:8004
+#### Front Meta 
+http://m.tibillet.local:8004
+
+
+## With Traefik as reverse proxy 
+
+Example for Widlcard with Traefik and OVH DNS Challenge :
+
+https://github.com/TiBillet/Traefik-reverse-proxy/tree/main/wildcard
+
+#### Admin Root :
+https://www.tibillet.local/admin
+#### Admin Tenant :
+https://demo.tibillet.local/admin
+#### Front Tenant 
+https://demo.tibillet.local
+#### Front Meta 
+https://m.tibillet.local
