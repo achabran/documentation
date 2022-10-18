@@ -1,7 +1,7 @@
 ---
 sidebar_position: 9
 slug: tarifs
-title: Tarifs, conditions et licences.
+title: Tarifs, conditions et licences
 authors: jonas
 wiktags: [cashless, billetterie, ticketing, features]
 ---
