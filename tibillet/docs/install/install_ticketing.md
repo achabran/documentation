@@ -84,3 +84,15 @@ https://demo.tibillet.local/admin
 https://demo.tibillet.local
 #### Front Meta 
 https://m.tibillet.local
+
+
+# Update
+
+```bash
+git pull
+cd Docker/Development
+docker compose pull
+docker compose down
+docker compose up -d
+docker exec -ti billetterie_django /usr/local/bin/python /DjangoFiles/manage.py migrate
+```
