@@ -8,7 +8,7 @@ const FeatureList = [
         Svg: require('@site/static/img/undraw_report_re_f5n5.svg').default,
         description: (
             <>
-                Une suite d'applications pour gérer de l'évenementiel éthique :
+                Une suite d'applications pour gérer de l'évenementiel :
                 Adhésion, billetterie, cashless, monnaie temps, gestion de buvette et de restauration.
             </>
         ),
