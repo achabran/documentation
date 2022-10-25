@@ -20,9 +20,9 @@ commun ( SCIC ).
 La création de commun est au cœur de notre philosophie. Tiers-lieux, associations, coopératives : nous nous
 ressemblons !
 
-À ce titre, nous imaginons trois modèles économiques pour notre solution, encadrés par une licence de type CopyLeft GPL.
+À ce titre, nous imaginons plusieurs modèles économiques pour notre solution, encadrés par une licence de type CopyLeft GPL.
 
-## Modèle Coopératif
+## Modèle 1 : Coopératif
 
 Notre modèle économique préféré !
 
@@ -34,25 +34,24 @@ développeurs informatique d'outils open sources ... bref, dans toute une filiè
 commun.
 
 Équipement : vous réglez uniquement le matériel complémentaire dont vous avez besoin, à prix coûtant, et vous bénéficiez
-de nos conseils d'utilisateurs chevronnés. Nous nous chargeons également de l'installation et de la formation.
+de nos conseils d'utilisateurs chevronnés.
 
 Vous entrez dans un système de monnaie locale et partagée entre tous les acteurs de la coopérative.
 
-La SCIC TiBillet se charge de gérer et d'assurer les transactions en toute transparence et toute sécurité, et de gérer
-les demandes de remboursement des cartes des clients et festivaliers.
+Vous avez toujours la responsabilité des transactions financières au sein de votre établissement (TiBillet ne fait pas office de banque) mais vos utilisateurs possèdent désormais une carte NFC valable dans tous les lieux partenaires.
 
 En dehors des frais bancaires indépendants pour l'achat en ligne (Stripe = 1.40%), aucune commission n'est prélevée sur
 les ventes et vous encaissez l'intégralité de vos recettes de billetterie et de transactions du Cashless, tout en
 bénéficiant du système de gestion de salle et de préparation de commande.
 
-Vos évènements bénéficient de l'ensemble de nos outils de communication ( META-Billetterie, réseaux sociaux, mailing
+Vos évènements disposent de l'ensemble de nos outils de communication ( META-Billetterie, réseaux sociaux, mailing
 list, etc ... ) pour leur promotion : Nous invitons tout au long de l'année les utilisateurs à profiter de vos
 évènements.
 
 Vous participez à l'enrichissement de l'ensemble des données générées par les artistes pour leur création d'espace
 internet, et vous en bénéficiez en retour, autant que du calendrier commun a toute la filière culturelle.
 
-Vous bénéficiez aussi d'une oreille attentive à tous vos besoins et idées spécifiques de développement sur mesure
+TiBillet c'est aussi une équipe passioné attentive à tous vos besoins et idées spécifiques de développement sur mesure
 de l'application.
 
 En bref : Vous faites partie du projet TiBillet et de tout son réseau !
@@ -75,22 +74,20 @@ non dépensé sur les cartes, directement dans votre trésorerie.
 
 La répartition du pourcentage de cette somme sera définie en fonction des besoins de tous les acteurs et des
 développeurs de l'application TiBillet, en toute transparence, et dans l'optique d'un but non lucratif de la
-coopérative. (Zéro dividende, nous sommes tous actionnaires).
+coopérative (zéro dividende).
 
-Autrement dit, TiBillet ne vous coûte rien : Il vous rapporte !
+Autrement dit, TiBillet vous coûte peu mais surtout : Il vous rapporte !
 
-## Prestation de service
+## Modèle 2 : Prestation de service
 
 Nous vendons nos services pour l'installation de TiBillet dans votre structure.
 
-Vous n'avez à vous occuper de rien, nous assurons le service après-vente, l'installation et la formation, voire
-l'utilisation à l'aide de nos bénévoles associatifs.
+Cela comprend : mise à disposition du logiciel, création et installation du matériel, formation de vos équipes, maintenance/SAV et développement de nouvelles fonctionnalités sur mesure. Vous n'avez à vous occuper de rien.
 
 Nous pouvons nous déplacer dans le monde entier pour installer et vous former sur l'utilisation de l'outil de
-Billetterie, de cashless et de gestion de salle.
+Billetterie, de cashless et de gestion de salle (conditions de défraiement à définir ensemble).
 
-Nous pouvons vous vendre le matériel nécessaire au fonctionnement, et ce, à un prix très largement inférieur à nos
-concurrents (prix HT):
+Nous vendont le matériel nécessaire au fonctionnement à un prix très largement inférieur à nos concurrents (prix HT):
 
 - 0.80€ / Carte NFC ( 1000 exemplaire minimum )
 - 700€ / Terminal fixe avec écran 13 pouces tactile.
@@ -105,7 +102,7 @@ concurrents (prix HT):
 - 0% par billet vendu.
 - 0.25€ + 1.40% par paiement en ligne (Commission Stripe indépendante de notre part)
 
-Possibilité de location du matériel (hors consommable) :10% du prix de vente par jour pour de la location courte
+Possibilité de location du matériel (hors consommable) : 10% du prix de vente par jour pour de la location courte
 durée.
 
 Pour toute demande, n'hésitez pas à nous contacter pour un devis personnalisé.
