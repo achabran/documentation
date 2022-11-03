@@ -20,8 +20,9 @@ GET /api/reservations/<uuid>
 ```
 
 ```python title="Reservations state"
+
 # several possible states for one reservation
-CANCELED, CREATED, UNPAID, FREERES, FREERES_USERACTIV, PAID, PAID_ERROR, PAID_NOMAIL, VALID, = 'C', 'R', 'U', 'F', 'FA', 'P', 'PE', 'PN', 'V'
+CANCELED, CREATED, UNPAID, FREERES, FREERES_USERACTIV, PAID, PAID_ERROR, PAID_NOMAIL, VALID, = 'C', 'R', 'U', 'F', 'FA', 'P', 'PE', 'PN', 'V',
 TYPE_CHOICES = [
     (CANCELED, _('Annulée')),
     (CREATED, _('Crée')),
@@ -34,6 +35,19 @@ TYPE_CHOICES = [
     (VALID, _('Validée')),
 ]
 ```
+
+| Python Variable   | String | Traduction                 |
+|-------------------|--------|----------------------------|
+| CANCELED          | C      | Annulée                    |
+| CREATED           | R      | Crée                       |
+| UNPAID            | U      | Non payée                  |
+| FREERES           | F      | Mail non vérifié           |
+| FREERES_USERACTIV | FA     | Mail user vérifié          |
+| PAID              | P      | Payée                      |
+| PAID_ERROR        | PE     | Payée mais mail non valide |
+| PAID_NOMAIL       | PN     | Payée mais mail non envoyé |
+| VALID             | V      | Validée                    |
+
 
 ```json title="Reservations"
 [
