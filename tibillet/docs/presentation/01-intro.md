@@ -44,3 +44,5 @@ gestion avec TiBillet.
 Aujourd'hui (Septembre 2021), TiBillet est en expérimentation dans 2 Tiers-lieux : La Raffinerie à St Paul et Vavang'Art
 à L’Entre-deux. Un café concert : Le Bisik à St Benoît et un festival : Manapany Festival depuis 2019. Cela représente
 plus de 10 000 cartes NFC fabriquées pour une gestion d'environ 200 000 € de transactions par an. 
+
+![/img/tibilletcircle.jpg](/img/tibilletcircle.jpg)
