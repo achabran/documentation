@@ -21,12 +21,15 @@ git clone git@github.com:TiBillet/TiBillet.git
 
 # Change branch to PreProd
 cd TiBillet
-git checkout origin/PreProd
+git checkout PreProd
 
 # Change environment credential inside .env
 cd Docker/Development
 cp env_example .env
 nano .env
+
+# if not created before (with Traefik)
+docker network create frontend
 
 # Launch in detached mode
 docker compose up -d
