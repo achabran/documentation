@@ -38,8 +38,6 @@ Vous avez toujours la responsabilité des transactions financières au sein de v
 office de banque) mais vos utilisateurs possèdent désormais une carte NFC valable dans tout le réseau TiBillet.
 Leur portefeuille cashless est valable à vie, sans frais d'abonnement ni de rechargement.
 
-Seule condition : S'en servir au moins une fois par an.
-
 En dehors des frais bancaires indépendants pour l'achat en ligne (Stripe = 1.40%), aucune commission n'est prélevée sur
 les ventes et vous encaissez l'intégralité de vos recettes de billetterie et de ventes sur les points cashless, tout en
 bénéficiant du système de gestion de salle restaurant et de préparation de commande.
@@ -51,24 +49,44 @@ Et régulièrement, nous invitons tout au long de l'année les utilisateurs du r
 Enfin, si vous le souhaitez, nous vous inviterons à entrer en sociétariat dans la coopérative,
 pour que vous fassiez partie intégrante du projet TiBillet et de tout son réseau !
 
-### Le portefeuille fédéré : une condition sine qua non
+### Le portefeuille fédéré et redistribution : une condition sine qua non
 
-L'argent rechargé sur le portefeuille cashless est disponible à vie et remboursable à tout moment, à condition qu'il
-reste actif.
+Le système de redistribution de Tibillet vise à favoriser l'économie circulaire et solidaire 
+en réinjectant dans le réseau coopératif une partie de l'argent qui reste sur les cartes cashless 
+non utilisées pendant un certain temps. 
 
-Autrement dit, au bout d'un certain temps de non-utilisation de la carte (à définir ensemble), et après de nombreuse
-relance encourageant l'utilisateur à utiliser sa carte dans le réseau, nous collectons
-l'argent restant pour le réinjecter et le partager dans tout le système coopératif.
+Cette réinjection permet de soutenir le développement de la coopérative et de nouveaux projets culturels, 
+tout en continuant à encourager l'utilisation des cartes et à créer du lien entre les différents acteurs du réseau. 
 
-Tout ceci en toute transparence et à la connaissance du titulaire du portefeuille :
+Le système de redistribution est transparent et connu des titulaires de cartes, 
+qui sont invités régulièrement à profiter des évènements proposés par la coopérative pour dépenser leur solde disponible.
 
-Nous invitons tout au long de l'année les utilisateurs inactifs à profiter des évènements proposés par toute la
-coopérative ( les vôtres ^_^ ) pour dépenser le solde disponible sur leur carte.
+En rejoignant la coopérative Tibillet, vous devenez partie intégrante d'un projet d'économie sociale et solidaire 
+qui vise à soutenir et développer la filière culturelle de votre territoire.
 
-En pratique, et après constat factuel, cela signifie que vous récolterez une grande partie de l'argent
-non dépensé sur les cartes, directement dans votre trésorerie.
-Une autre partie finance le développement de la coopérative, et une dernière partie est redistribuée dans un fond
-pour la création de nouveaux lieux et évènements culturels.
+En pratique, cela signifie que vous pouvez récolter une grande partie de l'argent non dépensé sur les cartes cashless, 
+directement dans votre trésorerie, en encourageant les utilisateurs inactifs à profiter des évènements proposés par votre instance. 
+
+Cela peut être un avantage pour votre établissement, car vous pouvez utiliser cet argent pour financer le développement 
+de votre activité ou pour créer de nouveaux lieux et évènements culturels. 
+
+En outre, en utilisant le système cashless de TiBillet, vous bénéficiez également de la gestion de salle de restauration et de la prise de commande, ce qui peut vous aider à améliorer votre organisation et votre rentabilité. Enfin, en adhérant à la coopérative TiBillet, vous faites partie d'un réseau de créateurs associatifs, de festivals, d'artistes, d'artisans et de développeurs informatique, qui partagent les mêmes valeurs de solidarité et de développement d'une économie culturelle durable.
+
+### Une aventure collective
+
+Si vous souhaitez être acteur de l'économie sociale et solidaire et participer à une aventure collective en faveur 
+de la création d'un commun culturel, alors rejoindre la coopérative TiBillet est une excellente opportunité. 
+
+En tant que membre de la coopérative, vous aurez la possibilité de bénéficier des outils de communication et de promouvoir 
+vos événements au sein de l'agenda fédéré, tout en faisant partie intégrante du projet et de son réseau. 
+Vous pourrez également contribuer à la création de nouveaux lieux et événements culturels grâce à la réinjection de l'argent 
+non dépensé sur les portefeuilles cashless dans un fond dédié. 
+
+Rejoindre la coopérative TiBillet, c'est avoir l'opportunité de faire partie d'une aventure collective et de 
+contribuer à un projet d'économie sociale et solidaire en faveur de la culture : vous faites partie d'un réseau de créateurs associatifs, 
+de festivals, d'artistes, d'artisans et de développeurs informatique, qui partagent les mêmes valeurs de solidarité 
+et de développement d'une économie culturelle durable.
+
 
 #### Autrement dit, TiBillet ne vous coute pas : Il vous rapporte !
 

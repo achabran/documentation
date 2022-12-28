@@ -21,9 +21,14 @@ de tiers lieux ou d'associations et créer un réseau de partenaires dédié à 
 Vous pouvez participer à cette aventure collective en entrant en sociétariat 
 ou bénéficier des services de prestation de notre coopérative pour l'installation de la solution dans votre structure. 
 
-Rejoignez le réseau TiBillet pour booster la culture de votre région et développer votre filière culturelle !
+Rejoindre la coopérative Tibillet, c'est intégrer un réseau solidaire et dynamique, qui vous accompagne pour développer 
+votre projet culturel tout en faisant partie de la création d'une économie alternative basée sur la coopération et la solidarité. 
 
-Contactez-nous sur **[Discord](https://discord.gg/7FJvtYx)** !
+En tant que membre de la coopérative, vous bénéficiez de l'ensemble des outils de communication et de gestion mis à disposition par TiBillet, 
+ainsi que de l'expertise et du soutien de tous les acteurs du réseau. 
+
+C'est également l'opportunité de participer activement à la définition et à l'évolution du projet, 
+et de contribuer à la création d'un monde culturel plus juste et durable. Alors n'hésitez pas, rejoignez-nous et contactez-nous sur **[Discord](https://discord.gg/7FJvtYx)** !
 
 ## Pourquoi faire ?
 
