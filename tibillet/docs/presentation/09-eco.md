@@ -8,12 +8,15 @@ wiktags: [cashless, billetterie, ticketing, features]
 
 # Tarifs et conditions
 
-TiBillet est un projet qui prend ses racines dans le monde associatif. Il a été pensé et développé, en interne, par
-l'association des 3Peaks, l'équipe organisatrice du Manapany ( Surf ) Festival, et continue d'être développé dans les
-réseaux de tiers-lieux sur l'ile de la Réunion et de métropole.
+TiBillet est un ensemble d'outil qui permet aux utilisateurs de participer à une économie sociale, solidaire et circulaire. 
+Le portefeuille est valable à vie et utilisable dans tout le réseau TiBillet, ce qui permet de créer une véritable 
+communauté de festivaliers et de soutenir l'émergence de nouveaux lieux et évènements culturels. 
 
-C'est un projet d'économie sociale et solidaire portée par une société coopérative d’intérêt
-collectif ( SCIC ).
+En tant qu'organisateur, vous profitez de cette communauté pour promouvoir vos évènements et bénéficiez 
+d'une solution de gestion de salle et de prise de commande avancée. 
+
+En tant qu'utilisateur, vous pouvez participer activement à cette économie circulaire et profiter de tous les 
+avantages offerts par le portefeuille fédéré.
 
 À ce titre, nous proposons plusieurs modèles économiques :
 
@@ -32,19 +35,15 @@ En pratique, vous réglez uniquement le matériel complémentaire dont vous avez
 nous vous accompagnons dans la mise en place et dans l'utilisation de vos outils et nous sommes tout particulièrement
 à l'écoute de vos besoins et éventuelles modifications sur mesures.
 
-Vous entrez dans un système de portefeuille cashless partagé entre tous les acteurs du réseau.
-
 Vous avez toujours la responsabilité des transactions financières au sein de votre établissement (TiBillet ne fait pas
 office de banque) mais vos utilisateurs possèdent désormais une carte NFC valable dans tout le réseau TiBillet.
 Leur portefeuille cashless est valable à vie, sans frais d'abonnement ni de rechargement.
 
-En dehors des frais bancaires indépendants pour l'achat en ligne (Stripe = 1.40%), aucune commission n'est prélevée sur
-les ventes et vous encaissez l'intégralité de vos recettes de billetterie et de ventes sur les points cashless, tout en
-bénéficiant du système de gestion de salle restaurant et de préparation de commande.
+En dehors des frais bancaires indépendants pour l'achat en ligne, aucune commission n'est prélevée sur
+les ventes et vous encaissez l'intégralité de vos recettes de billetterie et de ventes sur les points cashless.
 
 Vos évènements disposent de l'ensemble de nos outils de communication (Agenda local et fédéré, réseaux sociaux, mailing
-list, etc ... ).
-Et régulièrement, nous invitons tout au long de l'année les utilisateurs du réseau à profiter de vos évènements.
+list, etc ... ), et régulièrement, nous invitons tout au long de l'année les utilisateurs du réseau à profiter de vos évènements.
 
 Enfin, si vous le souhaitez, nous vous inviterons à entrer en sociétariat dans la coopérative,
 pour que vous fassiez partie intégrante du projet TiBillet et de tout son réseau !
@@ -70,23 +69,15 @@ directement dans votre trésorerie, en encourageant les utilisateurs inactifs à
 Cela peut être un avantage pour votre établissement, car vous pouvez utiliser cet argent pour financer le développement 
 de votre activité ou pour créer de nouveaux lieux et évènements culturels. 
 
-En outre, en utilisant le système cashless de TiBillet, vous bénéficiez également de la gestion de salle de restauration et de la prise de commande, ce qui peut vous aider à améliorer votre organisation et votre rentabilité. Enfin, en adhérant à la coopérative TiBillet, vous faites partie d'un réseau de créateurs associatifs, de festivals, d'artistes, d'artisans et de développeurs informatique, qui partagent les mêmes valeurs de solidarité et de développement d'une économie culturelle durable.
+En outre, en utilisant le système cashless de TiBillet, vous bénéficiez également de la gestion de salle 
+de restauration et de la prise de commande, ce qui peut vous aider à améliorer votre organisation et votre rentabilité. 
 
 ### Une aventure collective
-
-Si vous souhaitez être acteur de l'économie sociale et solidaire et participer à une aventure collective en faveur 
-de la création d'un commun culturel, alors rejoindre la coopérative TiBillet est une excellente opportunité. 
-
-En tant que membre de la coopérative, vous aurez la possibilité de bénéficier des outils de communication et de promouvoir 
-vos événements au sein de l'agenda fédéré, tout en faisant partie intégrante du projet et de son réseau. 
-Vous pourrez également contribuer à la création de nouveaux lieux et événements culturels grâce à la réinjection de l'argent 
-non dépensé sur les portefeuilles cashless dans un fond dédié. 
 
 Rejoindre la coopérative TiBillet, c'est avoir l'opportunité de faire partie d'une aventure collective et de 
 contribuer à un projet d'économie sociale et solidaire en faveur de la culture : vous faites partie d'un réseau de créateurs associatifs, 
 de festivals, d'artistes, d'artisans et de développeurs informatique, qui partagent les mêmes valeurs de solidarité 
 et de développement d'une économie culturelle durable.
-
 
 #### Autrement dit, TiBillet ne vous coute pas : Il vous rapporte !
 
