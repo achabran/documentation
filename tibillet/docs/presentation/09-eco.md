@@ -83,34 +83,27 @@ et de développement d'une économie culturelle durable.
 
 ## Modèle 2 : Prestation de service
 
-Nous vendons nos services pour l'installation de TiBillet dans votre structure.
+Le modèle commercial de TiBillet vous permet de bénéficier de tous les outils de billetterie, de cashless et de gestion 
+de salle de restauration en achetant un abonnement. Ce modèle comprend l'installation du logiciel, la création 
+et l'installation du matériel, la formation de votre équipe, la maintenance et le développement de nouvelles fonctionnalités sur mesure. 
 
-Cela comprend : installation d'une instance logicielle, création et installation du matériel, formation de vos équipes,
-maintenance/SAV et développement de nouvelles fonctionnalités sur mesure. Vous ne vous occupez de rien.
+Vous n'aurez à vous occuper de rien, nous nous déplaçons dans le monde entier pour installer et former votre équipe 
+sur l'utilisation de l'outil. Le prix du matériel nécessaire au fonctionnement de la solution est très concurrentiel 
+et les frais de transaction sont de 0% pour les ventes de billets et les transactions cashless. 
 
-Nous pouvons nous déplacer dans le monde entier pour installer et vous former sur l'utilisation de l'outil de
-Billetterie, de cashless et de gestion de salle (conditions de défraiement à définir ensemble).
-
-Le prix du matériel nécessaire au fonctionnement de la solution est très concurrentiel.
-
-- 0.80€ / Bracelet et/ou Carte NFC ( 1000 exemplaire minimum )
+- 0.80€ / Bracelet et/ou Carte NFC (1000 exemplaires minimum)
 - 700€ / Terminal fixe avec écran 13 pouces tactile.
 - 500€ / Terminal fixe avec écran 7 pouces tactile.
+- 500€ Borne de rechargement autonomme via TPE carte bancaire.
 - 400€ / Imprimante thermique pour gestion de commande en cuisine et/ou au bar.
 - 250€ / Jour / Salarié sur place pour formation et installation + Frais de déplacement et d'hébergement.
 - 0% par transaction Cashless.
 - 0% par billet vendu.
 
-Avec notre partenaire Stripe :
+Vous pouvez également opter pour la location du matériel à un taux de 10% du prix de vente par jour pour de la location à courte durée.
 
-- 250€ TPE connecté a la solution de cashless et de caisse enregistreuse.
-- 0.25€ + 1.40% par rechargement en ligne (Commission Stripe indépendante de notre part)
-
-Possibilité de location du matériel (hors consommable) : 10% du prix de vente par jour pour de la location courte
-durée.
-
-Pour toute demande, n'hésitez pas à nous contacter pour un devis personnalisé : contact at tibillet.re ou sur notre *
-*[Discord](https://discord.gg/7FJvtYx)**.
+Si vous êtes intéressé par ce modèle commercial, n'hésitez pas à nous contacter pour un devis personnalisé :
+contact at tibillet.re ou venez discuter avec nous sur **[Discord](https://discord.gg/7FJvtYx)**.
 
 ## Licence et modèle SSPL
 
