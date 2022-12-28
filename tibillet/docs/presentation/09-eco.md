@@ -9,62 +9,54 @@ wiktags: [cashless, billetterie, ticketing, features]
 # Tarifs et conditions
 
 TiBillet est un projet qui prend ses racines dans le monde associatif. Il a été pensé et développé, en interne, par
-l'association des 3Peaks, l'équipe organisatrice du Manapany ( Surf ) Festival !
+l'association des 3Peaks, l'équipe organisatrice du Manapany ( Surf ) Festival, et continue d'être développé dans les
+réseaux de tiers-lieux sur l'ile de la Réunion et de métropole.
 
-Le projet bénéficie notamment du soutien du PRMA depuis sa présentation à la filière des musiques actuelles en 2019, et
-a pu obtenir quelques financements publics.
+C'est un projet d'économie sociale et solidaire portée par une société coopérative d’intérêt
+collectif ( SCIC ).
 
-C'est un projet qui se veut coopératif et qui voit sa forme commerciale portée par une société coopérative d’intérêt
-commun ( SCIC ).
+À ce titre, nous proposons plusieurs modèles économiques :
 
-La création de commun est au cœur de notre philosophie. Tiers-lieux, associations, coopératives : nous nous
-ressemblons !
-
-À ce titre, nous imaginons plusieurs modèles économiques pour notre solution, encadrés par une licence de type CopyLeft
-GPL.
-
-## Modèle 1 : Coopératif
+## Modèle 1 : Économie circulaire.
 
 Notre modèle économique préféré !
 
-Nous vous proposons d'entrer en sociétariat dans la coopérative TiBillet : une solution coopérative d’intérêt commun, de
-création de réseau et de monnaie locale pour booster la culture d'une région.
+Nous vous proposons de participer à une aventure collective en faveur d'une économie sociale, solidaire et circulaire.
 
-A ce titre, vous entrez dans un réseau de tiers-lieux, de créateurs associatifs de festival, d'artistes, d’artisans et
-développeurs informatique d'outils open sources ... bref, dans toute une filière culturelle qui se veut créateur d'un
+Votre billeterie, votre cashless et tous vos outils de gestion évènementiels s'inscrivent dans un réseau 
+de tiers-lieux, de créateurs associatifs, de festivals, d'artistes, d’artisans et
+développeurs informatique d'outils libres, bref, dans toute une filière culturelle qui se veut créateur d'un
 commun.
 
-Équipement : vous réglez uniquement le matériel complémentaire dont vous avez besoin, à prix coûtant, et vous bénéficiez
-de nos conseils d'utilisateurs chevronnés.
+En pratique, vous réglez uniquement le matériel complémentaire dont vous avez besoin, à prix coûtant, 
+nous vous accompagnons dans la mise en place et dans l'utilisation de vos outils et nous sommes tout particulièrement 
+à l'écoute de vos besoins et éventuelles modifications sur mesures.
 
-Vous entrez dans un système de monnaie locale et partagée entre tous les acteurs de la coopérative.
+Vous entrez dans un système de portefeuille cashless partagé entre tous les acteurs du réseau. 
 
 Vous avez toujours la responsabilité des transactions financières au sein de votre établissement (TiBillet ne fait pas
-office de banque) mais vos utilisateurs possèdent désormais une carte NFC valable dans tous les lieux partenaires.
+office de banque) mais vos utilisateurs possèdent désormais une carte NFC valable dans tout le réseau TiBillet.
+Leur portefeuille cashless est valable à vie, sans frais d'abonnement ni de rechargement. 
+
+Seule condition : S'en servir au moins une fois par an.
 
 En dehors des frais bancaires indépendants pour l'achat en ligne (Stripe = 1.40%), aucune commission n'est prélevée sur
-les ventes et vous encaissez l'intégralité de vos recettes de billetterie et de transactions du Cashless, tout en
-bénéficiant du système de gestion de salle et de préparation de commande.
+les ventes et vous encaissez l'intégralité de vos recettes de billetterie et de ventes sur les points cashless, tout en
+bénéficiant du système de gestion de salle restaurant et de préparation de commande.
 
-Vos évènements disposent de l'ensemble de nos outils de communication ( META-Billetterie, réseaux sociaux, mailing
-list, etc ... ) pour leur promotion : Nous invitons tout au long de l'année les utilisateurs à profiter de vos
-évènements.
+Vos évènements disposent de l'ensemble de nos outils de communication (Agenda local et fédéré, réseaux sociaux, mailing
+list, etc ... ).
+Et régulièrement, nous invitons tout au long de l'année les utilisateurs du réseau à profiter de vos évènements.
 
-Vous participez à l'enrichissement de l'ensemble des données générées par les artistes pour leur création d'espace
-internet, et vous en bénéficiez en retour, autant que du calendrier commun a toute la filière culturelle.
+Enfin, si vous le souhaitez, nous vous inviterons à entrer en sociétariat dans la coopérative, 
+pour que vous fassiez partie intégrante du projet TiBillet et de tout son réseau !
 
-TiBillet c'est aussi une équipe passionnée attentive à tous vos besoins et idées spécifiques de développement sur mesure
-de l'application.
+### Le portefeuille fédéré : une condition sine qua non
 
-En bref : Vous faites partie du projet TiBillet et de tout son réseau !
+L'argent rechargé sur le portefeuille cashless est disponible à vie et remboursable à tout moment, à condition qu'il reste actif.
 
-### La monnaie locale : une condition sine qua non
-
-L'argent rechargé sur le portefeuille cashless du festivalier et client est disponible à vie et remboursable à tout
-moment, à condition qu'il reste actif.
-
-Autrement dit, au bout d'un certain temps de non-utilisation de la carte (à définir ensemble), et après de nombreuses
-relance encourageant l'utilisateur à utiliser sa carte dans vos évènements, nous collectons
+Autrement dit, au bout d'un certain temps de non-utilisation de la carte (à définir ensemble), et après de nombreuse
+relance encourageant l'utilisateur à utiliser sa carte dans le réseau, nous collectons
 l'argent restant pour le réinjecter et le partager dans tout le système coopératif.
 
 Tout ceci en toute transparence et à la connaissance du titulaire du portefeuille :
@@ -72,14 +64,13 @@ Tout ceci en toute transparence et à la connaissance du titulaire du portefeuil
 Nous invitons tout au long de l'année les utilisateurs inactifs à profiter des évènements proposés par toute la
 coopérative ( les vôtres ^_^ ) pour dépenser le solde disponible sur leur carte.
 
-En pratique, et après constat factuel, cela signifie que vous récolterez automatiquement une grande partie de l'argent
+En pratique, et après constat factuel, cela signifie que vous récolterez une grande partie de l'argent
 non dépensé sur les cartes, directement dans votre trésorerie.
+Une autre partie finance le développement de la coopérative, et une dernière partie est redistribuée dans un fond 
+pour la création de nouveaux lieux et évènements culturels.
 
-La répartition du pourcentage de cette somme sera définie en fonction des besoins de tous les acteurs et des
-développeurs de l'application TiBillet, en toute transparence, et dans l'optique d'un but non lucratif de la
-coopérative (zéro dividende).
 
-Autrement dit, TiBillet vous coûte peu, mais surtout : Il vous rapporte !
+#### Autrement dit, TiBillet ne vous coute pas : Il vous rapporte !
 
 ## Modèle 2 : Prestation de service
 
@@ -93,37 +84,33 @@ Billetterie, de cashless et de gestion de salle (conditions de défraiement à d
 
 Le prix du matériel nécessaire au fonctionnement de la solution est très concurrentiel.
 
-- 0.80€ / Carte NFC ( 1000 exemplaire minimum )
+- 0.80€ / Bracelet et/ou Carte NFC ( 1000 exemplaire minimum )
 - 700€ / Terminal fixe avec écran 13 pouces tactile.
 - 500€ / Terminal fixe avec écran 7 pouces tactile.
-- 250€ / Smartphone Android pour prise de commande et paiement.
-- 100€ / Lecteur NFC déporté (sur batterie, appareillable avec n'importe quelle tablette ou téléphone Android équipé de
-  l’application TiBillet)
 - 400€ / Imprimante thermique pour gestion de commande en cuisine et/ou au bar.
-- 200€ / routeur wifi et réseau mesh.
 - 250€ / Jour / Salarié sur place pour formation et installation + Frais de déplacement et d'hébergement.
 - 0% par transaction Cashless.
 - 0% par billet vendu.
-- 0.25€ + 1.40% par paiement en ligne (Commission Stripe indépendante de notre part)
+
+Avec notre partenaire Stripe :
+- 250€ TPE connecté a la solution de cashless et de caisse enregistreuse.
+- 0.25€ + 1.40% par rechargement en ligne (Commission Stripe indépendante de notre part)
 
 Possibilité de location du matériel (hors consommable) : 10% du prix de vente par jour pour de la location courte
 durée.
 
-Pour toute demande, n'hésitez pas à nous contacter pour un devis personnalisé.
+Pour toute demande, n'hésitez pas à nous contacter pour un devis personnalisé : contact at tibillet.re ou sur notre **[Discord](https://discord.gg/7FJvtYx)**.
 
 ## Licence et modèle SSPL
 
-Le code du projet est ouvert et disponible sur Github : [https://github.com/TiBillet](https://github.com/TiBillet).
+Le code source de l'ensemble des briques du projet est ouvert et disponible sur Github : [https://github.com/TiBillet](https://github.com/TiBillet).
 
-Nous souhaitons être aussi ouverts et flexibles que possible tout en évitant que les fournisseurs commerciaux tiers
-proposent un service hébergé sans investir dans notre communauté.
-
-La licence SSPL est une licence "source-available" initialement créée par MongoDB. Elle comprend le meilleur de l'open
+La licence SSPL est une licence initialement créée par MongoDB. Elle comprend le meilleur de l'open
 source. Elle permet une utilisation, une modification et une redistribution gratuites et illimitées, à la seule
 condition que, si vous fournissez le produit en tant que service, vous devez publier les modifications apportées et le
 code source de vos couches de gestion sous licence SSPL.
 
-SSPL s'appuie sur GPLv3 et est considérée comme une licence copyleft. Cela signifie que si vous utilisez le code source
+SSPL s'appuie sur GPLv3 et est considérée comme une licence libre copyleft. Cela signifie que si vous utilisez le code source
 et que vous créez des œuvres dérivées, ces dernières doivent être également proposées sous licence SSPL et publiées.
 
 Pour en savoir plus, consultez les liens ci-dessous :
