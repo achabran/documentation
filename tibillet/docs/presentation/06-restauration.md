@@ -1,7 +1,7 @@
 ---
-sidebar_position: 7
+sidebar_position: 5
 slug: restauration
-title: Logiciel de prise de commande
+title: Gestion de salle
 authors: jonas
 wiktags: [cashless, billetterie, ticketing, features]
 ---

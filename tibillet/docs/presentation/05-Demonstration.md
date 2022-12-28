@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 7
 slug: demonstration
 title: Démonstration
 description: Instance de démonstration.

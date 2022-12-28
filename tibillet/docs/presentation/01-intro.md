@@ -11,38 +11,43 @@ authors: jonas
 
 # Introduction
 
-**TiBillet** est un système de paiement sans contact, zéro espèce (cashless), de gestion d'évènement, de gestion de
-salle de restauration, d'engagement associatif et d'achat de billets en ligne … mais pas uniquement !
+TiBillet est une solution d'adhésion, reservation, billetterie, cashless et gestion de salle de restauration libre 
+accessible à tous les acteurs de la filière culturelle d'une région, 
+et qui favorise l'émergence de nouveaux lieux et évènements culturels grâce à une économie sociale, solidaire et circulaire.
 
-C'est aussi un outil de mise en réseau et de gestion d'une monnaie locale et commune à plusieurs lieux.
+Grâce à TiBillet, artistes, publics et organisateurs peuvent échanger dans tout un réseau de cafés-concerts, 
+de tiers lieux ou d'associations et créer un réseau de partenaires dédié à la culture et au développement local,
 
-Open-source, blockchain et fédération, **TiBillet** permet la création d'une économie sociale et solidaire à l'échelle
-d'un territoire.
+Vous pouvez participer à cette aventure collective en entrant en sociétariat 
+ou bénéficier des services de prestation de notre coopérative pour l'installation de la solution dans votre structure. 
+
+Rejoignez le réseau TiBillet pour booster la culture de votre région et développer votre filière culturelle !
 
 Contactez-nous sur **[Discord](https://discord.gg/7FJvtYx)** !
 
 ## Pourquoi faire ?
 
-- Pour apporter une solution coopérative et actuellement inaccessible aux petites ou jeunes structures.
+TiBillet a été conçu pour répondre à plusieurs objectifs :
 
-- Pour créer un système de monnaie "temps" pour la gestion du bénévolat, et de monnaie locale à l'échelle d'un
+- Créer un réseau coopératif de lieux culturels dans une région ou une ville, permettant ainsi la circulation des artistes et des publics entre différents événements culturels.
+
+- Offrir des solutions de gestion événementielle et de restauration accessibles aux petites ou jeunes structures.
+
+- Créer un système de monnaie "temps" pour la gestion et la valorisation du bénévolat, voire de création de monnaie locale à l'échelle d'un
   territoire.
 
-- Pour une solution innovante mais écologique : TiBillet s'inscrit dans la Low-tech et les réseaux de Fablabs locaux
-  pour une empreinte carbone la plus faible possible.
+- Créer un agenda fédéré comme outil de communication destiné à promouvoir les évènements culturels organisés par plusieurs membres d'une même instance sur un territoire donné.
 
-- Pour répondre aux besoins d'une fédération de Tiers-lieux à l’échelle du territoire Réunionnais.
+- Fournir une solution innovante, mais écologique en utilisant le matériel existant, la Low-tech et les réseaux de Fablabs locaux pour réduire l'empreinte carbone.
 
-- Pour réfléchir ensemble à une nouvelle façon de créer de la valeur en commun.
+- Répondre aux besoins d'une fédération de tiers-lieux à l'échelle d'un territoire.
+
+- Réfléchir ensemble à une nouvelle façon de créer de la valeur en commun.
 
 ## Pour qui ?
 
 Cafés associatifs, salles de concert, festivals, restaurants, tiers-lieux, organisateurs d'événements culturels (
 ponctuels ou permanents) et même commerçant ! Pratiquement tout établissement recevant du public peut simplifier sa
 gestion avec TiBillet.
-
-Aujourd'hui (Septembre 2021), TiBillet est en expérimentation dans 2 Tiers-lieux : La Raffinerie à St Paul et Vavang'Art
-à L’Entre-deux. Un café concert : Le Bisik à St Benoît et un festival : Manapany Festival depuis 2019. Cela représente
-plus de 10 000 cartes NFC fabriquées pour une gestion d'environ 200 000 € de transactions par an. 
 
 ![/img/tibilletcircle.jpg](/img/tibilletcircle.jpg)

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 8
 slug: features
 title: Fonctionnalités
 description: liste des fonctionnalités présentes et en cours de développement.
