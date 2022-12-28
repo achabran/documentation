@@ -83,13 +83,13 @@ et de développement d'une économie culturelle durable.
 
 ## Modèle 2 : Prestation de service
 
-Le modèle commercial de TiBillet vous permet de bénéficier de tous les outils de billetterie, de cashless et de gestion 
-de salle de restauration en achetant un abonnement. Ce modèle comprend l'installation du logiciel, la création 
+En souscrivant un abonnement, Le modèle commercial de TiBillet vous permet de bénéficier de tous les outils de billetterie, de cashless et de gestion 
+de salle de restauration. Ce modèle comprend l'installation du logiciel, la création 
 et l'installation du matériel, la formation de votre équipe, la maintenance et le développement de nouvelles fonctionnalités sur mesure. 
 
 Vous n'aurez à vous occuper de rien, nous nous déplaçons dans le monde entier pour installer et former votre équipe 
 sur l'utilisation de l'outil. Le prix du matériel nécessaire au fonctionnement de la solution est très concurrentiel 
-et les frais de transaction sont de 0% pour les ventes de billets et les transactions cashless. 
+et les frais de transaction sont de 0% pour les ventes de billets et les transactions cashless, en dehors des frais bancaires.
 
 - 0.80€ / Bracelet et/ou Carte NFC (1000 exemplaires minimum)
 - 700€ / Terminal fixe avec écran 13 pouces tactile.
