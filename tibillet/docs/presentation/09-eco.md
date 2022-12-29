@@ -94,7 +94,7 @@ et les frais de transaction sont de 0% pour les ventes de billets et les transac
 - 0.80€ / Bracelet et/ou Carte NFC (1000 exemplaires minimum)
 - 700€ / Terminal fixe avec écran 13 pouces tactile.
 - 500€ / Terminal fixe avec écran 7 pouces tactile.
-- 500€ Borne de rechargement autonomme via TPE carte bancaire.
+- 500€ / Borne de rechargement autonomme via TPE carte bancaire.
 - 400€ / Imprimante thermique pour gestion de commande en cuisine et/ou au bar.
 - 250€ / Jour / Salarié sur place pour formation et installation + Frais de déplacement et d'hébergement.
 - 0% par transaction Cashless.
