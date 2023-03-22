@@ -63,11 +63,11 @@ qui sont invités régulièrement à profiter des évènements proposés par la 
 En rejoignant la coopérative Tibillet, vous devenez partie intégrante d'un projet d'économie sociale et solidaire 
 qui vise à soutenir et développer la filière culturelle de votre territoire.
 
-En pratique, cela signifie que vous récoltez une grande partie de l'argent non dépensé sur les cartes cashless 
-directement dans votre trésorerie tout en encourageant les utilisateurs inactifs à profiter de vos évènements.
+En pratique, cela signifie que l'argent des cartes inactives depuis plus d'un an est directement réinjecté dans la coopérative. 
+Bien entendu, avant de désactiver la carte, des messages sont envoyés à son utilisateur pour l'encourager à profiter de vos évènements.
 
-Cela peut être un avantage pour votre établissement, car vous pouvez utiliser cet argent pour financer le développement 
-de votre activité ou pour créer de nouveaux lieux et évènements culturels. 
+En plus d'encourager la circulation des publics, cet argent est donc utilisé pour financer le développement de votre activité,
+celle du réseau ainsi que pour créer de nouveaux lieux et évènements culturels. 
 
 En outre, en utilisant le système cashless de TiBillet, vous bénéficiez également de la gestion de salle 
 de restauration et de la prise de commande, ce qui peut vous aider à améliorer votre organisation et votre rentabilité. 
