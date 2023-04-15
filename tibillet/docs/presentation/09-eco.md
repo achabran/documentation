@@ -129,10 +129,6 @@ Elle a une seule exigence supplémentaire: si vous exécutez un programme modifi
 utilisateurs communiquer avec lui, votre serveur doit aussi leur permettre de télécharger le code source correspondant à
 la version modifiée en fonctionnement.
 
-La Licence SSPL est conçue pour protéger les logiciels open source utilisés pour fournir des services en
-ligne et pour empêcher les entreprises de profiter des contributions de la communauté open source sans donner quelque
-chose en retour.
-
 Pour en savoir plus : https://www.gnu.org/licenses/why-affero-gpl.fr.html
 
 La solution est installable telle quelle sans garantie de fonctionnement ni aucun service après-vente.

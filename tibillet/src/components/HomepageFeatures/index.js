@@ -49,7 +49,7 @@ const FeatureList = [
         description: (
             <>
                 Parce que nous constuisons un outil qui à besoin de votre confiance, le code de TiBillet est audité régulièrement,
-                publié sous licence SSPL et disponible sur github.
+                publié sous licence AGPLv3 et disponible sur github.
             </>
         ),
     },

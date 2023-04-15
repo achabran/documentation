@@ -163,7 +163,7 @@ Budget sur 5 ans : 250 000 €
     * [x] Front cashless
     * [x] Backend Cashless
     * [ ] Front & Back Billetterie
-* [x] Ouverture du code en licence libre ( GPL/SSPL )
+* [x] Ouverture du code en licence libre ( AGPLv3 )
     * [x] Billetterie -> <https://github.com/TiBillet/TiBillet>
     * [ ] Cashless ( en attente d'audit de sécurité )
 * [x] Ouvrir la coopérative TiBillet pour une gouvernance partagée entre tout les acteurs
