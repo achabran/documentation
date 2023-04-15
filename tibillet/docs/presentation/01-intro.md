@@ -11,24 +11,24 @@ authors: jonas
 
 # Introduction
 
-TiBillet est une solution d'adhésion, reservation, billetterie, cashless et gestion de salle de restauration libre 
-accessible à tous les acteurs de la filière culturelle d'une région, 
-et qui favorise l'émergence de nouveaux lieux et évènements culturels grâce à une économie sociale, solidaire et circulaire.
+TiBillet est une solution d'adhésion associative, de reservation et billetterie en ligne, 
+de gestion de monnaie temps et monnaie locale, 
+de cashless de festival et de gestion de prise de commande pour salle de restauration. 
 
-Grâce à TiBillet, artistes, publics et organisateurs peuvent échanger dans tout un réseau de cafés-concerts, 
-de tiers lieux ou d'associations et créer un réseau de partenaires dédié à la culture et au développement local,
+Le modèle économique proposé par TiBillet est basé sur une économie circulaire et vise à soutenir une filière culturelle créatrice d'un commun. 
 
-Vous pouvez participer à cette aventure collective en entrant en sociétariat 
-ou bénéficier des services de prestation de notre coopérative pour l'installation de la solution dans votre structure. 
+La plateforme vise à encourager la coopération entre les différents acteurs de la filière culturelle, tels que les tiers-lieux, les créateurs associatifs, 
+les festivals, les artistes, les artisans et les développeurs informatiques d'outils libres.
+
+Dans ce modèle économique, les organisateurs paient uniquement le matériel complémentaire dont ils ont besoin, 
+à prix coûtant, tandis que TiBillet leur fournit un ensemble d'outils pour leur gestion.
+
+Les utilisateurs disposent d'une carte NFC valable dans tout le réseau TiBillet, sans frais d'abonnement ni de rechargement, 
+qui permet l'associer les adhésions associatives, les abonnements à un portefeuille de monnaies temps, locales ou libre et fédérées à plusieurs lieux.
 
 Rejoindre la coopérative Tibillet, c'est intégrer un réseau solidaire et dynamique, qui vous accompagne pour développer 
 votre projet culturel tout en faisant partie de la création d'une économie alternative basée sur la coopération et la solidarité. 
 
-En tant que membre de la coopérative, vous bénéficiez de l'ensemble des outils de communication et de gestion mis à disposition par TiBillet, 
-ainsi que de l'expertise et du soutien de tous les acteurs du réseau. 
-
-C'est également l'opportunité de participer activement à la définition et à l'évolution du projet, 
-et de contribuer à la création d'un monde culturel plus juste et durable. Alors n'hésitez pas, rejoignez-nous et contactez-nous sur **[Discord](https://discord.gg/7FJvtYx)** !
 
 ## Pourquoi faire ?
 
