@@ -9,29 +9,6 @@ authors: jonas
 
 # Fonctionnalités
 
-### Idée générale :
-
-Élargir le champ d'action d'une carte d'adhésion et/ou cashless déjà en circulation dans certains lieux et festivals.
-
-Permettre aux utilisateurs des cartes NFC ( carte de portefeuille ET carte d'adhésion ) de chaque lieux de pouvoir s'en
-servir dans tout le réseau.
-
-Avoir un agenda partagé sur l'échelle d'un territoire, connecté avec les cartes cashless et les adhésions.
-
-Hashtag : Open-source, libre, fédération, auto-hebergement, open-wallet.
-
-### Utilisations possibles avec la carte commune :
-
-* Buvette et restauration
-* Billets pour évènements, festival
-* Panier Amap
-* Épiceries solidaires
-* Adhésions associatives
-* Ouverture de salle de coworking, de résidence ?
-* Open Badge pour ateliers
-* Location de matériel
-
-
 Les check non cochés sont prévus et en cours de développement : 
 
 ## Point de vente : 

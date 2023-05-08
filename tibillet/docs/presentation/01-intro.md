@@ -35,7 +35,10 @@ solidarité.
 
 ## Pourquoi faire ?
 
+
 TiBillet a été conçu pour répondre à plusieurs objectifs :
+
+- Élargir le champ d'action d'une carte d'adhésion et/ou cashless déjà en circulation dans certains lieux et festivals.
 
 - Créer un réseau coopératif de lieux culturels dans une région ou une ville, permettant ainsi la circulation des
   artistes et des publics entre différents événements culturels.
@@ -55,6 +58,7 @@ TiBillet a été conçu pour répondre à plusieurs objectifs :
 - Répondre aux besoins d'une fédération de tiers-lieux à l'échelle d'un territoire.
 
 - Réfléchir ensemble à une nouvelle façon de créer de la valeur en commun.
+
 
 ## Pour qui ?
 
