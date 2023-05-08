@@ -4,46 +4,53 @@ slug: introduction
 title: Introduction
 description: Système de paiement sans contact, zéro espèce (cashless), de gestion d'évènement, de gestion de salle de restauration, d'engagement associatif et d'achat de billets en ligne … mais pas uniquement !
 image: https://tibillet.org/img/logoTibMJ4300.png
-keywords: [cashless, billetterie, ticketing]
-wiktags: [cashless, billetterie, ticketing]
+keywords: [ cashless, billetterie, ticketing ]
+wiktags: [ cashless, billetterie, ticketing ]
 authors: jonas
 ---
 
 # Introduction
 
-TiBillet est une solution d'adhésion associative, de reservation et billetterie en ligne, 
-de gestion de monnaie temps et monnaie locale, 
-de cashless de festival et de gestion de prise de commande pour salle de restauration. 
+TiBillet est une solution d'adhésion associative, de reservation et billetterie en ligne,
+de gestion de monnaie temps et monnaie locale,
+de cashless de festival et de gestion de prise de commande pour buvette et salle de restauration.
 
-Le modèle économique proposé par TiBillet est basé sur une économie circulaire et vise à soutenir une filière culturelle créatrice d'un commun. 
+L'idée générale est d'élargir le champ d'action d'une carte d'adhésion et/ou cashless déjà en circulation dans beaucoup
+de lieux et de festivals pour la création d'un réseau coopératif.
 
-La plateforme vise à encourager la coopération entre les différents acteurs de la filière culturelle, tels que les tiers-lieux, les créateurs associatifs, 
+La plateforme vise à encourager la circulation des publics et la coopération entre les différents acteurs d'un
+territoire tels que les
+tiers-lieux, les créateurs associatifs,
 les festivals, les artistes, les artisans et les développeurs informatiques d'outils libres.
 
-Dans ce modèle économique, les organisateurs paient uniquement le matériel complémentaire dont ils ont besoin, 
-à prix coûtant, tandis que TiBillet leur fournit un ensemble d'outils pour leur gestion.
+Les utilisateurs disposent d'une carte NFC valable dans tout le réseau TiBillet, sans frais d'abonnement ni de
+rechargement,
+qui permet de gérer et d'associer les adhésions associatives, les abonnements, des monnaies temps, locales et/ou libres
+et fédérées à plusieurs lieux.
 
-Les utilisateurs disposent d'une carte NFC valable dans tout le réseau TiBillet, sans frais d'abonnement ni de rechargement, 
-qui permet l'associer les adhésions associatives, les abonnements à un portefeuille de monnaies temps, locales ou libre et fédérées à plusieurs lieux.
-
-Rejoindre la coopérative Tibillet, c'est intégrer un réseau solidaire et dynamique, qui vous accompagne pour développer 
-votre projet culturel tout en faisant partie de la création d'une économie alternative basée sur la coopération et la solidarité. 
-
+Enfin, TiBillet est un logiciel libre développé et soutenu par la coopérative numérique **[Code Commun](https://codecommun.co)**.
+Utiliser TiBillet, c'est intégrer un réseau solidaire et dynamique qui vous accompagne dans votre projet culturel tout
+en faisant partie de la création d'une économie alternative basée sur la coopération et la
+solidarité.
 
 ## Pourquoi faire ?
 
 TiBillet a été conçu pour répondre à plusieurs objectifs :
 
-- Créer un réseau coopératif de lieux culturels dans une région ou une ville, permettant ainsi la circulation des artistes et des publics entre différents événements culturels.
+- Créer un réseau coopératif de lieux culturels dans une région ou une ville, permettant ainsi la circulation des
+  artistes et des publics entre différents événements culturels.
 
 - Offrir des solutions de gestion événementielle et de restauration accessibles aux petites ou jeunes structures.
 
-- Créer un système de monnaie "temps" pour la gestion et la valorisation du bénévolat, voire de création de monnaie locale à l'échelle d'un
+- Créer un système de monnaie "temps" pour la gestion et la valorisation du bénévolat, voire de création de monnaie
+  locale à l'échelle d'un
   territoire.
 
-- Créer un agenda fédéré comme outil de communication destiné à promouvoir les évènements culturels organisés par plusieurs membres d'une même instance sur un territoire donné.
+- Créer un agenda fédéré comme outil de communication destiné à promouvoir les évènements culturels organisés par
+  plusieurs membres d'une même instance sur un territoire donné.
 
-- Fournir une solution innovante, mais écologique en utilisant le matériel existant, la Low-tech et les réseaux de Fablabs locaux pour réduire l'empreinte carbone.
+- Fournir une solution innovante, mais écologique en utilisant le matériel existant, la Low-tech et les réseaux de
+  Fablabs locaux pour réduire l'empreinte carbone.
 
 - Répondre aux besoins d'une fédération de tiers-lieux à l'échelle d'un territoire.
 
@@ -56,3 +63,4 @@ ponctuels ou permanents) et même commerçant ! Pratiquement tout établissement
 gestion avec TiBillet.
 
 ![/img/tibilletcircle.jpg](/img/tibilletcircle.jpg)
+**[Voir en grand](/img/tibilletcircle.jpg)**.

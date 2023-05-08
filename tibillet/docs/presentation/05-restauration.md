@@ -8,7 +8,7 @@ wiktags: [cashless, billetterie, ticketing, features]
 
 # Logiciel de prise de commande
 
-La crise sanitaire de la Covid19 nous a amené à repenser notre outil de Cashless et la gestion des prises de commandes
+La crise sanitaire nous a amené à repenser notre outil de Cashless et la gestion des prises de commandes
 en salle, afin de correspondre aux normes actuelles.
 
 Le paiement sans contact grâce à un téléphone Android et la carte NFC du festivalier permet de respecter les gestes

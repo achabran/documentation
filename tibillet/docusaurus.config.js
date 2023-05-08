@@ -71,11 +71,12 @@ const config = {
                         sidebarId: 'presentation',
                         label: 'Presentation',
                     },
+                    {to: '/roadmap', label: 'Fonctionnalités', position: 'left'},
                     {
                         type: 'doc',
                         docId: '/category/documentation-utilisateur',
                         position: 'left',
-                        label: 'Docs',
+                        label: 'Documentation',
                     },
                     {
                         type: 'docSidebar',
@@ -88,7 +89,6 @@ const config = {
                         label: 'GitHub',
                         position: 'right',
                     },
-                    {to: '/roadmap', label: 'Roadmap', position: 'left'},
                     {to: '/blog', label: 'Blog', position: 'left'},
 
                 ],
