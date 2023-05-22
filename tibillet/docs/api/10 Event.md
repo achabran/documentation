@@ -18,19 +18,38 @@ N'hésitez pas à venir discuter avec nous sur **[Discord](https://discord.gg/7F
 POST /api/events/
 ```
 
-| Item              | type     | Requis | Exemple                                           |
-|-------------------|----------|--------|---------------------------------------------------|
-| datetime          | datetime | Y      | 2029-12-21T18:30                                  |
-| name              | text     | Y      | 42ème anniversaire d'Adam                         |
-| short_description | text     | N      | Pas de panique !                                  |
-| long_description  | text     | N      | Un dernier restaurant avant la fin du monde ?     |
-| img_url           | url      | N      | https://picsum.photos/1920/1080                   |
-| artists           | list     | N      | ["uuid4","uuid4"]                                 |
-| products          | list     | N      | ["uuid4","uuid4"]                                 |
-| options_radio     | list     | N      | ["uuid4","uuid4"]                                 |
-| options_checkbox  | list     | N      | ["uuid4","uuid4"]                                 |
+| Item              | type     | Requis | Exemple                                       |
+|-------------------|----------|--------|-----------------------------------------------|
+| datetime          | datetime | Y      | 2029-12-21T18:30                              |
+| name              | text     | Y      | 42ème anniversaire d'Adam                     |
+| short_description | text     | N      | Pas de panique !                              |
+| long_description  | text     | N      | Un dernier restaurant avant la fin du monde ? |
+| img_url           | url      | N      | https://picsum.photos/1920/1080               |
+| category          | string   | N      | ["LIV"]                                       |
+| tags              | list     | N      | ["Rock","Déguisé"]                            |
+| artists           | list     | N      | ["uuid4","uuid4"]                             |
+| products          | list     | N      | ["uuid4","uuid4"]                             |
+| options_radio     | list     | N      | ["uuid4","uuid4"]                             |
+| options_checkbox  | list     | N      | ["uuid4","uuid4"]                             |
 
-Si aucun "products", l'évènement sera considéré comme entrée libre.
+liste des catégories disponibles : 
+
+```python
+    CONCERT = "LIV" #Default
+    FESTIVAL = "FES"
+    REUNION = "REU"
+    CONFERENCE = "CON"
+    RESTAURATION = "RES"
+```
+
+#### Tips :
+
+- Si aucun **products** :  l'évènement sera considéré comme entrée libre.
+- Si **artist** :  les informations de l'évènement seront automatiquement complétées avec les informations de l'artiste, pas besoin de renseigner **name**, **short_description**, **long_description** et **img_url**.
+- **options_radio** et **options_checkbox** :  uuid des options à ajouter à l'évènement. Les options peuvent être créées au préalable via l'api ou l'administration.
+  - radio : une option à choix unique parmis plusieurs ( ex : taille de t-shirt, etc... )
+  - checkbox : une option à choix multiple parmis plusieurs ( ex : repas végétarien, newsletter, etc... )
+- **tags** :  liste de tags à ajouter à l'évènement. Renseignez le nom du tag. Les tags sont créés automatiquement si ils n'existent pas déjà.
 
 Exemples complets sur
 la [documentation Postman](https://documenter.getpostman.com/view/17519122/UVeDtTFC#faef2591-ef11-4860-8561-66b76dbf5bf7).
