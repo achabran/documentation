@@ -18,19 +18,19 @@ N'hésitez pas à venir discuter avec nous sur **[Discord](https://discord.gg/7F
 POST /api/events/
 ```
 
-| Item              | type     | Requis | Exemple                                       |
-|-------------------|----------|--------|-----------------------------------------------|
-| datetime          | datetime | Y      | 2029-12-21T18:30                              |
-| name              | text     | Y      | 42ème anniversaire d'Adam                     |
-| short_description | text     | N      | Pas de panique !                              |
+| Item              | type     | Requis | Exemple                                  |
+|-------------------|----------|--------|------------------------------------------|
+| datetime          | datetime | Y      | 2029-12-21T18:30                         |
+| name              | text     | Y      | 42ème anniversaire d'Adam                |
+| short_description | text     | N      | Pas de panique !                         |
 | long_description  | text     | N      | Un dernier restaurant avant la fin du monde ? |
-| img_url           | url      | N      | https://picsum.photos/1920/1080               |
-| category          | string   | N      | ["LIV"]                                       |
-| tags              | list     | N      | ["Rock","Déguisé"]                            |
-| artists           | list     | N      | ["uuid4","uuid4"]                             |
-| products          | list     | N      | ["uuid4","uuid4"]                             |
-| options_radio     | list     | N      | ["uuid4","uuid4"]                             |
-| options_checkbox  | list     | N      | ["uuid4","uuid4"]                             |
+| img_url           | url      | N      | https://picsum.photos/1920/1080          |
+| category          | string   | N      | LIV                                      |
+| tags              | list     | N      | ["Rock","Déguisé"]                       |
+| artists           | list     | N      | ["uuid4","uuid4"]                        |
+| products          | list     | N      | ["uuid4","uuid4"]                        |
+| options_radio     | list     | N      | ["uuid4","uuid4"]                        |
+| options_checkbox  | list     | N      | ["uuid4","uuid4"]                        |
 
 liste des catégories disponibles : 
 
