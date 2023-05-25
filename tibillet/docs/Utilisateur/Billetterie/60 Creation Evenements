@@ -1,0 +1,63 @@
+---
+sidebar_position: 2
+slug: admin_add_new_event
+title: Créer un nouvel évènement de A à Z
+description: Créer un nouvel évènement en détails.
+keywords: [billetterie, ticketing, event]
+wiktags: [billetterie, ticketing, event]
+authors: Axel
+---
+
+Dans un premier temps il faudra vous connecter sur la page d'administration de votre instance de billetterie.
+
+## 1- Ajouter un nouvel événement
+
+- Cliquez sur la catégorie "Evenements" dans la colonne de gauche sous l'onglet Billetterie.
+- Cliquez sur le bouton "AJOUTER EVENEMENT +" en haut à droite.
+- Remplissez le formulaire. 
+    *L'image "img" sert de miniature sur la page d'accueil et de fond sur la page de votre événement.
+    *La "short description" est un phrase d'accorche dans la miniature sur la page d'accueil.
+    *La "long description" vous permet de donner plus d'informations dans votre page événement.
+    *Le bouton "publier" permet de ...................................
+- Renseignez le numéro de la nouvelle carte dans le champ correspondant.
+- Enregistrez.
+
+## 2- Choisir les articles
+
+Viens ensuite la section "articles". Elle permet d'afficher des produits sur votre page de réservation d'événement. 
+Ces produits peuvent être des tarifs, des adhésions, des abonnements, des recharges cashless, du merchandising ou autre...
+- Cliquez sur l "+" vert pour ajouter un produit dan cette catégorie "articles".
+    *Type de produit permet de trier ces produits par catégories pour les retrouver plus facilement par la suite.
+    *Poids permet de choisir quel produit sera affiché en premier sur la page de réservation (le plus petit sera le premier).
+- CLiquez sur le bouton enregistrer en bas de cette nouvelle fenètre.
+Vos produits doivent désormais apparaitre dans la liste de la section "Articles".
+- Sélectionnez ceux que vous souhaitez afficher sur votre page réservation en maintenant la touche ctrl et cliquant dessus. Ils seront surlignés en bleu.
+    *Vous pouvez déselectionner de la même façon : ctrl et clique droit.
+
+## 3- Définir les options
+
+Les options peuvent être créés de la même façon que les "produits" de la sections "articles" en cliquant sur le "+" vert.
+- "choix unique" oblige la personne qui réserve à sélectionner une (et une seule) option parmi celles proposées.
+- "choix multiple" permet au public d'ajouter ou non cette option de manière libre.
+
+## 4- Cashless
+
+Cette dernière section permet de conditonner la réservation de billet à une recharge cashless.
+
+## 5- Publier votre événement
+
+ - Cliquez sur le bouton enregistrer pour valider l'ajout de votre nouvel événement.
+
+:::
+Attention ! Après la création de produits (étape 2) il faut penser à lui attribuer un tarif.
+Pour ce faire :
+- Cliquez sur la catégorie "Tarifs" dans la colonne de gauche sous l'onglet Billetterie
+-  Cliquez sur le bouton "AJOUTER TARIF +" en haut à droite
+- Séléctionnez le produit précédemment créé.
+- Remplissez le rest du formulaire (descriptions, prix, stock...)
+    *c'est à ce moment que vous pouvez choisir de conditionner la réservation de billet à une adhésion
+    *rappel : les adhésions sont à créer dans la section "Produits"
+- Cliquez sur le bouton "enregistrer" en bas de page
+:::
+
+<video width="100%" controls src="/img/_______.mp4"></video>
