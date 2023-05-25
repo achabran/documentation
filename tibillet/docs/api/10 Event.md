@@ -18,19 +18,20 @@ N'hésitez pas à venir discuter avec nous sur **[Discord](https://discord.gg/7F
 POST /api/events/
 ```
 
-| Item              | type     | Requis | Exemple                                  |
-|-------------------|----------|--------|------------------------------------------|
-| datetime          | datetime | Y      | 2029-12-21T18:30                         |
-| name              | text     | Y      | 42ème anniversaire d'Adam                |
-| short_description | text     | N      | Pas de panique !                         |
+| Item              | type     | Requis | Exemple                                       |
+|-------------------|----------|--------|-----------------------------------------------|
+| datetime          | datetime | Y      | 2029-12-21T18:30                              |
+| name              | text     | Y      | 42ème anniversaire d'Adam                     |
+| short_description | text     | N      | Pas de panique !                              |
 | long_description  | text     | N      | Un dernier restaurant avant la fin du monde ? |
-| img_url           | url      | N      | https://picsum.photos/1920/1080          |
-| category          | string   | N      | LIV                                      |
-| tags              | list     | N      | ["Rock","Déguisé"]                       |
-| artists           | list     | N      | ["uuid4","uuid4"]                        |
-| products          | list     | N      | ["uuid4","uuid4"]                        |
-| options_radio     | list     | N      | ["uuid4","uuid4"]                        |
-| options_checkbox  | list     | N      | ["uuid4","uuid4"]                        |
+| img_url           | url      | N      | https://picsum.photos/1920/1080               |
+| category          | string   | N      | LIV                                           |
+| max_per_ser       | int      | N      | 10                                            |
+| tags              | list     | N      | ["Rock","Déguisé"]                            |
+| artists           | list     | N      | ["uuid4","uuid4"]                             |
+| products          | list     | N      | ["uuid4","uuid4"]                             |
+| options_radio     | list     | N      | ["uuid4","uuid4"]                             |
+| options_checkbox  | list     | N      | ["uuid4","uuid4"]                             |
 
 liste des catégories disponibles : 
 
@@ -50,9 +51,7 @@ liste des catégories disponibles :
   - radio : une option à choix unique parmis plusieurs ( ex : taille de t-shirt, etc... )
   - checkbox : une option à choix multiple parmis plusieurs ( ex : repas végétarien, newsletter, etc... )
 - **tags** :  liste de tags à ajouter à l'évènement. Renseignez le nom du tag. Les tags sont créés automatiquement si ils n'existent pas déjà.
-
-Exemples complets sur
-la [documentation Postman](https://documenter.getpostman.com/view/17519122/UVeDtTFC#faef2591-ef11-4860-8561-66b76dbf5bf7).
+- **max_per_user** : Défaut à 10 si non renseigné. Si == 1, et si tarifs == 1 alors le champs nom/premon sera automatiquement affiché lors de la commande et il n'y aura pas de choix de quantité.
 
 
 ## Évènement sans artiste avec entrée libre
