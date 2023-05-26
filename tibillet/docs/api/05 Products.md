@@ -102,7 +102,7 @@ POST /api/products/
 ```
 
 | Item              | type    | Requis | Exemple            |
-|-------------------|---------|--------|--------------------|
+| ----------------- | ------- | ------ | ------------------ |
 | name              | text    | Y      | Billet             |
 | categorie_article | text    | Y      | B                  |
 | send_to_cashless  | boolean | N      | false              |
@@ -113,14 +113,15 @@ possible par instance.
 
 ### Type de produits possible
 
-| Type                  | String | 
-|-----------------------|--------|
+| Type                  | String |
+| --------------------- | ------ |
 | Billet                | B      |
 | Pack d'objets         | P      |
 | Recharge cashless     | R      |
 | Vetement              | T      |
 | Merchandasing         | M      |
 | Abonnement / Adhésion | A      |
+| Gratuit / Free        | F      |
 
 ## Création de tarif
 
@@ -129,7 +130,7 @@ POST /api/prices/
 ```
 
 | Item                 | type    | Requis | Exemple       |
-|----------------------|---------|--------|---------------|
+| -------------------- | ------- | ------ | ------------- |
 | product              | int     | Y      | uuid4         |
 | name                 | text    | Y      | Demi tarif    |
 | prix                 | decimal | Y      | 5             |
