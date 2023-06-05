@@ -1,6 +1,6 @@
 version: "3.7"
 services:
-  tibdoc_nodejs:
+  tibdoc_devnodejs:
     container_name: tibdoc_nodejs
     image: node:16-bullseye
     environment:
@@ -13,10 +13,10 @@ services:
     labels:
       - traefik.enable=true
       - traefik.docker.network=frontend
-      - traefik.http.routers.tibdoc.tls.certresolver=tlsresolver
-      - traefik.http.routers.tibdoc.entrypoints=websecure
-      - traefik.http.routers.tibdoc.rule=Host(`doc.mike.codecommun.re`)
-      - traefik.http.services.test_machine.loadbalancer.server.port=3000
+      - traefik.http.routers.tibdoc_devnodejs.tls.certresolver=tlsresolver
+      - traefik.http.routers.tibdoc_devnodejs.entrypoints=websecure
+      - traefik.http.routers.tibdoc_devnodejs.rule=Host(`doc.mike.codecommun.re`)
+      - traefik.http.services.tibdoc_devnodejs.loadbalancer.server.port=3000
 
     networks:
       - frontend
