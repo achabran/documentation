@@ -16,6 +16,7 @@ services:
       - traefik.http.routers.tibdoc.tls.certresolver=tlsresolver
       - traefik.http.routers.tibdoc.entrypoints=websecure
       - traefik.http.routers.tibdoc.rule=Host(`doc.mike.codecommun.re`)
+      - traefik.http.services.test_machine.loadbalancer.server.port=3000
 
     networks:
       - frontend
