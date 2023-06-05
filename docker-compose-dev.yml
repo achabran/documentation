@@ -9,7 +9,7 @@ services:
     volumes:
       - ./tibillet:/documentation
     working_dir: /documentation
-    command: "bash /documentation/dev.sh"
+    command: "npx docusaurus start"
     labels:
       - traefik.enable=true
       - traefik.docker.network=frontend
