@@ -13,8 +13,7 @@ Les check non cochés sont prévus et en cours de développement :
 
 ## Point de vente : 
 
-- [x] Vente et Gestion des stock, articles et catégories.
-- [x] Interface de points de vente et caisse enregistreuse
+- [x] Points de vente et caisses enregistreuse.
 - [x] Application Android
 - [x] Boitier tactile
 - [x] Ticket Z
@@ -30,6 +29,7 @@ Les check non cochés sont prévus et en cours de développement :
     - [ ] Monnaie libre et cryptomonnaie ( June, ether, etc ... )
     - [ ] Tireuse à bière autonome
 - [ ] TPE Carte bancaire
+- [ ] Gestion des stocks
 - [ ] Plan DIY en open hardware
 - [ ] caisse enregistreuse espèce
 - [ ] Export compta Odoo & Dokos
@@ -38,12 +38,11 @@ Les check non cochés sont prévus et en cours de développement :
 
 ## Gestion de prise de commande pour restauration
 
-- [x] Prise de commande pour serveur.se.s. sur smartphone
+- [x] Prise de commande pour serveur.se.s. ( app android & Pi3 )
 - [x] Impressions des tickets de commande en cuisine/bar
 - [x] Ecran de validation et de suivi de commandes (Payée/Prête/Servie/En Attente)
 - [x] Mode "Gerant" pour annulation de commande
 - [ ] Buzzer de table
-- [ ] Gestion des stocks
 - [ ] Prise de commande et paiement par le client à table / QrCode System
 - [ ] Borne de prise de commande autonome
 
@@ -69,7 +68,7 @@ Les check non cochés sont prévus et en cours de développement :
 - [ ] Agenda participatif
 - [ ] Reservation avec validation préalable
 - [ ] Co-voiturage
-- [ ] Aggregateur d'évènement extérieurs sur un territoire (Facebook, Fediverse, etc ..) -> Eyop ?
+- [ ] Aggregateur d'évènement extérieur sur un territoire (Facebook, Fediverse, etc ..)
 
 ## Gestion de planning et de projets 
 

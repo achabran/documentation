@@ -1,8 +1,8 @@
 ---
 slug: federation-part1
-title: Fédération 1/3 - Introduction
+title: Fédération 1 - Introduction
 authors: jonas
-wiktags: [cashless, fédération, portefeuille, waller]
+wiktags: [cashless, fédération, portefeuille, wallet]
 image: /img/federons/03-multiples.png
 description: Fédérons TiBillet, première partie.
 ---
@@ -81,7 +81,7 @@ nos envies communes et nous donne les moyens
 de développer un nouveau modèle.
 
 Aujourd'hui (Octobre 2022), le chantier à beaucoup avancé.
-Il reste beaucoup à faire et [la feuille de route](https://nuage.tierslieux.re/s/sMPScgSPNgwRrWD)
+Il reste beaucoup à faire et [la feuille de route](https://tibillet.org/roadmap/)
 commence à bien se dessiner :
 
 ## Réunion des Tiers-Lieux
@@ -91,7 +91,7 @@ le chantier Outil Commun pour fédérer les pratiques,
 éviter de multiplier les données et mutualiser le matériel.
 
 Du côté de la team TiBillet, nous nous sommes affairés à construire
-les briques d'un logiciel libre utilisable par tout un territoire et dDepuis plusieurs mois, nous changeons le moteur de
+les briques d'un logiciel libre utilisable par tout un territoire et depuis plusieurs mois, nous changeons le moteur de
 notre application pour pouvoir construire un outil commun
 et fédéré de billetterie, d'agenda culturel et de cashless.
 

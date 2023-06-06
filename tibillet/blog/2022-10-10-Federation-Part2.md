@@ -1,8 +1,8 @@
 ---
 slug: federation-part2
-title: Fédération 2/3 - L'agenda partagé
+title: Fédération 2 - L'agenda partagé
 authors: jonas
-wiktags: [cashless, fédération, portefeuille, waller]
+wiktags: [cashless, fédération, portefeuille, wallet]
 image: /img/federons/07-tenant-part1.png
 description: Fédérons TiBillet, première partie.
 ---
