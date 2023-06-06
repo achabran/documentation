@@ -1,41 +1,37 @@
-# Website
+# Source du site de documentation https://tibillet.org
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+## Introduction
 
-### Installation
+TiBillet est une solution d'adhésion associative, de reservation et billetterie en ligne, de gestion de monnaie temps et
+monnaie locale, de cashless de festival et de gestion de prise de commande pour buvette et salle de restauration.
 
-```
-$ yarn
-```
+## Mise à jour de la documentation
 
-### Local Development
+La documentation est écrite en markdown et est générée avec [Docusaurus](https://docusaurus.io/).
 
-```
-$ yarn start
-```
+### Docker 
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
+Un serveur de développement peut être déployé à l'aide de docker : 
+```shell
+docker compose -f docker-compose.dev.yml up
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Puis aller sur https://localhost:3000, ou si Traefik est installé, sur l'adresse renseignée dans le fichier compose.
 
-### Deployment
+### Local node
 
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
+```shell
+cd tibillet
+npm install
+npx docusaurus start
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+###  Déploiement
+
+Assurez-vous d'avoir les droits d'écriture avec votre clé SSH sur le dépot github.
+
+```shell
+cd tibillet
+npx docusaurus deploy
+```
