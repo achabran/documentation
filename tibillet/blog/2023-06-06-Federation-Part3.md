@@ -41,3 +41,4 @@ Aujourd'hui ( Juin 2023 ), après 6 ans de développement, la carte TiBilet perm
   - En euro recahrgeable en ligne et/ou sur place.
   - En points cadeau, dans le but de comptabiliser les ventes offertes.
   - En monnaie temps, pour une valorisation du bénévolat.
+* Système de prise de commande
