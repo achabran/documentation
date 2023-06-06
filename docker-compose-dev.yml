@@ -9,7 +9,7 @@ services:
     volumes:
       - ./tibillet:/documentation
     working_dir: /documentation
-    command: "npx docusaurus start"
+    command: "npm run start -- --host 0.0.0.0"
     labels:
       - traefik.enable=true
       - traefik.docker.network=frontend

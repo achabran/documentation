@@ -39,4 +39,5 @@ Aujourd'hui ( Juin 2023 ), après 6 ans de développement, la carte TiBilet perm
 - Carte d'adhésion associative et d'abonnement.
 - Portefeuille pour paiement sans contact (Cashless) : 
   - En euro recahrgeable en ligne et/ou sur place.
-  - En points cadeau, ou monnaie temps, pour une valorisation du bénévolat ou pour une distribution aux artistes et bénévoles, dans le but de comptabiliser les ventes offertes.
+  - En points cadeau, dans le but de comptabiliser les ventes offertes.
+  - En monnaie temps, pour une valorisation du bénévolat.
