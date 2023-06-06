@@ -35,3 +35,14 @@ Assurez-vous d'avoir les droits d'écriture avec votre clé SSH sur le dépot gi
 cd tibillet
 npx docusaurus deploy
 ```
+
+
+## Mise en prod
+
+Avec Docker, un conteneur temporaire se lance pour générer le site statique.
+
+Le contenu est livré par un conteneur Nginx.
+
+```shell
+docker compose up
+```
