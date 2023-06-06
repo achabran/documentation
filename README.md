@@ -13,7 +13,8 @@ La documentation est écrite en markdown et est générée avec [Docusaurus](htt
 
 Un serveur de développement peut être déployé à l'aide de docker : 
 ```shell
-docker compose -f docker-compose.dev.yml up
+cd Git/documentation
+docker compose -f docker-compose-dev.yml up
 ```
 
 Puis aller sur https://localhost:3000, ou si Traefik est installé, sur l'adresse renseignée dans le fichier compose.
