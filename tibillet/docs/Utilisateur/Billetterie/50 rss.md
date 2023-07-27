@@ -1,7 +1,7 @@
 ---
 sidebar_position: 50
 slug: rss
-title: Syndication par flux RSS
+title: Flux RSS
 description: Syndication par flux RSS, suivez les derniers évènements.
 keywords: [ticketing, billetterie, rss,]
 wiktags: [ticketing, billetterie, rss,]
