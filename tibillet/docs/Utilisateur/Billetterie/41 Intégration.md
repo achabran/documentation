@@ -1,7 +1,7 @@
 ---
 sidebar_position: 41
 slug: iframe
-title: Integration
+title: Intégration
 description: Envoyer un POST pour chaque reservation validée.
 keywords: [ticketing, billetterie, webhook, api]
 wiktags: [ticketing, billetterie, webhook, api]
