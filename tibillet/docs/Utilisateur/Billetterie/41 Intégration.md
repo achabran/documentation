@@ -10,6 +10,7 @@ image: https://tibillet.org/img/embed_email.jpg
 authors: Jonas
 ---
 
+---
 Vous pouvez intégrer la billetterie à votre site web en utilisant une balise iframe en modifiant la route adéquate   
 dans "../Front/src/router/routes.js", 2 possibilités :
 ### 1 - route existante, ajouter un alias :   
@@ -46,3 +47,5 @@ Exemple :
 
 <iframe src="https://demo.betabillet.tech/event/embed/esbjorn-svensson-trio-080223-1830/" width="100%" height="1000px" frameborder="0"></iframe>
 
+### Attention:
+Toutes les urls contenant le mot "embed" sont à utiliser uniquement dans un "iframe".
