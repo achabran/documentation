@@ -46,7 +46,7 @@ Cette dernière section permet de conditonner la réservation de billet à une r
 
  - Cliquez sur le bouton enregistrer pour valider l'ajout de votre nouvel événement
 
-:::
+:::danger
 Attention ! Après la création de produits (étape 2) il faut penser à lui attribuer un tarif.
 Pour ce faire :
 - Cliquez sur la catégorie "Tarifs" dans la colonne de gauche sous l'onglet Billetterie
