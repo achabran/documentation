@@ -32,7 +32,11 @@ npx docusaurus start
 
 Assurez-vous d'avoir les droits d'écriture avec votre clé SSH sur le dépot github.
 
+
 ```shell
+git commit -m 'mes modifs'
+git push
+# sur le serveur : gitouille "mes modifs" fonctionne, c'est un raccourci dans le bashrc
 cd tibillet
 npx docusaurus deploy
 ```

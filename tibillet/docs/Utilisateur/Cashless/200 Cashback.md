@@ -16,14 +16,13 @@ L'idée est d'encourager les personnes à effectuer eux même leurs rechargement
 d'acceuil et de rechargement cashless d'un site.
 
 Dans l'administration de votre page cashless, allez dans "Configuration Générale", puis sur l'onglet "CASHBACK".
-Indiquez la somme à partir de laquelle la récompense s'active, la valeur de la récompense, puis activez la case "Activez le cashback pour les paiements en ligne".
+Indiquez la somme à partir de laquelle la récompense s'active, la valeur de la récompense, puis activez la case "Activez le cashback pour les rechargements".
 Enfin, validez avec le bouton "Enregistrer".
 
-Résultat : Sur Stripe et uniquement sur Stripe, si la somme rechargée dépasse le montant prévu, des tokens "Cadeau" sont
-crédités sur la carte.
+Résultat : A chaque rechargement supérieur au montant prévu, des tokens "Cadeau" sont crédités sur la carte.
 
 À noter que ces tokens "Cadeau" sont considéré différemment par la comptabilité et ne rentrent pas dans les
-chiffres du calcul du bénéfice (même monnaie que pour les bénévoles, par exemple. Cf documentation a venir ^^).
+chiffres du calcul du bénéfice (même monnaie que pour les bénévoles, par exemple).
 
 ### Exemple :
 
