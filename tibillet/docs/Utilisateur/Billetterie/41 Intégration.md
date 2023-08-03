@@ -2,7 +2,7 @@
 sidebar_position: 41
 slug: iframe
 title: Intégration
-description: Envoyer un POST pour chaque reservation validée.
+description: Integrer vos réservations sur votre site web.
 keywords: [ticketing, billetterie, webhook, api]
 wiktags: [ticketing, billetterie, webhook, api]
 image: https://tibillet.org/img/embed_email.jpg

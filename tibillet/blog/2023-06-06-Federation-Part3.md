@@ -4,7 +4,7 @@ title: Fédération 3 - Le portefeuille fédéré
 authors: jonas
 wiktags: [ cashless, fédération, portefeuille, wallet ]
 image: /img/federons/04-start_fede_notitle.png
-description: Fédérons TiBillet, première partie.
+description: Fédérons TiBillet, troisième partie.
 draft: true
 ---
 
