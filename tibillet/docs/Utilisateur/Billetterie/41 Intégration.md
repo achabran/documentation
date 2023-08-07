@@ -10,7 +10,7 @@ image: https://tibillet.org/img/embed_email.jpg
 authors: Jonas
 ---
 
-Vous pouvez intégrer la billetterie à votre site web en utilisant une balise iframe en modifiant la route adéquate   
+Vous pouvez intégrer la billetterie à votre site web en utilisant une balise iframe en modifiant la route adéquate.      
 
 Exemple : 
 - lien de l'évènenement : https://demo.betabillet.tech/event/esbjorn-svensson-trio-080223-1830/
