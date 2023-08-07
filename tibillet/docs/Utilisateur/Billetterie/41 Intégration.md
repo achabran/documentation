@@ -27,16 +27,9 @@ Exemple :
 <iframe src="https://demo.betabillet.tech/event/embed/esbjorn-svensson-trio-080223-1830/" width="100%" height="1000px" frameborder="0"></iframe>
 
 
-
-## Documentation technique : 
-
-
-:::warning
-Toutes les urls contenant le mot "embed" sont à utiliser uniquement dans un "iframe".
-:::
-
+<details>
+<summary>Documentation technique</summary>
 Dans "../Front/src/router/routes.js", 2 possibilités :
-
 
 ### 1 - route existante, ajouter un alias :   
 ```
@@ -57,6 +50,8 @@ Dans "../Front/src/router/routes.js", 2 possibilités :
     name: 'Event',
     component: () => import(/* webpackChunkName: "Event" */ '../views/Event.vue')
 }
-
 ```
 
+### Attention :   
+Toutes les urls contenant le mot "embed" sont à utiliser uniquement dans un "iframe".
+</details>
