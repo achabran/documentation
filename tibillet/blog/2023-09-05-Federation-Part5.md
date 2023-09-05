@@ -104,7 +104,7 @@ Ce mécanisme propose une solution incitative à la circulation de monnaie(s) lo
 - La coopérative se réunit régulièrement pour faire le point sur la circulation des monnaies et choisir les projets dans lesquels réinvestir l'argent récupéré.
 
 
-(Exemple posssible : 1/3 pour le nœud (organisateur de festival, association...),  1/3 pour un fond commun de soutien aux projets associatifs et coopératifs, 1/3 pour la maintenance et le développement de l'outil.)
+(Exemple possible : 1/3 pour le nœud (organisateur de festival, association...),  1/3 pour un fond commun de soutien aux projets associatifs et coopératifs, 1/3 pour la maintenance et le développement de l'outil.)
 
 
 
@@ -127,11 +127,11 @@ Corollaire : c'est très (trop) énergivore au point d'en être insoutenable. (E
 
 La preuve d'enjeu (Proof of Stake) a été proposée très vite comme une alternative à la preuve de travail (Proof of Work). Dans un système PoS, il n'y a pas de concept de mineurs, de matériel spécialisé ou de consommation massive d'énergie. 
 
-Pour être un validateur, vous devez prouver que vous avez intérêt à ce que tout le système reste bien valide. Chez *Ethereum*, la deuxième blockchain la plus valorisée, vous devez verrouiller une quantité variable de capital comme preuve d'intérêt et vous êtes récompensé en fonction de cette quantité verouillée.
+Pour être un validateur, vous devez prouver que vous avez intérêt à ce que tout le système reste bien valide. Chez *Ethereum*, la deuxième blockchain la plus valorisée, vous devez verrouiller une quantité variable de capital comme preuve d'intérêt et vous êtes récompensé en fonction de cette quantité verrouillée.
 
-Ce système est beaucoup moins energivore, mais il à tendance à favoriser une oligarchie car n'importe qui peut devenir un nœud : il suffit d'être riche...
+Ce système est beaucoup moins énergivore, mais il a tendance à favoriser une oligarchie car n'importe qui peut devenir un nœud : il suffit d'être riche...
 
-Avec Fedow, c'est un peu différent. Il est nécéssaire de vérifier votre identité comme celle de vos utilisateurs. La preuve d'enjeu, c'est vous ! 
+Avec Fedow, c'est un peu différent. Il est necéssaire de vérifier votre identité comme celle de vos utilisateurs. La preuve d'enjeu, c'est vous ! 
 
 Cette preuve d'enjeu, c'est la quantité de monnaie fédéré que vous récolterez en installant TiBillet/Fedow. Vous avez intérêt à ce que les comptes soient bien valide car vous en possédez une partie des actifs.
 
@@ -139,7 +139,7 @@ Dans ce système, il n'y a pas de concept de mineurs, de matériel spécialisé 
 
 Et cet ordinateur, vous l'avez déjà : il héberge votre instance TiBillet. Validez la co-optation ou créez votre réseau Fedow, et votre instance TiBillet devient un nœud  qui valide les transactions de tout le réseau en toute transparence.
 
-La preuve d'enjeu, c'est votre instance liée à votre identité. Plus exactement, ce mécanisme de consensus dérivé du *PoS* est appellé une [preuve d'autorité](https://academy.binance.com/fr/articles/proof-of-authority-explained?hide=stickyBar) (PoA).
+La preuve d'enjeu, c'est votre instance liée à votre identité. Plus exactement, ce mécanisme de consensus dérivé du *PoS* est appelé une [preuve d'autorité](https://academy.binance.com/fr/articles/proof-of-authority-explained?hide=stickyBar) (PoA).
 
 En pratique : 
 
