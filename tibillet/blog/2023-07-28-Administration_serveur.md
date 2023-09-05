@@ -3,11 +3,11 @@ slug: newinstall
 title: Installer la caisse TiBillet sur Ubuntu 22.04
 authors: jonas
 wiktags: [ tibillet, cashless, ubuntu, linux, wallet, caisse, caisse enregistreuse ]
-image: /img/federons/decollage.png
+image: /img/federons/decollage.jpg
 description: Installation d'un serveur cashless.
 ---
 
-![/img/federons/decollage.png](/img/federons/decollage.png)
+![/img/federons/decollage.jpg](/img/federons/decollage.jpg)
 
 :::
 Juillet 2023 : Le cashless est en plein migration d'un Django 2.2 vers un 4.2. Le dépot libre n'est pas complètement a
