@@ -23,7 +23,12 @@ et sur l'agenda commun.
 
 D'une pierre deux coups, vendez vos billets en ligne et participez à un agenda commun !
 
-## Document de travail:
+## Document de travail :
 
 - [Front Billetterie Excalidraw](https://excalidraw.com/#room=74a2ecdff0977018a774,3LBe2H4TOdwL7Zozq0sgzg)
 - [Tâches et Kanban](https://github.com/orgs/TiBillet/projects)
+
+## SVG et fichier excalidraw:
+
+- [Design-billetterie-sept23.svg](/img/federons/Design-billetterie-sept23.svg)
+- [Design-billetterie-sept23.excalidraw](/img/federons/Design-billetterie-sept23.excalidraw)
