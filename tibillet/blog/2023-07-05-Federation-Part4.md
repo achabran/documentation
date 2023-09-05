@@ -17,7 +17,7 @@ projets.
 Un serveur peut être monté pour un territoire. Chaque lieu qui souhaite participer à un agenda commun peut rejoindre le
 serveur.
 
-Qu'il soit organisateur, artiste, ou porteur de plusieurs projets, chaque évènement sera visible sur sa page personelle
+Qu'il soit organisateur, artiste, ou porteur de plusieurs projets, chaque évènement sera visible sur sa page personnelle
 et sur l'agenda commun.
 
 D'une pierre deux coups, vendez vos billets en ligne et participez à un agenda commun !
