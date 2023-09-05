@@ -177,3 +177,29 @@ Nous sommes [CodeCommun.Coop](https://codecommun.coop), Venez [discuter](https:/
 - [Jetbrain](https://www.jetbrains.com/community/opensource/#support) supports non-commercial open source projects.
 - Le Manapany Festival
 - Le Demeter
+
+## Contact :
+
+- https://discord.gg/ecb5jtP7vY
+- https://chat.tiers-lieux.org/channel/TiBillet
+- https://chat.communecter.org/channel/Tibillet
+
+### Sources, veille et inspirations
+
+Sur la supercherie ultra libérale du web3 et des applications décentralisés (Dapp) :
+- https://web3isgoinggreat.com/
+
+Sur la monnaie fondante et son auteur : 
+- https://fr.wikipedia.org/wiki/Monnaie_fondante
+- https://fr.wikipedia.org/wiki/%C3%89conomie_libre
+
+Sur les relations entre consommation, écologie et crypto : 
+- https://app.wallabag.it/share/64e5b408043f56.08463016
+- https://www.nextinpact.com/article/72029/ia-crypto-monnaie-publicite-chiffrement-lusage-numerique-face-a-son-empreinte-ecologique
+
+Sur les consensus de validation de blockchain :
+
+- https://academy.binance.com/fr/articles/proof-of-authority-explained?hide=stickyBar
+- https://github.com/P2Enjoy/proof-of-consensus
+- https://www.geeksforgeeks.org/proof-of-stake-pos-in-blockchain/?ref=lbp
+- https://www.geeksforgeeks.org/
