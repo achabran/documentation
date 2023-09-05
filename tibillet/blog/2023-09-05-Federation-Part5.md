@@ -166,7 +166,7 @@ Nous ne souhaitons pas **un** Fedow pour contrôler un actif financier, mais **d
 
 Nous sommes une société coopérative d'intérêt collectif, et nous invitons tous les acteurs de TiBillet à devenir sociétaires pour décider ensemble de l'évolution du projet.
 
-Nous sommes [CodeCommun.Coop](CodeCommun.Coop), Venez [discuter](https://discord.gg/ecb5jtP7vY) avec nous !
+Nous sommes [CodeCommun.Coop](https://codecommun.coop), Venez [discuter](https://discord.gg/ecb5jtP7vY) avec nous !
 
 ### Projet construit, financé et testé avec le soutien de :
 
