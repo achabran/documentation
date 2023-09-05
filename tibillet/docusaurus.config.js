@@ -42,8 +42,11 @@ const config = {
                 },
                 blog: {
                     showReadingTime: true,
-                    // Please change this to your repo.
-                    // Remove this to remove the "edit this page" links.
+                    blogTitle: 'TiBillet, le blog.',
+                    blogDescription: 'Le blog de TiBillet, l\'événementiel coopératif.',
+                    postsPerPage: 'ALL',
+                    blogSidebarTitle: 'All posts',
+                    blogSidebarCount: 'ALL',
                     editUrl:
                         'https://github.com/TiBillet/documentation/tree/main/tibillet/',
                 },

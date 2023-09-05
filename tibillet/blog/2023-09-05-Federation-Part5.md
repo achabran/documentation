@@ -1,6 +1,6 @@
 ---
 slug: federation-part5-fedow
-title: FEDOW
+title: Fédération 5 - FEDOW
 authors: jonas
 wiktags: [ cashless, fédération, portefeuille, wallet, coopérative, scic, code commun, tibillet, design ]
 image: /img/federons/fedow_logo.jpg
@@ -8,7 +8,6 @@ description: Fédérons TiBillet, cinquième partie. Open wallet, blockchain, é
 ---
 
 ![/img/federons/fedow_logo.jpg](/img/federons/fedow_logo.jpg)
-
 
 # TiBillet/FEDOW : **FED**erated and **O**pen **W**allet.
 

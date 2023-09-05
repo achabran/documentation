@@ -9,10 +9,10 @@ description: Installation d'un serveur cashless.
 
 ![/img/federons/decollage.jpg](/img/federons/decollage.jpg)
 
-:::
-Juillet 2023 : Le cashless est en plein migration d'un Django 2.2 vers un 4.2. Le dépot libre n'est pas complètement a
-jour, contactez
-nous si vous voulez faire une installation.
+:::note
+Juillet 2023 : 
+Le cashless est en pleine migration d'un Django 2.2 vers un 4.2. Le dépot libre n'est pas complètement a
+jour, [contactez nous](https://discord.gg/ecb5jtP7vY) si vous voulez faire une installation.
 :::
 
 Nous allons détailler ici la préparation d'un serveur sous VPS pour acceuillir la solution de caisse TiBillet.
