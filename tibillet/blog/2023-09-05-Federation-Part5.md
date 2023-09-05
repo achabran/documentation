@@ -202,4 +202,4 @@ Sur les consensus de validation de blockchain :
 - https://academy.binance.com/fr/articles/proof-of-authority-explained?hide=stickyBar
 - https://github.com/P2Enjoy/proof-of-consensus
 - https://www.geeksforgeeks.org/proof-of-stake-pos-in-blockchain/?ref=lbp
-- https://www.geeksforgeeks.org/
+- https://www.geeksforgeeks.org/delegated-proof-of-stake/?ref=lbp
