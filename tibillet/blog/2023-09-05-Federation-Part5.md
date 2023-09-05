@@ -21,7 +21,7 @@ S'intégrant aux outils [TiBillet](https://tibillet.org) il permet l'utilisation
 
 Enfin, Fedow intègre des principes de [monnaie fondantes](https://fr.wikipedia.org/wiki/Monnaie_fondante) dans une chaine de block par preuve d'autorité, transparente, non spéculative et non énergivore.
 
-## Code source publié en AGPLv3 :
+## Code source et documentation technique publiés sous licence AGPLv3 :
 
 [https://github.com/TiBillet/Fedow](https://github.com/TiBillet/Fedow)
 
