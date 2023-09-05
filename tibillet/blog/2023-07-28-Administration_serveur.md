@@ -165,8 +165,3 @@ docker compose exec cashless_django python manage.py migrate
 docker compose exec cashless_django python manage.py popdb
 ```
 
-```
-
-```shell
-
-```

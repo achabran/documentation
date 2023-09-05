@@ -13,7 +13,7 @@ draft: true
 ## La carte TiBillet
 
 A l'origine du projet TiBillet, il y a le Manapany Festival et l'association organisatrice : Les 3Peaks.
-Nous étions une bande de joyeux et joyeuses bidouilleur.ses.s et développeur.ses.s bénévoles. Nous avions décidé de
+Nous étions une bande de joyeux.ses bidouilleur.ses.s et développeur.ses.s bénévoles. Nous avions décidé de
 créer nos propres outils numériques principalement pour une raison : nous avions envie d'apprendre à le faire nous
 même :)
 
@@ -41,4 +41,4 @@ Aujourd'hui ( Juin 2023 ), après 6 ans de développement, la carte TiBilet perm
   - En euro recahrgeable en ligne et/ou sur place.
   - En points cadeau, dans le but de comptabiliser les ventes offertes.
   - En monnaie temps, pour une valorisation du bénévolat.
-* Système de prise de commande
+- Système de prise de commande avec impréssion de ticket en cuisine.
