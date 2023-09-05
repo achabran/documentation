@@ -5,7 +5,6 @@ authors: jonas
 wiktags: [ cashless, fédération, portefeuille, wallet, coopérative, scic, code commun, tibillet ]
 image: /img/federons/04-start_fede_notitle.png
 description: Fédérons TiBillet, troisième partie.
-draft: true
 ---
 
 ![/img/federons/04-start_fede_notitle.png](/img/federons/04-start_fede_notitle.png)
