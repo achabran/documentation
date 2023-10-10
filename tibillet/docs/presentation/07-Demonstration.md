@@ -19,13 +19,15 @@ pas à nous contacter sur [Discord](https://discord.gg/ecb5jtP7vY).
 
 ### Billetterie ( nighty build ) :
 
-#### Meta (Recense tous les évènements du réseau.):
+
+#### Tenant (une instance solo, un lieu, un organisateur, un artiste) :
+
+**[https://demo.betabillet.tech](https://demo.betabillet.tech)**
+
+#### Agenda (Recense tous les évènements du réseau):
 
 **[https://agenda.betabillet.tech](https://agenda.betabillet.tech)**
 
-#### Tenant (une instance solo) :
-
-**[https://demo.betabillet.tech](https://demo.betabillet.tech)**
 
 Administration : **[https://demo.betabillet.tech/admin](https://demo.betabillet.tech/admin)**
 
