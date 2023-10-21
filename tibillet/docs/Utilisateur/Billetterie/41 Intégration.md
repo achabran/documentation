@@ -22,13 +22,12 @@ Exemple :
 - lien embed : https://demo.betabillet.tech/event/embed/concert-sly-sugar-090626-2114/
 
 ```html title="iframe"
-
 <iframe src="https://demo.betabillet.tech/event/embed/concert-sly-sugar-090626-2114/" width="100%" height="1000px"
         frameborder="0"></iframe>
 ```
 
-<iframe src="https://demo.betabillet.tech/event/embed/concert-sly-sugar-090626-2114/" width="100%" height="1000px" frameborder="0"></iframe>
-
+<iframe src="https://demo.betabillet.tech/event/embed/concert-sly-sugar-090626-2114/" width="100%" height="1000px"
+        frameborder="0"></iframe>
 
 <details>
 <summary>Documentation technique</summary>

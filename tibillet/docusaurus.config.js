@@ -93,7 +93,7 @@ const config = {
                         label: 'GitHub',
                         position: 'right',
                     },
-                    {to: '/blog', label: 'Blog', position: 'left'},
+                    {to: 'https://codecommun.coop/blog/', label: 'Blog', position: 'left'},
 
                 ],
             },
@@ -132,7 +132,7 @@ const config = {
                         items: [
                             {
                                 label: 'Blog',
-                                to: '/blog',
+                                to: 'https://codecommun.coop/blog/',
                             },
                             {
                                 label: 'GitHub',
