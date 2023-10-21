@@ -13,15 +13,15 @@ authors: Jonas
 Vous pouvez intégrer la billetterie à votre site web en utilisant une balise iframe en modifiant la route adéquate.      
 
 Exemple : 
-- lien de l'évènenement : https://demo.betabillet.tech/event/esbjorn-svensson-trio-080223-1830/
-- lien embed : https://demo.betabillet.tech/event/embed/esbjorn-svensson-trio-080223-1830/
+- lien de l'évènenement : https://demo.betabillet.tech/event/concert-sly-sugar-090626-2114/
+- lien embed : https://demo.betabillet.tech/event/embed/concert-sly-sugar-090626-2114/
 
 
 Exemple : 
-- lien embed : https://demo.betabillet.tech/event/embed/esbjorn-svensson-trio-080223-1830/
+- lien embed : https://demo.betabillet.tech/event/embed/concert-sly-sugar-090626-2114/
 
 ```html title="iframe"
-<iframe src="https://demo.betabillet.tech/event/embed/esbjorn-svensson-trio-080223-1830/" width="100%" height="1000px" frameborder="0"></iframe>
+<iframe src="https://demo.betabillet.tech/event/embed/concert-sly-sugar-090626-2114/" width="100%" height="1000px" frameborder="0"></iframe>
 ```
 
 <iframe src="https://demo.betabillet.tech/event/embed/esbjorn-svensson-trio-080223-1830/" width="100%" height="1000px" frameborder="0"></iframe>
