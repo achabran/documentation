@@ -122,9 +122,13 @@ const config = {
                                 href: 'https://discord.gg/7FJvtYx',
                             },
                             {
-                                label: 'Communecter',
-                                href: 'https://www.communecter.org/#@Tibillet',
+                                label: 'Rocket Chat',
+                                href: 'https://chat.communecter.org/channel/Tibillet/',
                             },
+                            {
+                                label: 'Mail',
+                                href : 'mailto:contact@tibillet.re',
+                            }
                         ],
                     },
                     {

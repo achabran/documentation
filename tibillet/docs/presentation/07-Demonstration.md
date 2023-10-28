@@ -11,14 +11,15 @@ authors: jonas
 
 :::warning
 Le développement de TiBillet est trés actif. Les instances de démonstrations sont des "nighty build", c'est a dire des
-versions de développement. Il se peut aussi que les instances soient en maintenance. Si vous avez des questions, n'hésitez
-pas à nous contacter sur [Discord](https://discord.gg/ecb5jtP7vY).
+versions de développement. Il se peut aussi que les instances soient en maintenance. Si vous avez des questions,
+n'hésitez pas à nous contacter par [mail](mailto:contact@tibillet.re),
+sur [Rocket Chat](https://chat.communecter.org/channel/Tibillet/) ou sur [Discord](https://discord.gg/ecb5jtP7vY) si
+vous avez la moindre question.
 :::
 
 # Démonstration
 
 ### Billetterie ( nighty build ) :
-
 
 #### Tenant (une instance solo, un lieu, un organisateur, un artiste) :
 
@@ -28,25 +29,23 @@ pas à nous contacter sur [Discord](https://discord.gg/ecb5jtP7vY).
 
 **[https://agenda.betabillet.tech](https://agenda.betabillet.tech)**
 
-
-Administration : **[https://demo.betabillet.tech/admin](https://demo.betabillet.tech/admin)**
-
-    login : adminou@tibillet.re
-    password : miaoumiaou
-
 Pour tester le paiement sur Stripe, utilisez la carte du plus grand routard galactique :
 
     Douglas ADAM        
     4242 4242 4242 4242 
     02/42 / 424
 
-### Cashless ( nighty build ) :
+### Caisse enregistreuse / Cashless / Monnaie locale ( nighty build ) :
 
-administration :
+#### administration :
 
 **[https://cashless.betabillet.tech](https://cashless.betabillet.tech)**
 
-    login : adminou
-    password : miaoumiaou
+    login : TestAdmin
+    password : mi5Iechi
 
-Pour tester l'application ( Pi ou Android ), cliquez sur " voir le site " tout en haut du menu.
+#### Interface de caisse :
+
+Cliquez sur " voir le site " tout en haut du menu, ou visitez
+**[https://cashless.betabillet.tech/wv/](https://cashless.betabillet.tech/wv/)** après vous être loggué.
+
