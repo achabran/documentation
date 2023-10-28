@@ -3,14 +3,14 @@ sidebar_position: 4
 slug: demonstration
 title: Démonstration
 description: Instance de démonstration.
-image: https://tibillet.org/img/logoTibMJ4300.png
+image: /img/demo/maq2-420.jpg
 keywords: [ cashless, billetterie, ticketing ]
 wiktags: [ cashless, billetterie, ticketing ]
 authors: jonas
 ---
 
-:::warning
-Le développement de TiBillet est trés actif. Les instances de démonstrations sont des "nighty build", c'est a dire des
+:::caution
+Le développement de TiBillet est trés actif. Ces instances de démonstrations sont des "nighty build", c'est à dire des
 versions de développement. Il se peut aussi que les instances soient en maintenance. Si vous avez des questions,
 n'hésitez pas à nous contacter par [mail](mailto:contact@tibillet.re),
 sur [Rocket Chat](https://chat.communecter.org/channel/Tibillet/) ou sur [Discord](https://discord.gg/ecb5jtP7vY) si
@@ -20,6 +20,9 @@ vous avez la moindre question.
 # Démonstration
 
 ### Billetterie ( nighty build ) :
+
+![BilletDemo1.jpg](/img/demo/BilletDemo1.jpg)
+
 
 #### Tenant (une instance solo, un lieu, un organisateur, un artiste) :
 
@@ -36,6 +39,8 @@ Pour tester le paiement sur Stripe, utilisez la carte du plus grand routard gala
     02/42 / 424
 
 ### Caisse enregistreuse / Cashless / Monnaie locale ( nighty build ) :
+
+![maq2-420.jpg](/img/demo/maq2-420.jpg)
 
 #### administration :
 
