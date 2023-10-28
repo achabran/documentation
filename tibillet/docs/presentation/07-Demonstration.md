@@ -2,10 +2,10 @@
 sidebar_position: 4
 slug: demonstration
 title: Démonstration
-description: Instance de démonstration.
+description: Instances de démonstration de la billetterie ( TiBillet/Event ) et de la caisse enregistreuse ( TiBillet/LaBoutik ) qui accepte les paiements en monnaie locale et/ou en cashless, et qui permet de gérer les commandes de buvette et de restauration.
 image: /img/demo/maq2-420.jpg
-keywords: [ cashless, billetterie, ticketing ]
-wiktags: [ cashless, billetterie, ticketing ]
+keywords: [ cashless, billetterie, ticketing, monnaie locale, caisse enregistreuse, démonstration, festival, tiers-lieux ]
+tags: [ cashless, billetterie, ticketing, monnaie locale, caisse enregistreuse, démonstration, festival, tiers-lieux ]
 authors: jonas
 ---
 
