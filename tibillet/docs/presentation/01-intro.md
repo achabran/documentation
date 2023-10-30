@@ -5,13 +5,13 @@ title: Introduction
 description: Système de paiement sans contact, zéro espèce (cashless), de gestion d'évènement, de gestion de salle de restauration, d'engagement associatif et d'achat de billets en ligne … mais pas uniquement !
 image: https://tibillet.org/img/logoTibMJ4300.png
 keywords: [ cashless, billetterie, ticketing ]
-wiktags: [ cashless, billetterie, ticketing ]
+tags: [ cashless, billetterie, ticketing ]
 authors: jonas
 ---
 
 # Introduction
 
-TiBillet est une solution d'adhésion associative, de reservation et billetterie en ligne,
+TiBillet est une solution de paiement, d'adhésion associative, de reservation et billetterie en ligne,
 de gestion de monnaie temps et monnaie locale,
 de cashless de festival et de gestion de prise de commande pour buvette et salle de restauration.
 
@@ -19,19 +19,15 @@ L'idée générale est d'élargir le champ d'action d'une carte d'adhésion et/o
 de lieux et de festivals pour la création d'un réseau coopératif.
 
 La plateforme vise à encourager la circulation des publics et la coopération entre les différents acteurs d'un
-territoire tels que les
-tiers-lieux, les créateurs associatifs,
-les festivals, les artistes, les artisans et les développeurs informatiques d'outils libres.
+territoire tels que les tiers-lieux, les associations, les festivals, les artistes, les artisans et les développeurs informatiques d'outils libres.
 
 Les utilisateurs disposent d'une carte NFC valable dans tout le réseau TiBillet, sans frais d'abonnement ni de
-rechargement,
-qui permet de gérer et d'associer les adhésions associatives, les abonnements, des monnaies temps, locales et/ou libres
+rechargement, qui permet de gérer et d'associer les adhésions associatives, les abonnements, des monnaies temps, locales et/ou libres
 et fédérées à plusieurs lieux.
 
-Enfin, TiBillet est un logiciel libre développé et soutenu par la coopérative numérique **[Code Commun](https://codecommun.co)**.
-Utiliser TiBillet, c'est intégrer un réseau solidaire et dynamique qui vous accompagne dans votre projet culturel tout
-en faisant partie de la création d'une économie alternative basée sur la coopération et la
-solidarité.
+Enfin, TiBillet est un logiciel libre développé par la société coopérative d'interet communn (SCIC) : **[Code Commun](https://codecommun.coop)**.
+
+Utiliser TiBillet, c'est intégrer un réseau d'économie sociale et solidaire qui vous accompagne de A à Z.
 
 ## Pourquoi faire ?
 
