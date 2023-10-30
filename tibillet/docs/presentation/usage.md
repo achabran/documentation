@@ -3,7 +3,7 @@ sidebar_position: 2
 slug: usages
 title: Usages
 description: Système de paiement sans contact, zéro espèce (cashless), de gestion d'évènement, de gestion de salle de restauration, d'engagement associatif et d'achat de billets en ligne … mais pas uniquement !
-image: https://tibillet.org/img/logoTibMJ4300.png
+image: /img/demo/BoitierRaff.jpg
 keywords: [ cashless, billetterie, ticketing, caisse enregistreuse, prise de commandes, paiement dématérialisé, monnaies locales, monnaies temps, logiciel libre, open source, coopérative ]
 tags: [ cashless, billetterie, ticketing, caisse enregistreuse, prise de commandes, paiement dématérialisé, monnaies locales, monnaies temps, logiciel libre, open source, coopérative ]
 ---
