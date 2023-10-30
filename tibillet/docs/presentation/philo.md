@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 7
 slug: philosophie
 title: Philosophie
 description: Nous apportons une solution de cashless, de billetterie et de gestion de salle de restaurant pour les petites structures oubliées des grandes entreprises

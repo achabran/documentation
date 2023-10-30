@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 10
 slug: tarifs
 title: Tarifs, conditions et licences
 authors: jonas
