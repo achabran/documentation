@@ -81,6 +81,7 @@ Les check non cochés sont prévus et en cours de développement :
 - [ ] Gestion planning bénévole <-> NOE
 - [ ] Gestion financement de projet ( cf crowdfunding )
 - [ ] Liaison co-remuneration <-> OCECOv2
+- [ ] Liaison budget contributif (Loot)
 
 ## Fédération
 
