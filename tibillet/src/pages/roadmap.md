@@ -13,7 +13,7 @@ Les check non cochés sont prévus et en cours de développement :
 
 ## Point de vente : 
 
-- [x] Points de vente et caisses enregistreuse.
+- [x] Points de vente et caisse enregistreuse espèce, carte bancaire et cashless.
 - [x] Application Android
 - [x] Boitier tactile
 - [x] Ticket Z
@@ -30,11 +30,11 @@ Les check non cochés sont prévus et en cours de développement :
     - [ ] Tireuse à bière autonome
 - [ ] TPE Carte bancaire
 - [ ] Gestion des stocks
-- [ ] Plan DIY en open hardware
-- [ ] caisse enregistreuse espèce
+- [x] Plan DIY en open hardware
 - [ ] Export compta Odoo & Dokos
 - [ ] Balance connecté / vente de vrac
 - [ ] Vente en ligne, Click & Collect
+- [x] Cashback cashless
 
 ## Gestion de prise de commande pour restauration
 
@@ -52,7 +52,8 @@ Les check non cochés sont prévus et en cours de développement :
 - [x] Carte de fidélité
 - [x] Paiement récurrent mensuel et annuel
 - [x] Export Odoo
-- [x] Carte NFC et Badgde 
+- [x] Carte NFC pour info adhésion / abonnement
+- [ ] Badgdeuse entrée/sortie 
 - [ ] Cowdfunding, Don Tips
 - [ ] Newsletter & blog ( Ghost )
 - [ ] Export Dokos
@@ -62,11 +63,13 @@ Les check non cochés sont prévus et en cours de développement :
 - [x] Site web "Landing Page"
 - [x] Vente de billet en ligne
 - [x] Reservation gratuite
+- [x] Prix préférentiel lié à un abonnement ou une adhésion
 - [x] Agenda culturel fédéré
 - [x] Webhook
 - [x] Intégration site extérieur (iframe)
 - [ ] Agenda participatif
 - [ ] Reservation avec validation préalable
+- [ ] Reservation d'espaces (co-working)
 - [ ] Co-voiturage
 - [ ] Aggregateur d'évènement extérieur sur un territoire (Facebook, Fediverse, etc ..)
 
@@ -79,14 +82,9 @@ Les check non cochés sont prévus et en cours de développement :
 - [ ] Gestion financement de projet ( cf crowdfunding )
 - [ ] Liaison co-remuneration <-> OCECOv2
 
-## Sur mesure : CodeCommun.Co
+## Fédération
 
-- [x] Soutient technique de l'équipe SS2L "CodeCommun.Co"
-- [x] Installation 
-- [x] Formations
-- [x] Mises à jour à vie
-- [x] Ingénieurie logicielle et conception sur mesure
-- [x] Conception graphique, création de site web et référencement
-- [x] Aide à l'installation d'autres logiciels libres :
-    - [x] Odoo, Nextcloud, Ghost, Mattermost, Outlines, etc ... Libérez votre struture !
-
+- [x] Une instance de cashless pour plusieurs lieux
+- [x] Une monnaie fédérée avec Stripe Connect
+- [x] Abonnement pour plusieurs lieux
+- [ ] Badge inter lieux
