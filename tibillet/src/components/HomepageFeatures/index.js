@@ -8,8 +8,8 @@ const FeatureList = [
         Svg: require('@site/static/img/undraw_report_re_f5n5.svg').default,
         description: (
             <>
-                Une suite d'applications pour gérer l'évenementiel éthique :
-                Adhésion, billetterie, cashless, monnaie temps, gestion de buvette et de restauration.
+                Une suite d'applications libres pour la gestion de votre lieu social et solidaire :
+                Caisse enregistreuse, adhésion, billetterie, cashless, monnaie temps, prise de commande et gestion de salle.
             </>
         ),
     },
@@ -18,8 +18,8 @@ const FeatureList = [
         Svg: require('@site/static/img/undraw_world_re_768g.svg').default,
         description: (
             <>
-                TiBillet met en relation artistes, organisateurs, publics et institutions.
-                Un seul outil pour toute la fillière culturelle.
+                TiBillet met en relation organisateurs, publics et institutions.
+                Un seul outil pour toute une fillière et tout un territoire : nous intéropérons plus que nos logiciels.
             </>
         ),
     },
@@ -58,7 +58,7 @@ const FeatureList = [
         Svg: require('@site/static/img/undraw_compose_music_re_wpiw.svg').default,
         description: (
             <>
-                TiBillet est fabriqué pour et par des associations culturelles ! Tiers-lieux, FabLab, venez nous voir sur l'île de la Réunion :)
+                TiBillet est fabriqué pour et par des associations culturelles. Tiers-lieux, FabLab, festivals, collectifs, associations, rejoignez un réseau ou créez le votre !
             </>
         ),
     },
