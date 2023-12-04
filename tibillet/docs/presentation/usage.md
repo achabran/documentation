@@ -74,6 +74,7 @@ La combinaison de tous ces outils permet de créer des usages innovants et de no
 - Virement en monnaie locale de compte utilisateur à compte utilisateur
 - Carte pass culturel pour les jeunes
 - Carte d'accès limité à x passages (cinéma, salle de sport, théatre, etc ..)
+- Badgeuse de temps pour ouverture de lieu à l'heure (fablab', salle de réunion, studio de répétition, etc ..)
 - Carte de paiement pour banque alimentaire pour article fléché avec des prix spéciaux
 - Tarifs réduit si paiement en monnaie locale,
 - etc etc ....
