@@ -73,7 +73,7 @@ La combinaison de tous ces outils permet de créer des usages innovants et de no
 - Fédération de co-working et carte d'abonnement partagée
 - Virement en monnaie locale de compte utilisateur à compte utilisateur
 - Carte pass culturel pour les jeunes
-- Carte d'accès limité à x passages
+- Carte d'accès limité à x passages (cinéma, salle de sport, théatre, etc ..)
 - Carte de paiement pour banque alimentaire pour article fléché avec des prix spéciaux
 - Tarifs réduit si paiement en monnaie locale,
 - etc etc ....
