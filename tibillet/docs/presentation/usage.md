@@ -23,7 +23,7 @@ valoriser votre bénévolat.
 
 ![caisse1](/img/demo/cartes.jpg)
 
-## Gestion d'adhésion
+## Gestion d'adhésion et valorisation de bénévolat
 
 Paiement en ligne, renouvellement automatique, gestion de cotisation, gestion du portefeuille de monnaie temps.
 Abonnement commun à plusieurs lieux, fédération d'associations.
@@ -39,7 +39,7 @@ Abonnement commun à plusieurs lieux, fédération d'associations.
 - Un évènement gratuit mais avec une recharge cashless obligatoire.
 - Location et reservation à l'heure de salle type coworking
 
-- ![billet](/img/demo/BilletDemo1.jpg)
+![billet](/img/demo/BilletDemo1.jpg)
 
 ## Agenda fédéré
 
@@ -63,3 +63,19 @@ Blockchain multi asset, gestion de carte cashless pour plusieurs sites et/lieux
 Paiement par QRCode. Echange de token entre wallets privés.
 
 
+## Mais aussi :
+
+La combinaison de tous ces outils permet de créer des usages innovants et de nouvelles formes de coopération :
+
+- Carte de fidélité pour commerce de proximité en monnaie locale
+- Partage de monnaie temps entre particulier
+- Gestion de taux de change entre euro et monnaie locale
+- Fédération de co-working et carte d'abonnement partagée
+- Virement en monnaie locale de compte utilisateur à compte utilisateur
+- Carte pass culturel pour les jeunes
+- Carte d'accès limité à x passages
+- Carte de paiement pour banque alimentaire pour article fléché avec des prix spéciaux
+- Tarifs réduit si paiement en monnaie locale,
+- etc etc ....
+
+Et je suis sur que vous avez une super idée à nous présenter auquel nous n'avons pas pensé, venez discuter avec nous !
