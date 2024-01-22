@@ -26,9 +26,16 @@ const config = {
     // to replace "en" with "zh-Hans".
     i18n: {
         defaultLocale: 'fr',
-        locales: ['fr'],
+        locales: ['fr', 'en'],
+        localeConfigs: {
+            fr: {
+                htmlLang: 'fr-FR',
+            },
+            en: {
+                htmlLang: 'en-US',
+            },
+        },
     },
-
     presets: [
         [
             'classic',
@@ -89,6 +96,10 @@ const config = {
                         label: 'API',
                     },
                     {
+                        type: 'localeDropdown',
+                        position: 'right',
+                    },
+                    {
                         href: 'https://github.com/TiBillet',
                         label: 'GitHub',
                         position: 'right',
@@ -127,7 +138,7 @@ const config = {
                             },
                             {
                                 label: 'Mail',
-                                href : 'mailto:contact@tibillet.re',
+                                href: 'mailto:contact@tibillet.re',
                             }
                         ],
                     },
