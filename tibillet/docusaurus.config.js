@@ -153,6 +153,10 @@ const config = {
                                 label: 'GitHub',
                                 href: 'https://github.com/TiBillet',
                             },
+                            {
+                                label: 'CGU/CGV',
+                                to: '/cgucgv',
+                            },
                         ],
                     },
                 ],
