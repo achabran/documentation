@@ -31,7 +31,7 @@ list, etc ... ), et régulièrement, nous invitons tout au long de l'année les 
 
 Seule condition : pour financer les activités de la coopérative et la maintenance du réseau, nous ré-injectons une
 partie de l'argent sur
-les porteufeuilles qui sont inactifs depuis plus d'un an.
+les portefeuilles qui sont inactifs depuis plus d'un an.
 
 Enfin, si vous le souhaitez, nous vous inviterons à entrer en sociétariat dans la coopérative pour que vous fassiez
 partie intégrante du projet TiBillet et de tout son réseau.
